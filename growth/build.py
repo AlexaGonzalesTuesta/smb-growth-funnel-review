@@ -22,6 +22,29 @@ def _clean(obj):
     return obj
 
 
+def seller_book_table(book):
+    """One row per active seller on the snapshot date: the data source for the Tableau Public dashboard."""
+    import pandas as pd
+    return pd.DataFrame({
+        "Seller ID": "S-" + book.seller_id.str[:6].str.upper(),
+        "State Code": book.seller_state,
+        "State Name": book.seller_state.map(regions.STATE_NAMES_PT),
+        "Country": "Brazil",
+        "City": book.seller_city.str.title(),
+        "Main Category": book.category.str.replace("_", " ").str.capitalize(),
+        "GMV Last 16 Weeks": book.gmv_last16w.round(2),
+        "Orders Last 4 Weeks": book.orders_last4w,
+        "Orders Prior 12 Weeks": book.orders_prior12w,
+        "Days Since Last Sale": book.days_since_last_sale,
+        "Weeks Active Of Last 16": book.weeks_active16,
+        "Risk Score": book.risk.round(4),
+        "Flagged": book.flagged.map({True: "Yes", False: "No"}),
+        "Main Reason": book.reason,
+        "Went Dark": book.went_dark.map({True: "Yes", False: "No"}),
+        "GMV Next 60 Days": book.gmv_next.round(2),
+    })
+
+
 def run() -> dict:
     con = db.connect()
     lf = funnel.lead_funnel(con)
@@ -74,6 +97,7 @@ def run() -> dict:
     config.TABLEAU.mkdir(parents=True, exist_ok=True)
     import pandas as pd
     regions.tableau_table(states).to_csv(config.TABLEAU / "state_book.csv", index=False, encoding="utf-8-sig")
+    seller_book_table(book).to_csv(config.TABLEAU / "seller_book.csv", index=False, encoding="utf-8-sig")
     pd.DataFrame([{k: v for k, v in c.items() if k != "act_ci"} for c in channels]).to_csv(
         config.TABLEAU / "funnel_by_channel.csv", index=False)
     pd.DataFrame(at_risk).to_csv(config.TABLEAU / "at_risk_sellers.csv", index=False)

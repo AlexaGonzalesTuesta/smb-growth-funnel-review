@@ -203,9 +203,10 @@ table.data th[aria-sort=ascending] button::after { content: " \2191"; }
 .map-legend .ramp { display: flex; }
 .map-legend .ramp i { width: 28px; height: 10px; display: block; }
 .map-legend .few-key { width: 14px; height: 14px; display: inline-block; background: repeating-linear-gradient(135deg, #F2F4F5 0 4px, #E4E8EB 4px 5px); border: 1px solid var(--rule); vertical-align: middle; }
-.tableau { margin-top: 22px; border-top: 1px solid var(--rule-soft); padding-top: 16px; }
-.tableau h3 { font-size: 15px; margin: 0 0 10px; }
-.tableau iframe { width: 100%; height: 720px; border: 1px solid var(--rule-soft); }
+.tableau-head { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.tableau-frame { border: 1px solid var(--rule-soft); border-radius: var(--radius); min-height: 200px; }
+.tableau-frame p { padding: 16px; margin: 0; }
+.tableau-frame iframe { display: block; width: 100%; height: 780px; border: 0; }
 
 /* risk */
 .risk-head { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: flex-start; }

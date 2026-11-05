@@ -1,0 +1,916 @@
+﻿Seller ID,State Code,State Name,Country,City,Main Category,GMV Last 16 Weeks,Orders Last 4 Weeks,Orders Prior 12 Weeks,Days Since Last Sale,Weeks Active Of Last 16,Risk Score,Flagged,Main Reason,Went Dark,GMV Next 60 Days
+S-FFDD9F,PR,Paraná,Brazil,Curitiba,Housewares,453.2,0,4,29,3,0.5613,Yes,Sold in only 3 of the last 16 weeks,No,197.8
+S-1F8673,PR,Paraná,Brazil,Curitiba,Housewares,91.48,1,2,28,3,0.4776,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-ACADD4,SP,São Paulo,Brazil,Santa Rosa De Viterbo,Garden tools,734.0,0,5,29,3,0.4693,Yes,Sold in only 3 of the last 16 weeks,No,1331.0
+S-D1B9D4,MG,Minas Gerais,Brazil,Nova Lima,Furniture decor,400.21,1,2,27,3,0.4499,Yes,Sold in only 3 of the last 16 weeks,No,197.25
+S-167FD9,SP,São Paulo,Brazil,Franca,Auto,749.7,1,2,26,3,0.443,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-52956B,PR,Paraná,Brazil,Maringa,Perfumery,792.0,0,3,30,2,0.4349,Yes,Sold in only 2 of the last 16 weeks,Yes,0.0
+S-C9E5AD,RS,Rio Grande do Sul,Brazil,Porto Alegre,Agro industry and commerce,214.73,2,1,21,2,0.4318,Yes,Sold in only 2 of the last 16 weeks,Yes,0.0
+S-670A9D,SP,São Paulo,Brazil,Ribeirao Preto,Fashion bags accessories,389.5,2,3,24,3,0.4294,Yes,Sold in only 3 of the last 16 weeks,No,189.8
+S-BB135B,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,364.7,1,2,17,3,0.4275,Yes,Sold in only 3 of the last 16 weeks,No,45.0
+S-113052,MG,Minas Gerais,Brazil,Uba,Home confort,459.97,1,2,17,3,0.4228,Yes,Sold in only 3 of the last 16 weeks,No,749.93
+S-713E3A,PR,Paraná,Brazil,Curitiba,Baby,907.0,1,2,27,3,0.4121,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-76C47A,SP,São Paulo,Brazil,Ribeirao Preto,Health beauty,340.0,1,2,13,3,0.4044,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-232A60,SP,São Paulo,Brazil,Cafelandia,Pet shop,755.6,0,7,30,5,0.4024,Yes,Sold in only 5 of the last 16 weeks,No,338.0
+S-6806DA,PR,Paraná,Brazil,Guaratuba,Auto,421.0,1,2,25,3,0.3959,Yes,Sold in only 3 of the last 16 weeks,No,165.0
+S-E48CC1,SP,São Paulo,Brazil,Aracatuba,Computers accessories,299.97,1,2,16,3,0.3954,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-04ABA0,RJ,Rio de Janeiro,Brazil,Santo Antonio De Padua,Health beauty,653.9,1,3,22,4,0.3867,Yes,Sold in only 4 of the last 16 weeks,No,220.0
+S-2199E7,SP,São Paulo,Brazil,Registro,Furniture decor,461.0,1,4,26,5,0.386,Yes,Sold in only 5 of the last 16 weeks,No,152.0
+S-C0563D,SP,São Paulo,Brazil,Santo Andre,Cool stuff,699.4,1,5,21,4,0.3836,Yes,Sold in only 4 of the last 16 weeks,No,249.8
+S-20B54C,SP,São Paulo,Brazil,Sao Caetano Do Sul,Fixed telephony,488.45,1,3,15,3,0.3805,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-834F85,SP,São Paulo,Brazil,Sao Paulo,Pet shop,861.41,1,5,12,3,0.3781,Yes,Sold in only 3 of the last 16 weeks,No,749.61
+S-5B6645,RJ,Rio de Janeiro,Brazil,Petropolis,Construction tools construction,238.5,1,3,16,4,0.3745,Yes,Sold in only 4 of the last 16 weeks,No,139.8
+S-0B0DDB,SP,São Paulo,Brazil,Guarulhos,Auto,1416.76,1,2,26,3,0.362,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-C731D1,SC,Santa Catarina,Brazil,Concordia,La cuisine,822.0,1,2,11,3,0.3612,Yes,Sold in only 3 of the last 16 weeks,No,179.0
+S-C32FC7,SP,São Paulo,Brazil,Ribeirao Preto,Sports leisure,185.7,1,2,24,3,0.3606,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-C37B20,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,251.8,1,4,23,4,0.3499,Yes,Sold in only 4 of the last 16 weeks,No,39.0
+S-8F54D6,MG,Minas Gerais,Brazil,Ipatinga,Health beauty,989.05,0,5,29,5,0.3483,Yes,Sold in only 5 of the last 16 weeks,No,815.6
+S-588282,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Furniture decor,3139.8,2,3,18,4,0.3472,Yes,Sold in only 4 of the last 16 weeks,No,1450.0
+S-68F86B,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,332.8,1,3,18,4,0.3472,Yes,Sold in only 4 of the last 16 weeks,No,198.9
+S-C7FDB7,SP,São Paulo,Brazil,Santo Andre,Bed bath table,209.54,1,3,18,3,0.3466,Yes,Sold in only 3 of the last 16 weeks,No,42.44
+S-4EB61F,SP,São Paulo,Brazil,Sao Paulo,Home appliances 2,428.0,2,1,23,2,0.3462,Yes,Sold in only 2 of the last 16 weeks,No,885.0
+S-02F583,PR,Paraná,Brazil,Curitiba,Luggage accessories,347.97,2,1,22,2,0.3435,Yes,Sold in only 2 of the last 16 weeks,No,231.98
+S-D558EB,MG,Minas Gerais,Brazil,Divinopolis,Musical instruments,709.0,1,2,21,3,0.3421,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-D62412,PR,Paraná,Brazil,Curitiba,Auto,1000.3,1,3,18,4,0.3399,Yes,Sold in only 4 of the last 16 weeks,No,355.9
+S-128F9B,SP,São Paulo,Brazil,Atibaia,Health beauty,205.7,1,2,13,3,0.3388,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-02C988,SP,São Paulo,Brazil,Americana,Signaling and security,537.7,1,2,7,3,0.325,Yes,Sold in only 3 of the last 16 weeks,No,351.8
+S-2B1A40,MG,Minas Gerais,Brazil,Divinopolis,Auto,1327.94,2,1,14,3,0.3249,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-2CB6EB,MG,Minas Gerais,Brazil,Sabara,Furniture decor,875.2,1,2,18,3,0.3243,Yes,Sold in only 3 of the last 16 weeks,No,25.0
+S-20D83F,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,728.7,1,6,24,5,0.3229,Yes,Sold in only 5 of the last 16 weeks,No,259.5
+S-B566AB,MG,Minas Gerais,Brazil,Extrema,Health beauty,1128.0,1,3,26,4,0.3197,Yes,Sold in only 4 of the last 16 weeks,No,80.0
+S-6D988D,PR,Paraná,Brazil,Maringa,Housewares,75.8,1,3,2,3,0.3197,Yes,Sold in only 3 of the last 16 weeks,No,94.75
+S-BBA742,MG,Minas Gerais,Brazil,Betim,Sports leisure,909.91,0,5,30,5,0.3181,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-EDF96E,SP,São Paulo,Brazil,Sao Paulo,Electronics,689.0,1,2,5,3,0.3179,Yes,Sold in only 3 of the last 16 weeks,No,160.0
+S-26AF45,PR,Paraná,Brazil,Curitiba,Auto,249.6,1,4,20,4,0.3163,Yes,Sold in only 4 of the last 16 weeks,No,297.5
+S-0EBD97,MG,Minas Gerais,Brazil,Contagem,Fashion bags accessories,669.2,0,8,30,6,0.3138,Yes,Sold in only 6 of the last 16 weeks,No,49.9
+S-96493F,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,2430.0,1,6,25,5,0.3135,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-F1FD5A,PR,Paraná,Brazil,Curitiba,Luggage accessories,3011.0,1,4,27,5,0.3131,Yes,Sold in only 5 of the last 16 weeks,No,789.0
+S-FA3A0B,SP,São Paulo,Brazil,Sao Jose Dos Pinhais,Musical instruments,994.0,1,3,14,3,0.3131,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-4E0606,MG,Minas Gerais,Brazil,Betim,Perfumery,252.94,1,4,17,4,0.313,Yes,Sold in only 4 of the last 16 weeks,No,195.94
+S-2379BD,SP,São Paulo,Brazil,Mogi Mirim,Perfumery,474.8,1,2,16,3,0.3126,Yes,Sold in only 3 of the last 16 weeks,No,350.0
+S-E6A69C,SP,São Paulo,Brazil,Sao Paulo,Housewares,107.37,2,6,20,5,0.3123,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-0791D9,MG,Minas Gerais,Brazil,Belo Horizonte,Housewares,686.0,1,2,21,2,0.3115,Yes,Sold in only 2 of the last 16 weeks,No,156.0
+S-44073F,DF,Distrito Federal,Brazil,Brasilia,Health beauty,649.89,1,4,14,3,0.3111,Yes,Sold in only 3 of the last 16 weeks,No,258.59
+S-6F229C,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Sports leisure,1039.6,2,2,6,3,0.3105,Yes,Sold in only 3 of the last 16 weeks,No,1475.3
+S-9AC4F1,GO,Goiás,Brazil,Jaragua,Sports leisure,182.76,1,2,15,3,0.3088,Yes,Sold in only 3 of the last 16 weeks,No,86.25
+S-30A2F5,SP,São Paulo,Brazil,Santa Barbara D'Oeste,Furniture decor,389.4,1,3,18,4,0.3085,Yes,Sold in only 4 of the last 16 weeks,No,109.8
+S-9A03A4,SP,São Paulo,Brazil,Catanduva,Baby,1147.0,1,4,18,4,0.3083,Yes,Sold in only 4 of the last 16 weeks,No,200.0
+S-A425F9,PR,Paraná,Brazil,Curitiba,Furniture decor,300.4,2,1,19,3,0.3081,Yes,Sold in only 3 of the last 16 weeks,No,188.4
+S-BBF9AD,CE,Ceará,Brazil,Fortaleza,Health beauty,2256.0,1,3,7,4,0.3057,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-679769,MG,Minas Gerais,Brazil,Ipatinga,Health beauty,1047.0,1,2,2,3,0.3055,Yes,Sold in only 3 of the last 16 weeks,No,897.0
+S-6288C6,SP,São Paulo,Brazil,Santo Andre,Toys,355.94,3,3,18,4,0.3049,Yes,Sold in only 4 of the last 16 weeks,No,32.99
+S-7C1FEA,SP,São Paulo,Brazil,Boituva,Telephony,144.6,1,3,17,4,0.3036,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-D379F4,MG,Minas Gerais,Brazil,Divinopolis,Furniture decor,1490.9,1,5,18,5,0.3036,Yes,Sold in only 5 of the last 16 weeks,No,43.5
+S-7A2D29,PR,Paraná,Brazil,Curitiba,Pet shop,736.99,1,3,5,4,0.3028,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-850448,SP,São Paulo,Brazil,Osasco,Telephony,144.7,1,2,19,3,0.3024,Yes,Sold in only 3 of the last 16 weeks,No,95.9
+S-AD97A1,SC,Santa Catarina,Brazil,Brusque,Small appliances,3205.5,1,3,20,4,0.302,Yes,Sold in only 4 of the last 16 weeks,No,1942.3
+S-08D094,PR,Paraná,Brazil,Cascavel,Furniture decor,119.6,1,3,12,4,0.3008,Yes,Sold in only 4 of the last 16 weeks,No,56.8
+S-57DF98,MG,Minas Gerais,Brazil,Santa Rita Do Sapucai,Housewares,75.0,2,1,20,2,0.3002,Yes,Sold in only 2 of the last 16 weeks,No,50.0
+S-6FC26F,SP,São Paulo,Brazil,Fernandopolis,Furniture decor,262.99,2,3,15,4,0.3002,Yes,Sold in only 4 of the last 16 weeks,No,336.0
+S-353E21,RS,Rio Grande do Sul,Brazil,Canoas,Auto,156.0,1,2,14,3,0.2995,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-D9E7E7,SP,São Paulo,Brazil,Sao Paulo,Health beauty,554.6,2,6,22,4,0.2986,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-BBA329,SP,São Paulo,Brazil,Sao Paulo,Health beauty,2204.02,1,2,8,3,0.2964,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-B4A476,SP,São Paulo,Brazil,Itapevi,Electronics,863.0,1,3,4,3,0.2959,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-BE3B4B,PR,Paraná,Brazil,Imbituva,Housewares,578.2,1,2,22,3,0.2951,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-336127,PR,Paraná,Brazil,Maringa,Pet shop,606.66,1,5,26,6,0.2945,Yes,Sold in only 6 of the last 16 weeks,No,174.45
+S-822BAD,SC,Santa Catarina,Brazil,Balneario Camboriu,Telephony,2571.0,1,6,21,5,0.2943,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-4EBDC7,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,60.4,1,2,3,3,0.2942,Yes,Sold in only 3 of the last 16 weeks,No,25.0
+S-FE701D,RJ,Rio de Janeiro,Brazil,Marica,Fashion bags accessories,1169.3,0,7,30,6,0.2942,Yes,Sold in only 6 of the last 16 weeks,No,129.9
+S-0BB738,SP,São Paulo,Brazil,Sao Roque,Industry commerce and business,522.8,1,3,10,4,0.2931,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-9D7A1D,SP,São Paulo,Brazil,Franca,Stationery,241.97,2,1,11,3,0.293,Yes,Sold in only 3 of the last 16 weeks,No,34.78
+S-9AA388,MG,Minas Gerais,Brazil,Muriae,Bed bath table,276.0,1,2,16,3,0.2921,Yes,Sold in only 3 of the last 16 weeks,No,402.0
+S-0DFBED,SP,São Paulo,Brazil,Porto Ferreira,Baby,84.35,1,2,26,3,0.2919,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-700861,SC,Santa Catarina,Brazil,Canoinhas,Sports leisure,498.9,1,5,23,5,0.2887,Yes,Sold in only 5 of the last 16 weeks,No,127.9
+S-3AFC53,MG,Minas Gerais,Brazil,Belo Horizonte,Electronics,208.0,1,3,18,4,0.2884,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-AF7CDA,SP,São Paulo,Brazil,Laranjal Paulista,Toys,493.55,1,4,22,4,0.288,Yes,Sold in only 4 of the last 16 weeks,No,49.99
+S-2A1348,MG,Minas Gerais,Brazil,Belo Horizonte,Furniture decor,213.4,1,4,20,5,0.2878,Yes,Sold in only 5 of the last 16 weeks,No,43.9
+S-BCCF93,SP,São Paulo,Brazil,Assis,Health beauty,535.06,1,4,21,4,0.2877,Yes,Sold in only 4 of the last 16 weeks,No,331.79
+S-1F1BB1,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,4301.98,1,5,17,5,0.2856,Yes,Sold in only 5 of the last 16 weeks,No,1078.0
+S-BA6CE6,SP,São Paulo,Brazil,Sorocaba,Sports leisure,566.0,1,3,19,4,0.2854,Yes,Sold in only 4 of the last 16 weeks,No,59.45
+S-788E85,SP,São Paulo,Brazil,Sao Paulo,Stationery,330.0,1,2,22,2,0.2833,Yes,Sold in only 2 of the last 16 weeks,No,880.0
+S-514509,PR,Paraná,Brazil,Curitiba,Bed bath table,1459.6,1,3,21,4,0.2823,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-13D058,SP,São Paulo,Brazil,Osasco,Home appliances 2,469.97,2,1,11,3,0.2784,Yes,Sold in only 3 of the last 16 weeks,No,119.99
+S-BDAE67,DF,Distrito Federal,Brazil,Brasilia,Construction tools construction,405.96,1,2,9,3,0.2773,Yes,Sold in only 3 of the last 16 weeks,No,197.2
+S-307649,SP,São Paulo,Brazil,Auriflama,Furniture decor,126.64,1,2,21,3,0.2768,Yes,Sold in only 3 of the last 16 weeks,No,232.69
+S-4E7C18,SP,São Paulo,Brazil,Jaboticabal,Small appliances,306.0,2,1,16,3,0.2757,Yes,Sold in only 3 of the last 16 weeks,No,169.0
+S-2D2C62,SP,São Paulo,Brazil,Ribeirao Preto,Small appliances,1157.0,1,3,11,4,0.2726,Yes,Sold in only 4 of the last 16 weeks,No,1837.0
+S-D3674F,DF,Distrito Federal,Brazil,Brasilia,Perfumery,989.4,3,3,16,4,0.272,Yes,Sold in only 4 of the last 16 weeks,No,177.8
+S-BD697D,SP,São Paulo,Brazil,Sao Paulo,Auto,1139.93,1,6,10,5,0.2715,Yes,Sold in only 5 of the last 16 weeks,No,729.95
+S-D51E0A,SP,São Paulo,Brazil,Pompeia,Costruction tools garden,1150.0,1,2,3,3,0.2707,Yes,Sold in only 3 of the last 16 weeks,No,948.0
+S-BD1D49,SP,São Paulo,Brazil,Bauru,Health beauty,305.8,2,4,15,4,0.2701,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-F626E1,SP,São Paulo,Brazil,Marechal Candido Rondon,Drinks,109.95,1,2,9,3,0.2696,Yes,Sold in only 3 of the last 16 weeks,No,20.9
+S-3785B6,PR,Paraná,Brazil,Ampere,Housewares,323.9,1,3,11,4,0.2689,Yes,Sold in only 4 of the last 16 weeks,No,244.8
+S-4ABA39,BA,Bahia,Brazil,Arraial D'Ajuda (Porto Seguro),Sports leisure,782.99,1,3,5,4,0.267,Yes,Sold in only 4 of the last 16 weeks,No,382.0
+S-26D6BB,PR,Paraná,Brazil,Curitiba,Auto,86.77,2,2,19,3,0.2649,Yes,Sold in only 3 of the last 16 weeks,No,347.74
+S-0B64BC,RS,Rio Grande do Sul,Brazil,Canoas,Health beauty,101.7,1,2,13,3,0.2648,Yes,Sold in only 3 of the last 16 weeks,No,35.9
+S-439A47,SP,São Paulo,Brazil,Mogi Das Cruzes,Bed bath table,282.0,2,1,6,3,0.2641,Yes,Sold in only 3 of the last 16 weeks,No,416.0
+S-5A425C,PR,Paraná,Brazil,Londrina,Toys,479.59,2,3,22,3,0.2625,Yes,Sold in only 3 of the last 16 weeks,No,881.0
+S-52D765,RS,Rio Grande do Sul,Brazil,Novo Hamburgo,Industry commerce and business,5973.45,0,11,29,7,0.2612,Yes,No sale in 29 days,No,1569.79
+S-2BA91C,SP,São Paulo,Brazil,Itu,Pet shop,691.9,1,4,21,4,0.2598,Yes,Sold in only 4 of the last 16 weeks,No,48.5
+S-56642B,SP,São Paulo,Brazil,Sao Paulo,Health beauty,562.16,2,6,22,6,0.2584,Yes,Sold in only 6 of the last 16 weeks,No,146.48
+S-0D33A5,SP,São Paulo,Brazil,Sao Paulo,Books technical,254.0,1,9,28,6,0.2567,Yes,Sold in only 6 of the last 16 weeks,No,150.6
+S-430315,SP,São Paulo,Brazil,Sao Paulo,Housewares,280.5,1,4,26,5,0.2563,Yes,Sold in only 5 of the last 16 weeks,No,629.9
+S-977F9F,SP,São Paulo,Brazil,Tabatinga,Baby,1113.84,1,7,26,6,0.2559,Yes,Sold in only 6 of the last 16 weeks,No,646.53
+S-238FAC,SP,São Paulo,Brazil,Dois Corregos,Pet shop,951.0,2,7,22,5,0.2551,Yes,Sold in only 5 of the last 16 weeks,No,283.0
+S-7B1222,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Toys,1144.7,2,1,4,3,0.253,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-FF4E2D,SP,São Paulo,Brazil,Sao Paulo,Books technical,210.0,4,2,19,4,0.2517,Yes,Sold in only 4 of the last 16 weeks,No,104.9
+S-B3B17A,PR,Paraná,Brazil,Londrina,Auto,5457.0,1,4,21,5,0.2504,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-6EC1A0,SP,São Paulo,Brazil,Santos,Health beauty,1718.19,1,7,24,6,0.25,Yes,Sold in only 6 of the last 16 weeks,No,121.24
+S-3A4127,SP,São Paulo,Brazil,Sao Paulo,Telephony,1547.8,1,3,22,4,0.2492,Yes,Sold in only 4 of the last 16 weeks,No,294.9
+S-7DF1FC,MS,Mato Grosso do Sul,Brazil,Campo Grande,Auto,413.7,1,2,12,3,0.2491,Yes,Sold in only 3 of the last 16 weeks,No,623.9
+S-E70053,SP,São Paulo,Brazil,Sao Paulo,Telephony,2901.0,1,4,13,4,0.2482,Yes,Sold in only 4 of the last 16 weeks,No,789.0
+S-6C6E3D,PR,Paraná,Brazil,Maringa,Computers accessories,144.0,1,2,6,3,0.2482,Yes,Sold in only 3 of the last 16 weeks,No,80.0
+S-AAE5E7,PR,Paraná,Brazil,Sao Jose Dos Pinhas,Bed bath table,545.0,1,2,10,3,0.2477,Yes,Sold in only 3 of the last 16 weeks,No,59.8
+S-17F51E,SP,São Paulo,Brazil,Sao Paulo,Health beauty,5980.0,1,6,22,6,0.2471,Yes,Sold in only 6 of the last 16 weeks,No,3460.0
+S-8FF1A9,SP,São Paulo,Brazil,Marilia,Housewares,831.3,1,5,8,4,0.2468,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-97512D,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,763.92,1,6,26,5,0.2466,Yes,Sold in only 5 of the last 16 weeks,No,694.95
+S-C522BE,SP,São Paulo,Brazil,Santana De Parnaiba,Auto,429.96,1,3,22,4,0.2438,Yes,Sold in only 4 of the last 16 weeks,No,309.97
+S-5E105F,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Housewares,279.0,1,2,12,2,0.2427,Yes,Sold in only 2 of the last 16 weeks,No,1192.9
+S-F9244D,SP,São Paulo,Brazil,Sao Paulo,Small appliances,2439.96,2,2,5,4,0.2413,Yes,Sold in only 4 of the last 16 weeks,No,4109.98
+S-F97E2B,SP,São Paulo,Brazil,Santo Antonio De Posse,Pet shop,947.0,2,2,7,4,0.2402,Yes,Sold in only 4 of the last 16 weeks,No,970.0
+S-7F2617,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,1079.3,1,5,9,5,0.24,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-396986,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,288.58,1,4,16,5,0.2393,Yes,Sold in only 5 of the last 16 weeks,No,99.8
+S-E97299,RJ,Rio de Janeiro,Brazil,Petropolis,Garden tools,916.7,2,2,21,3,0.2393,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-F76A3B,SP,São Paulo,Brazil,Sao Paulo,Housewares,959.59,1,4,24,5,0.2389,Yes,Sold in only 5 of the last 16 weeks,No,387.9
+S-961635,PR,Paraná,Brazil,Umuarama,Sports leisure,299.5,4,1,24,3,0.2386,Yes,Sold in only 3 of the last 16 weeks,No,317.6
+S-E250D6,SP,São Paulo,Brazil,Guarulhos,Furniture decor,229.79,2,2,10,3,0.2385,Yes,Sold in only 3 of the last 16 weeks,No,481.38
+S-FEC627,RJ,Rio de Janeiro,Brazil,Nova Friburgo,Health beauty,1704.0,2,3,15,4,0.2377,Yes,Sold in only 4 of the last 16 weeks,No,284.0
+S-A369D6,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Home construction,782.0,1,3,7,4,0.2373,Yes,Sold in only 4 of the last 16 weeks,No,297.0
+S-E0EABD,SP,São Paulo,Brazil,Campinas,Consoles games,978.4,1,7,27,5,0.2372,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-2305AB,SP,São Paulo,Brazil,Sao Paulo,Perfumery,788.89,1,2,12,3,0.2362,Yes,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-94B910,SP,São Paulo,Brazil,Guarulhos,Electronics,166.46,2,1,1,3,0.236,Yes,Sold in only 3 of the last 16 weeks,No,57.26
+S-8F580D,SP,São Paulo,Brazil,Ribeirao Preto,Auto,3008.2,1,4,14,5,0.2353,Yes,Sold in only 5 of the last 16 weeks,No,1179.45
+S-499EC6,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,365.0,1,4,27,5,0.2346,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-FBC14C,SP,São Paulo,Brazil,Serrana,Fixed telephony,2970.96,2,2,9,4,0.232,Yes,Sold in only 4 of the last 16 weeks,No,3390.96
+S-165FC0,PR,Paraná,Brazil,Maringa,Computers accessories,827.8,2,1,12,3,0.2315,Yes,Sold in only 3 of the last 16 weeks,No,379.6
+S-E8A85B,DF,Distrito Federal,Brazil,Brasilia,Housewares,87.0,1,2,1,3,0.2312,Yes,Sold in only 3 of the last 16 weeks,No,638.0
+S-A93832,RJ,Rio de Janeiro,Brazil,Nilopolis,Auto,779.0,2,5,7,4,0.2309,Yes,Sold in only 4 of the last 16 weeks,No,695.0
+S-157C3E,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,800.0,0,10,30,7,0.2295,Yes,No sale in 30 days,No,773.5
+S-D4F117,SP,São Paulo,Brazil,Sao Paulo,Health beauty,399.83,1,7,16,5,0.2291,Yes,Sold in only 5 of the last 16 weeks,No,89.89
+S-8B2D4A,PR,Paraná,Brazil,Fazenda Rio Grande,Sports leisure,254.0,1,2,5,3,0.2271,Yes,Sold in only 3 of the last 16 weeks,No,204.0
+S-8A2D12,PR,Paraná,Brazil,Curitiba,Housewares,204.8,2,2,7,3,0.2267,Yes,Sold in only 3 of the last 16 weeks,No,1003.5
+S-FAC35D,MG,Minas Gerais,Brazil,Bonfinopolis De Minas,Construction tools construction,456.0,2,1,2,2,0.2261,Yes,Sold in only 2 of the last 16 weeks,No,120.0
+S-8602A6,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,181.99,1,3,1,4,0.2253,Yes,Sold in only 4 of the last 16 weeks,No,115.0
+S-F32600,SP,São Paulo,Brazil,Fernandopolis,Furniture decor,549.19,2,1,4,3,0.2253,Yes,Sold in only 3 of the last 16 weeks,No,549.19
+S-4917CE,SC,Santa Catarina,Brazil,Blumenau,Home appliances 2,791.9,1,3,2,4,0.224,Yes,Sold in only 4 of the last 16 weeks,No,597.0
+S-F680F8,SP,São Paulo,Brazil,Carapicuiba,Baby,1884.51,4,7,23,5,0.223,Yes,Sold in only 5 of the last 16 weeks,No,291.88
+S-D97DF3,SP,São Paulo,Brazil,Sao Caetano Do Sul,Auto,1017.0,1,8,24,6,0.2214,Yes,Sold in only 6 of the last 16 weeks,No,214.0
+S-1CBD32,SP,São Paulo,Brazil,Sp / Sp,Health beauty,539.9,3,1,22,2,0.221,Yes,Sold in only 2 of the last 16 weeks,No,505.57
+S-577719,RS,Rio Grande do Sul,Brazil,Nova Petropolis,Housewares,780.6,1,3,17,4,0.2206,Yes,Sold in only 4 of the last 16 weeks,No,297.2
+S-C33A5C,SC,Santa Catarina,Brazil,Criciuma,Perfumery,419.4,1,5,6,4,0.2205,Yes,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-00720A,SP,São Paulo,Brazil,Guarulhos,Housewares,523.0,1,7,26,6,0.2197,Yes,Sold in only 6 of the last 16 weeks,No,210.0
+S-32F1BB,SP,São Paulo,Brazil,Sao Paulo,Housewares,206.69,1,2,2,3,0.2195,Yes,Sold in only 3 of the last 16 weeks,No,69.7
+S-2C4C47,SP,São Paulo,Brazil,Buritama,Pet shop,693.32,2,1,1,3,0.218,Yes,Sold in only 3 of the last 16 weeks,No,424.33
+S-6E13DD,SP,São Paulo,Brazil,Sao Paulo,Health beauty,258.0,1,2,5,3,0.2172,Yes,Sold in only 3 of the last 16 weeks,No,264.0
+S-343E71,SP,São Paulo,Brazil,Campinas,Books general interest,389.0,1,5,3,5,0.2166,Yes,Sold in only 5 of the last 16 weeks,No,46.9
+S-7B0DF9,SP,São Paulo,Brazil,Braganca Paulista,Musical instruments,3526.53,1,5,5,5,0.2165,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-5EEB9C,SP,São Paulo,Brazil,Ribeirao Preto,Sports leisure,1171.0,2,3,12,5,0.2163,Yes,Sold in only 5 of the last 16 weeks,No,317.0
+S-3586B8,SP,São Paulo,Brazil,Araraquara,Stationery,171.6,2,2,7,4,0.215,Yes,Sold in only 4 of the last 16 weeks,No,103.7
+S-67BF69,PR,Paraná,Brazil,Curitiba,Office furniture,2791.0,1,6,17,6,0.2145,Yes,Sold in only 6 of the last 16 weeks,No,209.0
+S-13074F,RS,Rio Grande do Sul,Brazil,Bento Goncalves,Kitchen dining laundry garden furniture,606.0,1,3,3,4,0.2136,Yes,Sold in only 4 of the last 16 weeks,No,268.0
+S-5DEBEA,PR,Paraná,Brazil,Apucarana,Health beauty,471.6,2,3,10,4,0.2134,Yes,Sold in only 4 of the last 16 weeks,No,63.0
+S-9906E7,PR,Paraná,Brazil,Maringa,Sports leisure,1117.5,1,6,16,5,0.2134,Yes,Sold in only 5 of the last 16 weeks,No,1021.8
+S-4D0041,MG,Minas Gerais,Brazil,Juiz De Fora,Auto,2025.7,1,2,12,3,0.2122,Yes,Sold in only 3 of the last 16 weeks,No,3209.5
+S-1CE3AE,SC,Santa Catarina,Brazil,Jaguaruna,Furniture decor,796.1,1,11,28,7,0.2119,Yes,No sale in 28 days,No,159.6
+S-4EF4C3,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,594.0,2,3,9,4,0.2111,Yes,Sold in only 4 of the last 16 weeks,No,99.0
+S-253F95,SP,São Paulo,Brazil,Sao Paulo,Auto,799.5,1,4,19,5,0.211,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-75FBB5,GO,Goiás,Brazil,Goiania,Dvds blu ray,297.5,1,5,14,6,0.2103,Yes,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-F5B448,SP,São Paulo,Brazil,Sorocaba,Auto,141.9,1,6,17,6,0.2096,Yes,Sold in only 6 of the last 16 weeks,No,57.0
+S-5B5103,MG,Minas Gerais,Brazil,Borda Da Mata,Furniture decor,1538.0,2,3,14,5,0.2067,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-396892,SP,São Paulo,Brazil,Bauru,Housewares,428.9,2,4,22,4,0.2061,Yes,Sold in only 4 of the last 16 weeks,No,94.4
+S-7B98DE,PR,Paraná,Brazil,Loanda,Construction tools construction,216.7,2,1,15,2,0.2039,Yes,Sold in only 2 of the last 16 weeks,No,417.5
+S-06BB3A,MG,Minas Gerais,Brazil,Belo Horizonte,Health beauty,368.59,2,2,6,4,0.2038,Yes,Sold in only 4 of the last 16 weeks,No,89.6
+S-D3F39F,SP,São Paulo,Brazil,Mococa,Health beauty,606.3,3,5,13,5,0.2035,Yes,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-809049,SP,São Paulo,Brazil,Sao Paulo - Sp,Health beauty,583.54,2,7,16,6,0.2035,Yes,Sold in only 6 of the last 16 weeks,No,2482.88
+S-B8114F,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Housewares,934.36,1,4,11,4,0.2033,No,Sold in only 4 of the last 16 weeks,No,465.26
+S-412A47,SP,São Paulo,Brazil,Campinas,Sports leisure,996.5,1,8,23,7,0.2025,No,No sale in 23 days,No,572.9
+S-066A69,PR,Paraná,Brazil,Foz Do Iguacu,Sports leisure,803.89,2,6,14,6,0.202,No,Sold in only 6 of the last 16 weeks,No,174.59
+S-034B93,SC,Santa Catarina,Brazil,Blumenau,Toys,60.0,1,4,12,4,0.2016,No,Sold in only 4 of the last 16 weeks,No,36.0
+S-2089A6,SP,São Paulo,Brazil,Sao Carlos,Sports leisure,745.6,1,5,6,5,0.1991,No,Sold in only 5 of the last 16 weeks,No,535.9
+S-05FF92,RS,Rio Grande do Sul,Brazil,Santo Angelo,Cool stuff,3151.36,2,5,4,5,0.1978,No,Sold in only 5 of the last 16 weeks,No,2412.24
+S-0AC420,SP,São Paulo,Brazil,Sao Paulo,Health beauty,1038.94,2,4,13,6,0.1976,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-6C177E,PR,Paraná,Brazil,Curitiba,Telephony,833.9,3,4,20,6,0.1964,No,Sold in only 6 of the last 16 weeks,No,639.0
+S-967475,SP,São Paulo,Brazil,Sao Paulo,Small appliances,568.17,1,6,20,6,0.1961,No,Sold in only 6 of the last 16 weeks,No,330.39
+S-039B29,SP,São Paulo,Brazil,Ribeirao Pires,Music,42.8,1,3,5,3,0.1959,No,Sold in only 3 of the last 16 weeks,No,72.1
+S-790164,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Garden tools,1431.0,2,3,4,5,0.1956,No,Sold in only 5 of the last 16 weeks,No,214.0
+S-6B333A,DF,Distrito Federal,Brazil,Brasilia,Auto,1783.93,1,3,4,4,0.195,No,Sold in only 4 of the last 16 weeks,No,810.98
+S-3BB548,PR,Paraná,Brazil,Maringa,Computers accessories,374.64,3,0,1,1,0.194,No,Sold in only 1 of the last 16 weeks,No,1074.01
+S-AAED13,SC,Santa Catarina,Brazil,Timbo,Sports leisure,798.7,1,5,5,5,0.193,No,Sold in only 5 of the last 16 weeks,No,272.6
+S-A080FC,SP,São Paulo,Brazil,Sao Paulo,Auto,383.0,1,3,5,4,0.1926,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-8CBAC7,SC,Santa Catarina,Brazil,Jaragua Do Sul,Cool stuff,222.5,2,6,15,6,0.1923,No,Sold in only 6 of the last 16 weeks,No,159.99
+S-863D2E,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Auto,305.0,3,1,2,3,0.1919,No,Sold in only 3 of the last 16 weeks,No,215.0
+S-03A2A6,SP,São Paulo,Brazil,Maua,Garden tools,778.47,3,4,13,4,0.1919,No,Sold in only 4 of the last 16 weeks,No,299.94
+S-FA1A9D,SC,Santa Catarina,Brazil,Icara,Pet shop,1397.9,2,9,18,7,0.1915,No,"New seller, 632 days on the marketplace",No,345.7
+S-4DA0E4,PR,Paraná,Brazil,Cornelio Procopio,Sports leisure,620.5,2,6,3,5,0.1913,No,Sold in only 5 of the last 16 weeks,No,106.8
+S-365E4B,SP,São Paulo,Brazil,Sao Caetano Do Sul,Sports leisure,408.7,1,3,1,4,0.1913,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-4DE6E4,PR,Paraná,Brazil,Colombo,Health beauty,110.7,2,3,17,5,0.1911,No,Sold in only 5 of the last 16 weeks,No,15.0
+S-33AC3E,SP,São Paulo,Brazil,Cotia,Sports leisure,1115.55,1,8,8,6,0.191,No,Sold in only 6 of the last 16 weeks,No,254.89
+S-26785A,SP,São Paulo,Brazil,Sao Paulo,Consoles games,129.9,3,0,3,1,0.1905,No,Sold in only 1 of the last 16 weeks,No,459.7
+S-FAC1A9,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,563.09,1,3,8,3,0.1901,No,Sold in only 3 of the last 16 weeks,No,1447.75
+S-323CE5,SP,São Paulo,Brazil,Sao Paulo,Stationery,774.2,1,7,26,6,0.19,No,Sold in only 6 of the last 16 weeks,No,319.7
+S-6B536A,RJ,Rio de Janeiro,Brazil,Niteroi,Sports leisure,1104.0,1,5,5,5,0.1894,No,Sold in only 5 of the last 16 weeks,No,451.8
+S-CC3D14,PR,Paraná,Brazil,Curitiba,Small appliances,1158.0,1,5,10,6,0.189,No,Sold in only 6 of the last 16 weeks,No,386.0
+S-D6AB72,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,1497.0,1,7,23,6,0.1867,No,Sold in only 6 of the last 16 weeks,No,505.0
+S-5C6D40,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,643.8,1,6,16,6,0.1858,No,Sold in only 6 of the last 16 weeks,No,654.6
+S-EB5B62,SP,São Paulo,Brazil,Embu Guacu,Housewares,164.13,1,7,19,6,0.1856,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-41E0FA,SP,São Paulo,Brazil,Guaruja,Health beauty,423.6,1,4,16,5,0.1847,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-7DACA0,SP,São Paulo,Brazil,Tanabi,Housewares,1228.98,1,6,20,5,0.1847,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-86FF3E,SC,Santa Catarina,Brazil,Palhoca,Sports leisure,364.76,1,5,10,4,0.1836,No,Sold in only 4 of the last 16 weeks,No,44.99
+S-D8CF3B,PR,Paraná,Brazil,Mandaguacu,Drinks,623.7,1,5,9,4,0.1828,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-48162D,SP,São Paulo,Brazil,Piracicaba,Garden tools,3485.0,1,9,19,7,0.1828,No,"New seller, 520 days on the marketplace",No,1355.0
+S-2646BA,SP,São Paulo,Brazil,Sao Paulo,Auto,569.0,3,4,20,4,0.1821,No,Sold in only 4 of the last 16 weeks,No,694.05
+S-33C519,PR,Paraná,Brazil,Londrina,Perfumery,2174.76,2,2,6,4,0.1818,No,Sold in only 4 of the last 16 weeks,No,986.11
+S-C3ACDF,SP,São Paulo,Brazil,Sao Paulo,Watches gifts,6694.0,1,5,14,5,0.1816,No,Sold in only 5 of the last 16 weeks,No,10094.0
+S-C794DA,SP,São Paulo,Brazil,Artur Nogueira,Health beauty,501.8,3,4,6,4,0.1815,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-41AB63,MG,Minas Gerais,Brazil,Belo Horizonte,Small appliances,1465.58,2,4,5,5,0.1807,No,Sold in only 5 of the last 16 weeks,No,149.0
+S-93B9A9,SP,São Paulo,Brazil,Mairipora,Furniture decor,561.0,3,3,3,5,0.1803,No,Sold in only 5 of the last 16 weeks,No,80.0
+S-6C7D50,SP,São Paulo,Brazil,Presidente Prudente,Furniture decor,1220.83,1,13,19,6,0.1801,No,Sold in only 6 of the last 16 weeks,No,44.88
+S-2B3E4A,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,3040.96,2,6,23,7,0.1799,No,No sale in 23 days,No,3114.89
+S-916C9D,PR,Paraná,Brazil,Curitiba,Health beauty,736.0,3,0,6,2,0.1798,No,Sold in only 2 of the last 16 weeks,No,1477.0
+S-CAC63F,SP,São Paulo,Brazil,Sumare,Toys,439.5,2,3,8,5,0.1797,No,Sold in only 5 of the last 16 weeks,No,159.8
+S-F9903D,SC,Santa Catarina,Brazil,Blumenau,Construction tools lights,754.95,2,3,6,5,0.1783,No,Sold in only 5 of the last 16 weeks,No,639.95
+S-9BAF5C,SP,São Paulo,Brazil,Indaiatuba,Housewares,946.92,1,7,13,7,0.178,No,"New seller, 525 days on the marketplace",No,1282.96
+S-9646C3,SP,São Paulo,Brazil,Sao Jose Dos Campos,Computers accessories,153.9,3,3,11,5,0.1779,No,Sold in only 5 of the last 16 weeks,No,25.0
+S-7C4618,SP,São Paulo,Brazil,Sao Roque,Sports leisure,97.87,1,4,5,5,0.1775,No,Sold in only 5 of the last 16 weeks,No,135.6
+S-55BB6F,SP,São Paulo,Brazil,Bauru,Stationery,810.87,3,4,8,4,0.1771,No,Sold in only 4 of the last 16 weeks,No,67.77
+S-5C853B,SP,São Paulo,Brazil,Cotia,Furniture decor,69.44,5,2,4,4,0.1765,No,Sold in only 4 of the last 16 weeks,No,146.89
+S-3CFA13,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Home construction,3140.28,1,4,17,5,0.1754,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-E3DD72,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Health beauty,471.05,1,6,22,6,0.1745,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-4736E9,SP,São Paulo,Brazil,Piracicaba,Air conditioning,208.94,3,3,2,4,0.1739,No,Sold in only 4 of the last 16 weeks,No,450.98
+S-B34767,PR,Paraná,Brazil,Curitiba,Housewares,2851.99,2,7,8,5,0.1719,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-582D4F,SP,São Paulo,Brazil,Bertioga,Electronics,1251.32,1,8,7,6,0.1715,No,Sold in only 6 of the last 16 weeks,No,60.89
+S-13511D,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Auto,536.0,1,3,8,4,0.1711,No,Sold in only 4 of the last 16 weeks,No,262.0
+S-26D8A1,PR,Paraná,Brazil,Apucarana,Perfumery,1480.67,3,4,18,6,0.1703,No,Sold in only 6 of the last 16 weeks,No,3567.66
+S-CFE944,SP,São Paulo,Brazil,Sao Paulo,Construction tools safety,891.0,2,6,22,6,0.1699,No,Sold in only 6 of the last 16 weeks,No,1089.0
+S-822166,RJ,Rio de Janeiro,Brazil,Tres Rios,Bed bath table,376.8,1,6,4,5,0.1698,No,Sold in only 5 of the last 16 weeks,No,154.98
+S-B56906,SP,São Paulo,Brazil,Echapora,Health beauty,419.66,1,8,1,6,0.1696,No,Sold in only 6 of the last 16 weeks,No,65.6
+S-903037,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,3211.34,5,8,19,7,0.1694,No,"New seller, 523 days on the marketplace",No,2589.86
+S-77E4AB,DF,Distrito Federal,Brazil,Brasilia,Stationery,1714.0,1,7,26,7,0.1686,No,No sale in 26 days,No,1385.99
+S-F35B3C,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,3309.25,1,7,27,7,0.1682,No,No sale in 27 days,Yes,0.0
+S-B19F3C,MG,Minas Gerais,Brazil,Divinopolis,Housewares,1287.38,3,4,16,6,0.1676,No,Sold in only 6 of the last 16 weeks,No,2118.19
+S-723CD8,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1248.57,1,4,2,4,0.1669,No,Sold in only 4 of the last 16 weeks,No,887.96
+S-5A6A02,SP,São Paulo,Brazil,Americana,Books general interest,210.1,2,2,10,3,0.1661,No,Sold in only 3 of the last 16 weeks,No,390.4
+S-B18871,SP,São Paulo,Brazil,Sao Paulo,Garden tools,830.76,2,5,12,5,0.1658,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-5F1DC2,SP,São Paulo,Brazil,Sao Paulo,Health beauty,356.8,1,9,15,7,0.1658,No,"New seller, 529 days on the marketplace",Yes,0.0
+S-FC5939,BA,Bahia,Brazil,Salvador,Computers accessories,214.99,2,1,15,3,0.165,No,Sold in only 3 of the last 16 weeks,No,305.0
+S-B64D51,SP,São Paulo,Brazil,Garulhos,Housewares,109.47,2,3,17,5,0.1649,No,Sold in only 5 of the last 16 weeks,No,306.71
+S-A2B5B6,SP,São Paulo,Brazil,Osasco,Toys,1063.99,3,1,16,2,0.1644,No,Sold in only 2 of the last 16 weeks,No,2222.7
+S-B0F2A6,PR,Paraná,Brazil,Curitiba,Health beauty,1222.6,2,1,8,3,0.1642,No,Sold in only 3 of the last 16 weeks,No,397.7
+S-270297,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,2354.85,3,1,1,4,0.164,No,Sold in only 4 of the last 16 weeks,No,1199.0
+S-C840D3,PR,Paraná,Brazil,Curitiba,Furniture decor,2697.0,2,4,1,5,0.1637,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-15FA79,SP,São Paulo,Brazil,Sao Paulo,Baby,823.0,2,5,18,6,0.1628,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-B2C970,SP,São Paulo,Brazil,Botucatu,Health beauty,313.76,1,3,6,4,0.1623,No,Sold in only 4 of the last 16 weeks,No,370.95
+S-6039E2,SP,São Paulo,Brazil,Osasco,Electronics,2826.7,1,14,23,8,0.1608,No,No sale in 23 days,No,949.5
+S-9C690C,MG,Minas Gerais,Brazil,Camanducaia,Garden tools,488.4,3,2,5,5,0.1608,No,Sold in only 5 of the last 16 weeks,No,143.7
+S-E5475D,SP,São Paulo,Brazil,Diadema,Sports leisure,1700.0,1,6,16,7,0.1606,No,Sold in only 7 of the last 16 weeks,No,35.0
+S-F12D3C,SP,São Paulo,Brazil,Santo Andre,Furniture decor,136.65,1,4,8,4,0.1588,No,Sold in only 4 of the last 16 weeks,No,227.8
+S-53D00C,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1547.85,1,14,3,5,0.1571,No,Sold in only 5 of the last 16 weeks,No,369.0
+S-E8DBA4,SP,São Paulo,Brazil,Santa Barbara D Oeste,Sports leisure,224.97,2,1,17,3,0.1569,No,Sold in only 3 of the last 16 weeks,No,630.94
+S-89A51F,DF,Distrito Federal,Brazil,Brasilia,Perfumery,625.26,2,7,18,5,0.1567,No,Sold in only 5 of the last 16 weeks,No,51.9
+S-050904,MG,Minas Gerais,Brazil,Belo Horizonte,Sports leisure,501.5,1,8,10,6,0.1565,No,Sold in only 6 of the last 16 weeks,No,209.7
+S-8931A8,SP,São Paulo,Brazil,Sao Paulo,Perfumery,1519.9,5,2,6,4,0.1556,No,Sold in only 4 of the last 16 weeks,No,59.0
+S-C510BC,SP,São Paulo,Brazil,Indaiatuba,Baby,11634.95,2,6,7,4,0.155,No,Sold in only 4 of the last 16 weeks,No,616.05
+S-CB6C9F,ES,Espírito Santo,Brazil,Vila Velha,Garden tools,199.74,1,3,6,4,0.1549,No,Sold in only 4 of the last 16 weeks,No,580.15
+S-818569,SP,São Paulo,Brazil,Tabao Da Serra,Furniture decor,813.55,2,3,10,5,0.1546,No,Sold in only 5 of the last 16 weeks,No,558.75
+S-B8A0AD,SP,São Paulo,Brazil,Ibitinga,Bed bath table,281.4,1,5,3,4,0.1534,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-257E61,PR,Paraná,Brazil,Apucarana,Baby,3783.0,1,6,19,6,0.1523,No,Sold in only 6 of the last 16 weeks,No,3946.0
+S-15AAC9,ES,Espírito Santo,Brazil,Muqui,Air conditioning,712.9,2,4,4,5,0.1492,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-8FBD63,SP,São Paulo,Brazil,Santo Andre,Auto,1061.4,1,5,2,4,0.1476,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-07BF96,SP,São Paulo,Brazil,Sao Paulo,Kitchen dining laundry garden furniture,732.0,3,4,3,6,0.1473,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-EBD2D6,SP,São Paulo,Brazil,Lencois Paulista,Health beauty,1043.89,0,15,29,9,0.1472,No,No sale in 29 days,No,385.0
+S-8F119A,SP,São Paulo,Brazil,Barueri,Toys,889.52,1,19,10,7,0.1472,No,"New seller, 541 days on the marketplace",No,144.97
+S-4B0FDB,SP,São Paulo,Brazil,Ibitinga,Bed bath table,625.3,2,5,16,6,0.1468,No,Sold in only 6 of the last 16 weeks,No,1353.9
+S-7B07B3,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,735.24,1,7,4,6,0.1461,No,Sold in only 6 of the last 16 weeks,No,1561.3
+S-9C7FD2,SP,São Paulo,Brazil,Osasco,Fixed telephony,503.5,3,1,3,3,0.1458,No,Sold in only 3 of the last 16 weeks,No,294.8
+S-7238A9,SP,São Paulo,Brazil,Limeira,Baby,1317.0,2,2,9,4,0.1451,No,Sold in only 4 of the last 16 weeks,No,948.7
+S-968268,SP,São Paulo,Brazil,Sao Paulo,Stationery,1887.89,4,2,8,4,0.1445,No,Sold in only 4 of the last 16 weeks,No,1520.6
+S-6A3808,GO,Goiás,Brazil,Anapolis,Computers accessories,630.53,3,2,12,3,0.1441,No,Sold in only 3 of the last 16 weeks,No,1202.9
+S-1B65C1,SC,Santa Catarina,Brazil,Rio Do Sul,Construction tools construction,1109.5,1,4,1,4,0.1434,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-512D29,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Musical instruments,2877.28,1,7,25,8,0.1425,No,No sale in 25 days,No,4494.67
+S-B2AC62,PR,Paraná,Brazil,Curitiba,Health beauty,990.8,1,7,12,7,0.1422,No,Sold in only 7 of the last 16 weeks,No,2796.0
+S-921323,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,741.29,4,2,2,4,0.1422,No,Sold in only 4 of the last 16 weeks,No,439.57
+S-751BDC,SP,São Paulo,Brazil,Ribeirao Pires,Sports leisure,1001.61,3,6,17,7,0.1422,No,Sold in only 7 of the last 16 weeks,No,441.94
+S-3F3486,SP,São Paulo,Brazil,Sao Paulo,Luggage accessories,1107.94,2,8,12,6,0.1421,No,Sold in only 6 of the last 16 weeks,No,1309.73
+S-33576E,PR,Paraná,Brazil,Curitiba,Fashion bags accessories,623.0,2,5,6,6,0.1416,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-E63E8B,SP,São Paulo,Brazil,Guarulhos,Housewares,321.9,0,11,29,9,0.1408,No,No sale in 29 days,No,204.3
+S-EB7280,SP,São Paulo,Brazil,Rio Claro,Garden tools,769.95,2,3,9,4,0.1398,No,Sold in only 4 of the last 16 weeks,No,293.97
+S-8AB42A,GO,Goiás,Brazil,Goiania,Bed bath table,1057.0,4,3,8,5,0.1392,No,Sold in only 5 of the last 16 weeks,No,55.9
+S-85CC55,RJ,Rio de Janeiro,Brazil,Barra Mansa,Computers accessories,103.78,2,2,10,4,0.1386,No,Sold in only 4 of the last 16 weeks,No,204.5
+S-4C1C72,SP,São Paulo,Brazil,Marilia,Toys,188.32,2,3,10,5,0.1385,No,Sold in only 5 of the last 16 weeks,Yes,0.0
+S-6F83D9,PR,Paraná,Brazil,Pinhalao,Housewares,697.39,2,8,16,6,0.138,No,Sold in only 6 of the last 16 weeks,No,67.8
+S-CBF09E,SP,São Paulo,Brazil,Sbc/Sp,Housewares,778.5,2,4,15,5,0.1352,No,Sold in only 5 of the last 16 weeks,No,756.7
+S-07DE60,SP,São Paulo,Brazil,Ibitinga,Bed bath table,449.4,4,2,6,4,0.1348,No,Sold in only 4 of the last 16 weeks,No,89.9
+S-72C38A,PR,Paraná,Brazil,Cascavel,Computers accessories,591.5,2,1,5,3,0.1347,No,Sold in only 3 of the last 16 weeks,No,55.8
+S-F125F3,SP,São Paulo,Brazil,Sao Paulo,Construction tools construction,887.1,2,4,10,6,0.1344,No,Sold in only 6 of the last 16 weeks,No,795.6
+S-B9CA8E,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,826.82,2,7,12,5,0.134,No,Sold in only 5 of the last 16 weeks,No,462.95
+S-55D3DA,SP,São Paulo,Brazil,Sao Paulo,Signaling and security,1065.9,4,1,4,4,0.1339,No,Sold in only 4 of the last 16 weeks,No,587.9
+S-43402B,SP,São Paulo,Brazil,Ribeirao Pires,Furniture bedroom,649.95,2,2,2,3,0.1337,No,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-D05AE8,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Sports leisure,3414.0,1,19,28,9,0.1328,No,No sale in 28 days,No,494.0
+S-EED78A,SP,São Paulo,Brazil,Botucatu,Furniture decor,1771.9,1,8,25,9,0.1324,No,No sale in 25 days,No,179.4
+S-5BC55D,MG,Minas Gerais,Brazil,Coronel Fabriciano,Sports leisure,2038.7,2,8,13,6,0.1324,No,Sold in only 6 of the last 16 weeks,No,409.9
+S-60562A,SP,São Paulo,Brazil,Sao Paulo,Auto,1149.0,3,3,1,5,0.1323,No,Sold in only 5 of the last 16 weeks,No,552.0
+S-C2D70C,SP,São Paulo,Brazil,Sao Paulo,Housewares,1236.0,3,3,5,6,0.1303,No,Sold in only 6 of the last 16 weeks,No,1038.9
+S-C6381D,RS,Rio Grande do Sul,Brazil,Portao,Housewares,536.0,2,6,3,6,0.1303,No,Sold in only 6 of the last 16 weeks,No,541.0
+S-D4FFEB,SP,São Paulo,Brazil,Atibaia,Luggage accessories,1242.5,3,7,23,6,0.1296,No,Sold in only 6 of the last 16 weeks,No,157.9
+S-DA7039,SP,São Paulo,Brazil,Santo Andre,Cine photo,753.5,1,11,18,6,0.1295,No,Sold in only 6 of the last 16 weeks,No,505.6
+S-52A52B,SP,São Paulo,Brazil,Sao Carlos,Furniture decor,453.12,2,3,4,4,0.1294,No,Sold in only 4 of the last 16 weeks,No,329.98
+S-7357B5,MG,Minas Gerais,Brazil,Lagoa Santa,Housewares,425.04,2,2,10,4,0.1292,No,Sold in only 4 of the last 16 weeks,No,902.98
+S-63A79F,MG,Minas Gerais,Brazil,Patos De Minas,Toys,760.1,2,8,26,7,0.1289,No,No sale in 26 days,No,55.0
+S-C5F7E7,PR,Paraná,Brazil,Curitiba,Pet shop,506.0,3,1,4,3,0.1284,No,Sold in only 3 of the last 16 weeks,No,923.0
+S-3F84FE,PR,Paraná,Brazil,Fazenda Rio Grande,Health beauty,200.6,2,1,1,3,0.1269,No,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-082E0B,SP,São Paulo,Brazil,Botucatu,Garden tools,626.9,3,0,4,3,0.1268,No,Sold in only 3 of the last 16 weeks,No,631.5
+S-455969,SP,São Paulo,Brazil,Presidente Prudente,Home appliances,1038.8,1,11,3,7,0.1267,No,"New seller, 501 days on the marketplace",Yes,0.0
+S-7DC8C4,SP,São Paulo,Brazil,Sao Paulo,Housewares,1241.0,3,5,4,7,0.1267,No,"New seller, 631 days on the marketplace",No,752.81
+S-199694,SP,São Paulo,Brazil,Pradopolis,Watches gifts,1158.86,3,1,17,3,0.126,No,Sold in only 3 of the last 16 weeks,No,1784.65
+S-41B147,SP,São Paulo,Brazil,Santo Andre,Computers accessories,241.5,2,3,4,5,0.1259,No,Sold in only 5 of the last 16 weeks,No,154.0
+S-8B2492,RJ,Rio de Janeiro,Brazil,Sao Goncalo,Health beauty,1325.85,2,7,19,8,0.1258,No,No sale in 19 days,No,799.01
+S-F1B936,SP,São Paulo,Brazil,Sao Jose Dos Campos,Construction tools construction,1976.1,2,3,2,5,0.1237,No,Sold in only 5 of the last 16 weeks,No,662.83
+S-C4D511,SP,São Paulo,Brazil,Presidente Prudente,Telephony,11468.98,3,14,25,7,0.1228,No,No sale in 25 days,Yes,0.0
+S-845E80,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Bed bath table,509.3,3,2,9,3,0.1227,No,Sold in only 3 of the last 16 weeks,No,1075.3
+S-87E24F,SP,São Paulo,Brazil,Sao Paulo,Telephony,4947.79,4,1,18,3,0.1224,No,Sold in only 3 of the last 16 weeks,No,2125.8
+S-1D5037,SP,São Paulo,Brazil,Sao Paulo,Auto,336.09,1,6,4,6,0.122,No,Sold in only 6 of the last 16 weeks,No,49.99
+S-1690CA,SP,São Paulo,Brazil,Sao Paulo,Auto,915.0,3,2,6,4,0.1218,No,Sold in only 4 of the last 16 weeks,No,1044.0
+S-A218DF,SP,São Paulo,Brazil,Araraquara,Housewares,130.69,2,2,4,4,0.1211,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-1C4034,SP,São Paulo,Brazil,Limeira,Perfumery,1151.49,5,3,16,3,0.1201,No,Sold in only 3 of the last 16 weeks,No,1309.92
+S-87D30A,SP,São Paulo,Brazil,Sao Paulo,Toys,1029.84,3,4,10,6,0.1199,No,Sold in only 6 of the last 16 weeks,Yes,0.0
+S-1A3DF4,SC,Santa Catarina,Brazil,Joinville,Bed bath table,2624.1,4,15,24,8,0.119,No,No sale in 24 days,No,347.9
+S-34D1CA,MG,Minas Gerais,Brazil,Congonhas,Computers accessories,2855.67,2,7,12,8,0.118,No,"New seller, 486 days on the marketplace",No,766.08
+S-89F692,RJ,Rio de Janeiro,Brazil,Vassouras,Toys,645.7,2,4,13,5,0.1176,No,Sold in only 5 of the last 16 weeks,No,395.6
+S-2EA086,SP,São Paulo,Brazil,Sao Paulo,Housewares,155.8,2,3,6,4,0.1175,No,Sold in only 4 of the last 16 weeks,No,9.8
+S-14D798,SP,São Paulo,Brazil,Santo Andre,Sports leisure,892.0,3,8,4,7,0.1174,No,"New seller, 456 days on the marketplace",No,361.0
+S-FCDD82,SP,São Paulo,Brazil,Ribeirao Preto,Air conditioning,3610.0,1,11,25,8,0.117,No,No sale in 25 days,No,1028.99
+S-4A1F69,SP,São Paulo,Brazil,Pedreira,Furniture decor,596.84,5,4,17,6,0.1156,No,Sold in only 6 of the last 16 weeks,No,153.96
+S-ED4ACA,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,5869.86,3,6,13,8,0.1156,No,"New seller, 464 days on the marketplace",No,934.97
+S-6FD52C,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,1677.39,1,13,27,9,0.1155,No,No sale in 27 days,No,1125.77
+S-04308B,SC,Santa Catarina,Brazil,Bombinhas,Health beauty,10668.3,1,16,22,8,0.1153,No,No sale in 22 days,No,24759.7
+S-30829D,RS,Rio Grande do Sul,Brazil,Parai,Computers accessories,3710.62,2,6,5,6,0.1151,No,Sold in only 6 of the last 16 weeks,No,257.9
+S-1CAF28,RJ,Rio de Janeiro,Brazil,Nova Iguacu,Toys,286.19,2,7,2,7,0.1147,No,Sold in only 7 of the last 16 weeks,No,55.62
+S-E504A4,SP,São Paulo,Brazil,Sao Pedro,Housewares,399.6,2,2,5,4,0.1134,No,Sold in only 4 of the last 16 weeks,No,789.2
+S-A2DEEC,SP,São Paulo,Brazil,Sao Paulo,Home appliances,445.53,2,7,2,5,0.1131,No,Sold in only 5 of the last 16 weeks,No,213.0
+S-33DD94,ES,Espírito Santo,Brazil,Vila Velha,Housewares,5510.0,2,2,10,4,0.113,No,Sold in only 4 of the last 16 weeks,No,1277.5
+S-9596C8,MG,Minas Gerais,Brazil,Varginha,Construction tools construction,2223.1,1,8,6,8,0.1128,No,"New seller, 436 days on the marketplace",No,85.5
+S-F0837C,RS,Rio Grande do Sul,Brazil,Arvorezinha,Housewares,717.9,3,11,8,7,0.1128,No,Sold in only 7 of the last 16 weeks,No,429.0
+S-C35AFF,SP,São Paulo,Brazil,Sao Paluo,Auto,3979.93,2,5,5,7,0.1126,No,Sold in only 7 of the last 16 weeks,Yes,0.0
+S-3C03B1,RJ,Rio de Janeiro,Brazil,Sao Joao De Meriti,Sports leisure,1821.95,1,15,21,8,0.1122,No,No sale in 21 days,No,376.03
+S-3903C7,SP,São Paulo,Brazil,Carapicuiba,Health beauty,47.99,2,1,3,3,0.1122,No,Sold in only 3 of the last 16 weeks,No,71.99
+S-FF69AA,SP,São Paulo,Brazil,Sao Paulo,Baby,7909.0,2,5,12,7,0.1122,No,Sold in only 7 of the last 16 weeks,Yes,0.0
+S-31344C,MG,Minas Gerais,Brazil,Uba,Furniture decor,1789.2,2,6,1,7,0.1121,No,"New seller, 520 days on the marketplace",No,819.6
+S-001CCA,ES,Espírito Santo,Brazil,Cariacica,Garden tools,1937.9,2,11,10,7,0.1114,No,"New seller, 511 days on the marketplace",No,129.9
+S-49383A,SP,São Paulo,Brazil,Taubate,Bed bath table,495.0,2,3,7,5,0.1111,No,Sold in only 5 of the last 16 weeks,No,165.0
+S-DA6A60,RJ,Rio de Janeiro,Brazil,Sao Pedro Da Aldeia,Books general interest,196.6,2,1,1,3,0.1111,No,Sold in only 3 of the last 16 weeks,No,532.19
+S-0DDEFE,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Arts and craftmanship,263.2,2,4,3,5,0.1109,No,Sold in only 5 of the last 16 weeks,No,139.7
+S-334CAB,SP,São Paulo,Brazil,Santo Andre,Furniture decor,520.8,2,4,2,5,0.1103,No,Sold in only 5 of the last 16 weeks,No,548.9
+S-40DB9E,PE,Pernambuco,Brazil,Recife,Auto,9520.0,3,2,2,5,0.1092,No,Sold in only 5 of the last 16 weeks,No,11868.0
+S-3BE634,SP,São Paulo,Brazil,Sao Paulo,Housewares,1142.54,3,15,17,8,0.1086,No,"New seller, 356 days on the marketplace",No,677.31
+S-5DC203,SP,São Paulo,Brazil,Pompeia,Garden tools,267.0,2,1,3,3,0.1079,No,Sold in only 3 of the last 16 weeks,No,154.9
+S-26E2C9,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1431.1,1,7,2,6,0.1073,No,Sold in only 6 of the last 16 weeks,No,45.8
+S-725C32,SP,São Paulo,Brazil,Sao Paulo,Toys,847.63,2,8,3,7,0.1068,No,"New seller, 529 days on the marketplace",No,695.96
+S-D5BA41,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,2005.4,1,16,22,10,0.1062,No,No sale in 22 days,No,1073.0
+S-8ED8EA,SC,Santa Catarina,Brazil,Blumenau,Cool stuff,3831.9,1,18,20,7,0.1055,No,Sold in only 7 of the last 16 weeks,Yes,0.0
+S-2A7DC4,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,1092.06,1,13,27,9,0.1042,No,No sale in 27 days,Yes,0.0
+S-7FC87C,SP,São Paulo,Brazil,Guarulhos,Office furniture,1012.6,1,6,2,5,0.1035,No,Sold in only 5 of the last 16 weeks,No,1141.3
+S-48436D,SP,São Paulo,Brazil,Volta Redonda,Cool stuff,615.43,1,6,6,7,0.1033,No,"New seller, 472 days on the marketplace",No,181.98
+S-8629C2,SP,São Paulo,Brazil,Ribeirao Preto,Perfumery,1136.86,6,6,16,6,0.1029,No,Sold in only 6 of the last 16 weeks,No,30.8
+S-ABCD2C,MT,Mato Grosso,Brazil,Cuiaba,Health beauty,918.3,3,3,1,6,0.1021,No,Sold in only 6 of the last 16 weeks,No,359.8
+S-CE20A2,SP,São Paulo,Brazil,Sao Paulo,Pet shop,164.0,2,1,3,3,0.1019,No,Sold in only 3 of the last 16 weeks,No,123.0
+S-7202E2,SP,São Paulo,Brazil,Franca,Telephony,2445.3,1,14,27,10,0.1006,No,No sale in 27 days,No,3048.7
+S-B16D3D,RS,Rio Grande do Sul,Brazil,Estancia Velha,Sports leisure,492.7,3,1,9,3,0.1005,No,Sold in only 3 of the last 16 weeks,No,229.4
+S-ACCE39,MG,Minas Gerais,Brazil,Contagem,Stationery,409.4,3,1,2,3,0.0997,No,Sold in only 3 of the last 16 weeks,No,4338.7
+S-D197AA,SP,São Paulo,Brazil,Sao Jose Dos Campos,Stationery,331.95,2,2,1,4,0.0992,No,Sold in only 4 of the last 16 weeks,No,187.14
+S-3B872F,SP,São Paulo,Brazil,Ibitinga,Bed bath table,937.74,4,4,5,6,0.099,No,Sold in only 6 of the last 16 weeks,No,549.92
+S-B8578D,SC,Santa Catarina,Brazil,Blumenau,Sports leisure,1223.7,3,5,11,6,0.0989,No,Sold in only 6 of the last 16 weeks,No,31.9
+S-5B8154,SP,São Paulo,Brazil,Sao Jose Dos Campos,Computers accessories,2229.31,2,6,2,7,0.0988,No,Sold in only 7 of the last 16 weeks,No,926.98
+S-0EF83D,PR,Paraná,Brazil,Curitiba,Health beauty,1685.24,1,17,25,9,0.0984,No,No sale in 25 days,No,447.13
+S-8C16D1,SC,Santa Catarina,Brazil,Blumenau,Computers accessories,597.15,3,7,1,7,0.0983,No,"New seller, 633 days on the marketplace",No,460.66
+S-33CBBE,RS,Rio Grande do Sul,Brazil,Bento Goncalves,Small appliances,473.81,1,9,4,6,0.0982,No,Sold in only 6 of the last 16 weeks,No,256.86
+S-E38DB8,DF,Distrito Federal,Brazil,Brasilia,Bed bath table,908.6,3,10,1,7,0.0981,No,Sold in only 7 of the last 16 weeks,No,389.4
+S-2DEE2C,MT,Mato Grosso,Brazil,Sinop,Perfumery,1011.0,4,1,2,4,0.098,No,Sold in only 4 of the last 16 weeks,Yes,0.0
+S-974CF2,SP,São Paulo,Brazil,Araraquara,Computers accessories,992.88,4,8,16,8,0.097,No,No sale in 16 days,No,562.94
+S-1336EF,SP,São Paulo,Brazil,Assis,Pet shop,1177.95,2,11,15,9,0.0966,No,"New seller, 524 days on the marketplace",No,578.0
+S-AF3EF4,SP,São Paulo,Brazil,Araraquara,Pet shop,815.12,6,6,18,5,0.0965,No,Sold in only 5 of the last 16 weeks,No,590.51
+S-BD4889,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,1695.92,4,9,7,8,0.0957,No,"New seller, 448 days on the marketplace",No,491.48
+S-318F28,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,537.0,3,12,14,9,0.0956,No,"New seller, 507 days on the marketplace",No,117.0
+S-BCE6A5,SP,São Paulo,Brazil,Guarulhos,Watches gifts,2021.9,3,0,14,2,0.0956,No,Sold in only 2 of the last 16 weeks,No,1443.0
+S-FEBAB0,SP,São Paulo,Brazil,Pedreira,Housewares,1517.12,1,19,25,10,0.0953,No,No sale in 25 days,No,446.4
+S-DE0C78,SP,São Paulo,Brazil,Vargem Grande Paulista,Pet shop,2185.5,3,9,17,7,0.0952,No,Sold in only 7 of the last 16 weeks,No,303.8
+S-BD23DA,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,798.4,3,4,3,6,0.0952,No,Sold in only 6 of the last 16 weeks,No,899.7
+S-B8BC23,SC,Santa Catarina,Brazil,Itajai,Housewares,5906.81,2,17,9,8,0.0945,No,"New seller, 327 days on the marketplace",No,340.99
+S-2D5186,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,1114.89,4,8,20,7,0.0945,No,Sold in only 7 of the last 16 weeks,No,105.0
+S-52F9DB,SP,São Paulo,Brazil,Echapora,Home appliances,590.09,1,10,17,9,0.0941,No,No sale in 17 days,No,296.95
+S-7A2419,MG,Minas Gerais,Brazil,Jacutinga,Housewares,3294.0,2,16,13,9,0.0932,No,"New seller, 477 days on the marketplace",No,654.0
+S-3935FE,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,1116.74,2,9,16,7,0.0932,No,Sold in only 7 of the last 16 weeks,No,564.95
+S-1FDC57,SP,São Paulo,Brazil,Limeira,Auto,2034.0,1,8,9,8,0.0925,No,Orders down 53% vs the 12 weeks before,No,280.0
+S-E601B0,SP,São Paulo,Brazil,Sao Paulo,Garden tools,379.75,5,6,14,6,0.0925,No,Sold in only 6 of the last 16 weeks,No,112.19
+S-B18DC3,SP,São Paulo,Brazil,Diadema,Health beauty,4153.31,2,23,28,10,0.0925,No,No sale in 28 days,No,939.85
+S-7F1523,SC,Santa Catarina,Brazil,Criciuma,Sports leisure,1779.9,1,9,3,8,0.092,No,Orders down 57% vs the 12 weeks before,No,479.97
+S-E5E33C,SP,São Paulo,Brazil,Bauru,Auto,4907.9,5,8,4,8,0.0919,No,"New seller, 483 days on the marketplace",No,668.5
+S-5B8580,SP,São Paulo,Brazil,Presidente Prudente,Health beauty,1163.1,4,3,6,4,0.0913,No,Sold in only 4 of the last 16 weeks,No,641.5
+S-099095,SP,São Paulo,Brazil,Sao Paulo,Housewares,3034.85,2,12,19,9,0.0911,No,No sale in 19 days,No,429.99
+S-23613D,SP,São Paulo,Brazil,Porto Ferreira,Furniture decor,667.1,4,10,4,8,0.0909,No,"New seller, 630 days on the marketplace",No,156.6
+S-C54679,SP,São Paulo,Brazil,Guaruja,Perfumery,843.0,2,4,2,6,0.0908,No,Sold in only 6 of the last 16 weeks,No,189.0
+S-610F72,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,9307.96,1,9,10,7,0.0903,No,Sold in only 7 of the last 16 weeks,No,4277.2
+S-5C3460,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Baby,492.35,3,3,3,6,0.0895,No,Sold in only 6 of the last 16 weeks,No,134.43
+S-7ECD59,DF,Distrito Federal,Brazil,Brasilia,Stationery,766.84,5,7,17,8,0.0893,No,No sale in 17 days,No,249.95
+S-5D3BB1,SP,São Paulo,Brazil,Assis,Furniture decor,621.4,5,3,2,6,0.0887,No,Sold in only 6 of the last 16 weeks,No,387.4
+S-E9511D,SP,São Paulo,Brazil,Bauru,Construction tools construction,934.4,1,8,15,9,0.0876,No,Orders down 53% vs the 12 weeks before,No,582.9
+S-42EF31,SP,São Paulo,Brazil,Santo Andre,Toys,295.5,3,4,1,6,0.0873,No,Sold in only 6 of the last 16 weeks,No,87.8
+S-23D7C9,SP,São Paulo,Brazil,Capivari,Cool stuff,3452.5,3,12,16,9,0.0872,No,"New seller, 345 days on the marketplace",No,1919.2
+S-C68FB9,SP,São Paulo,Brazil,Jaboticabal,Housewares,735.91,2,6,3,8,0.0868,No,"New seller, 469 days on the marketplace",No,417.02
+S-141440,PR,Paraná,Brazil,Pitanga,Drinks,984.6,5,3,4,4,0.0866,No,Sold in only 4 of the last 16 weeks,No,303.6
+S-A6FE7D,SP,São Paulo,Brazil,Franca,Fashion underwear beach,648.8,1,11,5,8,0.0865,No,"New seller, 354 days on the marketplace",No,169.7
+S-DFC475,PR,Paraná,Brazil,Curitiba,Housewares,767.8,4,4,5,6,0.0864,No,Sold in only 6 of the last 16 weeks,No,676.86
+S-094CED,SP,São Paulo,Brazil,Ribeirao Preto,Health beauty,1343.1,3,12,22,8,0.0863,No,No sale in 22 days,No,176.1
+S-382229,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Housewares,1671.57,1,24,24,8,0.0861,No,No sale in 24 days,No,2425.39
+S-EEB6DE,SC,Santa Catarina,Brazil,Lages,Garden tools,7278.0,1,8,3,8,0.086,No,"New seller, 497 days on the marketplace",No,9312.0
+S-2A6FBE,SC,Santa Catarina,Brazil,Jaragua Do Sul,Small appliances,514.69,3,6,2,8,0.0856,No,"New seller, 479 days on the marketplace",No,6.5
+S-D7485B,PR,Paraná,Brazil,Curitiba,Sports leisure,351.9,4,5,8,6,0.0855,No,Sold in only 6 of the last 16 weeks,No,47.92
+S-86CCAC,SC,Santa Catarina,Brazil,Blumenau,Watches gifts,906.0,2,7,3,7,0.0853,No,"New seller, 465 days on the marketplace",No,56.0
+S-41B39E,SP,São Paulo,Brazil,Santo Andre,Bed bath table,770.5,1,14,16,9,0.0853,No,"New seller, 527 days on the marketplace",No,294.5
+S-7F7B82,SP,São Paulo,Brazil,Mogi Mirim,Health beauty,1417.73,2,25,24,8,0.0849,No,No sale in 24 days,No,676.63
+S-532435,BA,Bahia,Brazil,Lauro De Freitas,Telephony,7906.33,2,11,2,6,0.0849,No,Sold in only 6 of the last 16 weeks,No,25835.8
+S-36890B,SP,São Paulo,Brazil,Osasco,Baby,300.9,3,0,11,2,0.0847,No,Sold in only 2 of the last 16 weeks,No,1060.4
+S-FFAD1E,SP,São Paulo,Brazil,Americana,Furniture decor,644.3,3,4,1,6,0.0841,No,Sold in only 6 of the last 16 weeks,No,240.0
+S-A5A1BF,SP,São Paulo,Brazil,Socorro,Food,837.86,2,8,10,8,0.0839,No,Orders down 21% vs the 12 weeks before,No,575.8
+S-DE9727,PR,Paraná,Brazil,Sarandi,Computers accessories,777.2,5,2,2,3,0.0837,No,Sold in only 3 of the last 16 weeks,No,281.5
+S-985C92,MG,Minas Gerais,Brazil,Sao Joao Del Rei,Health beauty,1114.7,3,6,1,5,0.0835,No,Sold in only 5 of the last 16 weeks,No,253.8
+S-7994B0,ES,Espírito Santo,Brazil,Cariacica / Es,Furniture living room,281.4,3,0,11,2,0.0832,No,Sold in only 2 of the last 16 weeks,No,171.6
+S-381C83,PR,Paraná,Brazil,Curitiba,Watches gifts,1525.8,2,10,6,8,0.0829,No,"New seller, 317 days on the marketplace",No,579.0
+S-A5CBA2,PR,Paraná,Brazil,Campo Mourao,Health beauty,7894.9,2,25,21,10,0.0828,No,No sale in 21 days,No,2130.5
+S-8CA155,PR,Paraná,Brazil,Campo Largo,Furniture decor,1579.9,4,4,3,6,0.0827,No,Sold in only 6 of the last 16 weeks,No,426.5
+S-31DA95,SP,São Paulo,Brazil,Araras,Health beauty,1325.0,1,10,3,8,0.0825,No,Orders down 61% vs the 12 weeks before,No,52.0
+S-ACED59,SP,São Paulo,Brazil,Sao Paulo,Housewares,1141.0,2,6,2,8,0.0822,No,"New seller, 502 days on the marketplace",No,1056.0
+S-1D8DBC,PR,Paraná,Brazil,Arapongas,Baby,1506.39,3,10,6,8,0.0817,No,"New seller, 467 days on the marketplace",Yes,0.0
+S-33D677,SC,Santa Catarina,Brazil,Joinville,Food drink,146.1,3,5,8,7,0.0799,No,Sold in only 7 of the last 16 weeks,No,18.9
+S-6C99C9,MG,Minas Gerais,Brazil,Uberlandia,Toys,249.68,3,1,2,3,0.0797,No,Sold in only 3 of the last 16 weeks,No,297.07
+S-F3C38A,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,789.0,2,7,9,7,0.0796,No,Sold in only 7 of the last 16 weeks,No,792.0
+S-14A082,SP,São Paulo,Brazil,Sao Paulo,Electronics,1383.0,4,8,9,7,0.0795,No,Sold in only 7 of the last 16 weeks,No,802.4
+S-B85553,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Office furniture,1273.9,2,9,16,9,0.079,No,No sale in 16 days,No,664.4
+S-B92E3C,MG,Minas Gerais,Brazil,Uba,Furniture decor,2048.4,5,9,3,8,0.0779,No,"New seller, 529 days on the marketplace",No,329.8
+S-6A8A88,SP,São Paulo,Brazil,Sao Paulo,Small appliances,860.82,2,24,26,9,0.0778,No,No sale in 26 days,Yes,0.0
+S-51E4E8,RS,Rio Grande do Sul,Brazil,Rio Grande,Garden tools,545.79,1,9,5,7,0.0776,No,Sold in only 7 of the last 16 weeks,No,276.79
+S-058FD0,SP,São Paulo,Brazil,Santo Andre,Perfumery,2389.4,3,16,23,10,0.0773,No,No sale in 23 days,Yes,0.0
+S-B32BE1,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Kitchen dining laundry garden furniture,6637.0,2,8,1,7,0.077,No,Sold in only 7 of the last 16 weeks,No,3195.0
+S-E2C92F,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Auto,1087.7,3,6,12,7,0.0767,No,Sold in only 7 of the last 16 weeks,No,807.0
+S-1A932C,SP,São Paulo,Brazil,Sao Paulo,Construction tools construction,2836.0,3,6,6,6,0.0757,No,Sold in only 6 of the last 16 weeks,No,1825.0
+S-3092C0,SP,São Paulo,Brazil,Aruja,Housewares,1079.8,3,9,1,7,0.075,No,Sold in only 7 of the last 16 weeks,Yes,0.0
+S-0CBCEE,MG,Minas Gerais,Brazil,Tres Coracoes,Fashion bags accessories,1913.15,3,13,13,10,0.075,No,"New seller, 489 days on the marketplace",No,199.0
+S-B14DB0,SP,São Paulo,Brazil,Sorocaba,Furniture decor,607.1,3,10,6,9,0.075,No,"New seller, 632 days on the marketplace",No,268.8
+S-9D681C,PR,Paraná,Brazil,Curitiba,Sports leisure,299.2,4,3,10,5,0.0749,No,Sold in only 5 of the last 16 weeks,No,486.4
+S-431AF2,SP,São Paulo,Brazil,Ribeirao Preto,Health beauty,1420.9,1,10,3,8,0.0748,No,"New seller, 430 days on the marketplace",No,407.7
+S-C86403,PR,Paraná,Brazil,Campo Largo,Sports leisure,2788.5,3,12,12,9,0.0745,No,"New seller, 346 days on the marketplace",No,1319.4
+S-5CBBD5,PR,Paraná,Brazil,Pinhais,Housewares,856.8,3,10,11,9,0.074,No,"New seller, 289 days on the marketplace",No,929.47
+S-B33AAA,SP,São Paulo,Brazil,Limeira,Housewares,958.0,3,7,9,8,0.074,No,Sold in only 8 of the last 16 weeks,Yes,0.0
+S-01FD07,SP,São Paulo,Brazil,Ribeirao Preto / Sao Paulo,Health beauty,472.0,3,11,1,6,0.0736,No,Sold in only 6 of the last 16 weeks,No,736.0
+S-624F4E,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,3021.0,1,17,7,10,0.0732,No,"New seller, 634 days on the marketplace",No,954.0
+S-25E6FF,SP,São Paulo,Brazil,Sao Paulo,Toys,1058.28,3,13,6,9,0.0725,No,"New seller, 632 days on the marketplace",Yes,0.0
+S-BA5DAA,SP,São Paulo,Brazil,Sao Paulo,Toys,559.1,2,9,15,9,0.0718,No,No sale in 15 days,No,139.8
+S-113E3A,SP,São Paulo,Brazil,Aparecida,Christmas supplies,277.49,2,9,7,9,0.0717,No,"New seller, 343 days on the marketplace",No,139.23
+S-C0AFF2,SC,Santa Catarina,Brazil,Florianopolis,Stationery,173.8,3,0,10,2,0.0713,No,Sold in only 2 of the last 16 weeks,No,15.0
+S-C8B344,SP,São Paulo,Brazil,Sao Paulo,Toys,794.51,1,8,3,8,0.0709,No,Orders down 53% vs the 12 weeks before,Yes,0.0
+S-2D50D6,SP,São Paulo,Brazil,Ibitinga,Bed bath table,865.9,4,4,2,7,0.0707,No,Sold in only 7 of the last 16 weeks,No,107.7
+S-3D2531,MG,Minas Gerais,Brazil,Contagem,Health beauty,1299.74,3,5,2,6,0.0705,No,Sold in only 6 of the last 16 weeks,No,699.8
+S-7FDB07,PR,Paraná,Brazil,Toledo,Furniture bedroom,1585.0,3,4,2,6,0.0703,No,Sold in only 6 of the last 16 weeks,No,219.0
+S-994F04,SP,São Paulo,Brazil,Jaguariuna,Housewares,707.0,2,9,6,8,0.0691,No,Orders down 29% vs the 12 weeks before,No,36.9
+S-7E93A4,SP,São Paulo,Brazil,Barueri,Watches gifts,3881.96,1,12,1,8,0.0688,No,"New seller, 630 days on the marketplace",No,209.0
+S-0DF398,MG,Minas Gerais,Brazil,Betim,Health beauty,1906.05,1,19,13,10,0.0677,No,"New seller, 475 days on the marketplace",Yes,0.0
+S-AC3508,RS,Rio Grande do Sul,Brazil,Canoas,Toys,1263.7,5,7,8,8,0.0674,No,"New seller, 403 days on the marketplace",No,384.6
+S-3C487A,DF,Distrito Federal,Brazil,Gama,Fashion bags accessories,3254.7,2,11,4,9,0.0674,No,"New seller, 325 days on the marketplace",No,999.6
+S-40D54B,SP,São Paulo,Brazil,Santo Andre,Health beauty,2884.97,3,11,4,9,0.0668,No,"New seller, 357 days on the marketplace",No,784.5
+S-F27E33,SP,São Paulo,Brazil,Sao Paulo,Pet shop,1344.4,1,14,9,9,0.0667,No,"New seller, 340 days on the marketplace",No,817.8
+S-5B2E94,SP,São Paulo,Brazil,Sao Paulo,Auto,734.8,3,5,2,6,0.0664,No,Sold in only 6 of the last 16 weeks,No,214.98
+S-2EB702,SP,São Paulo,Brazil,Campinas,Watches gifts,24714.19,9,125,26,9,0.0661,No,No sale in 26 days,No,13036.28
+S-06579C,SP,São Paulo,Brazil,Sao Paulo - Sp,Housewares,648.0,6,3,1,6,0.0661,No,Sold in only 6 of the last 16 weeks,No,695.2
+S-F3B803,DF,Distrito Federal,Brazil,Brasilia,Health beauty,2410.0,2,15,3,9,0.0661,No,"New seller, 501 days on the marketplace",No,1260.0
+S-6D803C,SP,São Paulo,Brazil,Sao Joaquim Da Barra,Sports leisure,2604.5,1,16,24,11,0.0661,No,No sale in 24 days,Yes,0.0
+S-F45122,SP,São Paulo,Brazil,Piracicaba,Pet shop,2239.85,1,24,25,11,0.0661,No,No sale in 25 days,No,686.26
+S-BC47D5,SP,São Paulo,Brazil,Santo Andre,Sports leisure,452.5,4,7,8,8,0.0658,No,Sold in only 8 of the last 16 weeks,No,181.0
+S-CAA9BC,SP,São Paulo,Brazil,Jacarei,Toys,664.9,3,6,6,7,0.0651,No,Sold in only 7 of the last 16 weeks,No,138.97
+S-D06D01,SP,São Paulo,Brazil,Cotia,Health beauty,2257.94,3,11,11,8,0.0649,No,Orders down 16% vs the 12 weeks before,No,157.99
+S-FFFD54,SP,São Paulo,Brazil,Amparo,Housewares,2156.3,2,14,15,10,0.0648,No,"New seller, 341 days on the marketplace",No,771.4
+S-58F1A6,MG,Minas Gerais,Brazil,Conselheiro Lafaiete,Watches gifts,1331.0,6,3,1,4,0.0646,No,Sold in only 4 of the last 16 weeks,No,5502.0
+S-76D64C,PR,Paraná,Brazil,Curitiba,Toys,4272.9,6,11,1,8,0.0646,No,"New seller, 401 days on the marketplace",No,1390.6
+S-817245,SP,São Paulo,Brazil,Bauru,Auto,2942.9,5,12,12,9,0.0643,No,No sale in 12 days,No,149.9
+S-9803A4,GO,Goiás,Brazil,Rio Verde,Computers accessories,3440.0,3,2,2,5,0.0641,No,Sold in only 5 of the last 16 weeks,No,838.75
+S-8C5E00,SP,São Paulo,Brazil,Indaiatuba,Health beauty,585.75,3,0,2,2,0.0638,No,Sold in only 2 of the last 16 weeks,No,443.36
+S-D4E12E,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,638.0,5,8,1,8,0.0635,No,"New seller, 296 days on the marketplace",No,148.5
+S-0176F7,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1730.5,4,11,2,8,0.063,No,Sold in only 8 of the last 16 weeks,No,1059.1
+S-FAD449,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,1499.0,2,9,2,8,0.0628,No,Orders down 29% vs the 12 weeks before,No,1650.0
+S-7139DC,SP,São Paulo,Brazil,Amparo,Furniture decor,997.0,2,10,3,8,0.0625,No,Orders down 35% vs the 12 weeks before,No,249.0
+S-431050,SP,São Paulo,Brazil,Sao Paulo,Health beauty,1000.2,5,3,1,5,0.0623,No,Sold in only 5 of the last 16 weeks,No,487.6
+S-5C0300,SC,Santa Catarina,Brazil,Sao Jose,Housewares,777.0,3,0,7,2,0.062,No,Sold in only 2 of the last 16 weeks,No,3387.4
+S-E3A386,SP,São Paulo,Brazil,Engenheiro Coelho,Health beauty,420.3,3,6,4,8,0.0617,No,Only 14 orders all time,No,121.4
+S-CE69A8,PR,Paraná,Brazil,Curitiba,Cool stuff,3254.33,3,10,9,8,0.0616,No,Only 13 orders all time,No,1563.67
+S-750303,GO,Goiás,Brazil,Goiania,Sports leisure,2335.2,3,16,5,9,0.0607,No,Orders down 40% vs the 12 weeks before,No,1782.2
+S-B274BA,RS,Rio Grande do Sul,Brazil,Montenegro,Toys,427.9,4,1,3,4,0.0605,No,Sold in only 4 of the last 16 weeks,No,158.0
+S-CC63F0,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Housewares,2094.85,5,11,4,6,0.0605,No,Sold in only 6 of the last 16 weeks,No,5001.86
+S-2D2322,SP,São Paulo,Brazil,Sao Paulo,Health beauty,50.2,3,0,11,3,0.0603,No,Sold in only 3 of the last 16 weeks,No,126.2
+S-08084D,SP,São Paulo,Brazil,Sao Paulo,Electronics,218.5,6,1,1,4,0.0602,No,Sold in only 4 of the last 16 weeks,No,88.4
+S-D25AA0,SC,Santa Catarina,Brazil,Massaranduba,Housewares,1587.64,3,8,5,8,0.0589,No,Only 11 orders all time,No,1070.81
+S-CCF881,SP,São Paulo,Brazil,Taubate,Furniture decor,1482.0,4,10,12,10,0.0588,No,"New seller, 304 days on the marketplace",No,219.9
+S-C3867B,SP,São Paulo,Brazil,Guara,Sports leisure,3423.6,6,16,2,8,0.0574,No,"New seller, 457 days on the marketplace",No,663.0
+S-7B7F91,SP,São Paulo,Brazil,Osasco,Housewares,299.71,3,5,2,7,0.0573,No,Sold in only 7 of the last 16 weeks,No,117.76
+S-23A0FF,SP,São Paulo,Brazil,Sao Pedro,Garden tools,2008.56,3,14,5,8,0.0573,No,Orders down 32% vs the 12 weeks before,No,1709.95
+S-891071,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,745.82,8,16,12,10,0.0572,No,"New seller, 522 days on the marketplace",No,338.92
+S-CE616E,SP,São Paulo,Brazil,Cotia,Auto,213.4,4,3,9,6,0.0571,No,Sold in only 6 of the last 16 weeks,No,151.7
+S-B372EE,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Fashion bags accessories,3565.0,5,11,11,10,0.0569,No,"New seller, 469 days on the marketplace",No,350.0
+S-DBDD0E,CE,Ceará,Brazil,Fortaleza,Health beauty,2793.0,4,3,3,6,0.0569,No,Sold in only 6 of the last 16 weeks,No,3591.0
+S-57E632,SC,Santa Catarina,Brazil,Navegantes,Health beauty,1044.98,2,9,6,10,0.0569,No,"New seller, 510 days on the marketplace",No,448.9
+S-1EADE4,SP,São Paulo,Brazil,Sao Paulo,Health beauty,1115.65,6,11,1,9,0.0566,No,"New seller, 502 days on the marketplace",No,437.94
+S-D1C7FA,RS,Rio Grande do Sul,Brazil,Jacutinga,Garden tools,887.13,2,8,3,8,0.056,No,Only 10 orders all time,No,268.9
+S-B33E7C,SP,São Paulo,Brazil,Pradopolis,Watches gifts,5299.91,1,16,20,10,0.0559,No,No sale in 20 days,No,1265.58
+S-411F3B,SP,São Paulo,Brazil,Ribeirao Pires,Construction tools construction,1237.24,2,9,6,8,0.0559,No,Only 11 orders all time,No,566.77
+S-54965B,PR,Paraná,Brazil,Foz Do Iguacu,Bed bath table,2859.9,16,7,1,5,0.0556,No,Sold in only 5 of the last 16 weeks,No,419.5
+S-FFC470,SP,São Paulo,Brazil,Guarulhos,Housewares,653.32,3,10,3,8,0.0556,No,Orders down 9% vs the 12 weeks before,No,440.12
+S-7ADE73,SP,São Paulo,Brazil,Bauru,Computers accessories,1521.5,5,17,12,8,0.0555,No,Orders down 11% vs the 12 weeks before,No,358.8
+S-709E16,SP,São Paulo,Brazil,Birigui,Health beauty,1095.6,6,8,3,8,0.0555,No,Sold in only 8 of the last 16 weeks,No,1940.7
+S-F18173,SP,São Paulo,Brazil,Carapicuiba,Cool stuff,2688.7,1,14,2,10,0.0552,No,"New seller, 411 days on the marketplace",No,840.9
+S-1127B7,SP,São Paulo,Brazil,Campinas,Garden tools,1643.96,4,14,19,11,0.0551,No,"New seller, 491 days on the marketplace",No,458.93
+S-CEE488,SP,São Paulo,Brazil,Guaruja,Auto,1553.7,3,8,11,10,0.055,No,"New seller, 330 days on the marketplace",No,65.9
+S-522620,PR,Paraná,Brazil,Cascavel,Consoles games,15984.98,1,40,23,12,0.055,No,"New seller, 635 days on the marketplace",No,3980.0
+S-B410BD,GO,Goiás,Brazil,Goiania,Housewares,4743.9,7,20,13,9,0.0548,No,No sale in 13 days,No,1730.0
+S-DAEB56,MG,Minas Gerais,Brazil,Belo Horizonte,Toys,277.8,4,7,6,9,0.0546,No,"New seller, 296 days on the marketplace",No,178.6
+S-E256A6,PR,Paraná,Brazil,Curitiba,Housewares,1007.89,2,7,6,8,0.0545,No,Only 9 orders all time,No,466.22
+S-5670F4,SP,São Paulo,Brazil,Sao Paulo,Perfumery,3011.44,7,8,10,7,0.0543,No,Sold in only 7 of the last 16 weeks,No,3618.65
+S-7722B1,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Housewares,1335.07,7,14,13,10,0.054,No,"New seller, 527 days on the marketplace",No,396.1
+S-6973A0,SP,São Paulo,Brazil,Sao Jose Dos Campos,Computers accessories,4571.32,2,42,14,9,0.0535,No,Orders down 83% vs the 12 weeks before,Yes,0.0
+S-EA6732,SP,São Paulo,Brazil,Ibitinga,Bed bath table,2197.71,7,4,2,7,0.053,No,Sold in only 7 of the last 16 weeks,No,3242.47
+S-BD15EE,SP,São Paulo,Brazil,Ribeirao Preto,Sports leisure,317.0,5,5,1,7,0.0527,No,Sold in only 7 of the last 16 weeks,No,57.8
+S-2A5B78,MG,Minas Gerais,Brazil,Formiga,Health beauty,12338.1,7,14,11,10,0.0526,No,"New seller, 363 days on the marketplace",No,1500.16
+S-5BC24D,MG,Minas Gerais,Brazil,Campo Do Meio,Auto,1998.4,4,7,5,7,0.0526,No,Sold in only 7 of the last 16 weeks,No,1149.6
+S-CD6EFC,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Stationery,1677.69,3,9,1,9,0.0524,No,Orders flat while peers grow,No,1705.87
+S-E3D3B3,SP,São Paulo,Brazil,Sao Paulo,Home construction,1282.05,3,0,5,3,0.0524,No,Sold in only 3 of the last 16 weeks,Yes,0.0
+S-82CB9F,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Small appliances,762.9,6,6,6,7,0.0523,No,Sold in only 7 of the last 16 weeks,No,75.3
+S-E067AD,SP,São Paulo,Brazil,Santos,Pet shop,1581.7,6,9,7,10,0.0522,No,"New seller, 514 days on the marketplace",No,1225.25
+S-E89C4A,SP,São Paulo,Brazil,Indaiatuba,Sports leisure,1133.6,1,8,3,9,0.0511,No,Orders down 53% vs the 12 weeks before,No,387.9
+S-1F9AB4,SP,São Paulo,Brazil,Tupa,Baby,4247.5,1,24,28,13,0.0511,No,No sale in 28 days,Yes,0.0
+S-76D5AF,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,3578.3,3,20,12,11,0.0511,No,"New seller, 634 days on the marketplace",No,973.6
+S-CA3BD7,SP,São Paulo,Brazil,Sao Paulo,Housewares,2387.3,2,15,10,11,0.0502,No,"New seller, 521 days on the marketplace",No,766.26
+S-95EC44,SP,São Paulo,Brazil,Limeira,Furniture decor,887.13,3,10,12,10,0.0501,No,Orders down 9% vs the 12 weeks before,No,812.83
+S-CEA729,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,1433.8,3,8,2,8,0.0499,No,Only 11 orders all time,No,1048.3
+S-B94CC9,RJ,Rio de Janeiro,Brazil,Macae,Toys,9348.7,1,12,18,11,0.0499,No,No sale in 18 days,Yes,0.0
+S-7E3F87,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,1205.04,4,15,9,10,0.0496,No,"New seller, 366 days on the marketplace",No,1075.32
+S-048C27,SP,São Paulo,Brazil,Franca,Fashion shoes,2812.59,4,12,11,11,0.0493,No,"New seller, 483 days on the marketplace",No,1071.79
+S-2BF6A2,RJ,Rio de Janeiro,Brazil,Nova Friburgo,Watches gifts,18279.9,3,7,2,9,0.0491,No,Orders flat while peers grow,No,4399.7
+S-729B2D,SP,São Paulo,Brazil,Mineiros Do Tiete,Health beauty,427.31,3,8,4,9,0.049,No,Orders flat while peers grow,No,496.42
+S-DAF565,SC,Santa Catarina,Brazil,Brusque,Bed bath table,130.7,3,0,2,2,0.0488,No,Sold in only 2 of the last 16 weeks,No,683.2
+S-6E1862,SP,São Paulo,Brazil,Rio Claro,Signaling and security,150.99,3,0,4,3,0.0488,No,Sold in only 3 of the last 16 weeks,No,581.5
+S-CE248B,SC,Santa Catarina,Brazil,Jaragua Do Sul,Musical instruments,4269.51,3,14,7,10,0.0487,No,"New seller, 347 days on the marketplace",No,1164.48
+S-25CF09,SP,São Paulo,Brazil,Cotia,Auto,463.02,3,11,4,10,0.0487,No,"New seller, 389 days on the marketplace",No,157.18
+S-E9D998,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,536.93,3,15,5,10,0.0481,No,"New seller, 522 days on the marketplace",No,50.97
+S-698F5F,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,120.0,4,0,10,2,0.0481,No,Sold in only 2 of the last 16 weeks,Yes,0.0
+S-C12B92,SP,São Paulo,Brazil,Garca,Auto,4213.98,4,10,1,7,0.048,No,Sold in only 7 of the last 16 weeks,No,594.8
+S-C3E1AB,SP,São Paulo,Brazil,Mogi Guacu,Pet shop,1170.76,6,2,1,4,0.0476,No,Sold in only 4 of the last 16 weeks,No,627.85
+S-4E17C6,SP,São Paulo,Brazil,Suzano,Health beauty,1540.78,4,9,12,11,0.0474,No,"New seller, 474 days on the marketplace",No,1756.69
+S-DBB9B4,SP,São Paulo,Brazil,Sao Paulo,Housewares,647.6,5,5,4,9,0.0469,No,"New seller, 535 days on the marketplace",Yes,0.0
+S-8B28D0,SP,São Paulo,Brazil,Sao Jose Dos Campos,Health beauty,1185.67,2,18,4,10,0.0463,No,"New seller, 487 days on the marketplace",No,242.23
+S-744DAC,PR,Paraná,Brazil,Colombo,Watches gifts,5914.6,4,15,4,10,0.0462,No,"New seller, 434 days on the marketplace",No,1193.0
+S-271C58,SP,São Paulo,Brazil,Sao Paulo,Baby,1759.16,9,3,9,5,0.0461,No,Sold in only 5 of the last 16 weeks,No,2138.36
+S-070D16,SP,São Paulo,Brazil,Sao Paulo,Pet shop,1725.45,4,11,3,10,0.0456,No,"New seller, 310 days on the marketplace",No,787.82
+S-AE45DF,SP,São Paulo,Brazil,Sao Paulo,Health beauty,624.86,6,0,11,3,0.0455,No,Sold in only 3 of the last 16 weeks,No,248.97
+S-CC5A78,MG,Minas Gerais,Brazil,Divinopolis,Housewares,1485.58,8,4,1,5,0.0454,No,Sold in only 5 of the last 16 weeks,No,2783.6
+S-0C8380,MG,Minas Gerais,Brazil,Tres Coracoes,Bed bath table,790.6,7,1,2,5,0.045,No,Sold in only 5 of the last 16 weeks,No,1108.3
+S-E0A366,SP,São Paulo,Brazil,Sao Paulo,Construction tools construction,3602.7,4,15,9,11,0.0449,No,"New seller, 385 days on the marketplace",No,1519.2
+S-9E6229,SP,São Paulo,Brazil,Mirandopolis,Baby,6366.5,11,21,1,9,0.0446,No,"New seller, 279 days on the marketplace",No,4816.8
+S-5A05A1,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Housewares,669.5,1,11,1,9,0.0446,No,Orders down 64% vs the 12 weeks before,No,29.9
+S-41DA41,ES,Espírito Santo,Brazil,Domingos Martins,Sports leisure,674.4,3,8,10,10,0.0446,No,Only 15 orders all time,Yes,0.0
+S-28F10B,SP,São Paulo,Brazil,Sao Paulo,Electronics,383.0,5,13,8,8,0.0444,No,Sold in only 8 of the last 16 weeks,No,452.0
+S-FB3CFB,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Bed bath table,179.7,3,0,3,3,0.0442,No,Sold in only 3 of the last 16 weeks,No,827.6
+S-2E13C7,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,2300.0,3,10,7,10,0.0439,No,Orders down 9% vs the 12 weeks before,No,714.0
+S-05D217,MG,Minas Gerais,Brazil,Alfenas,Auto,1017.81,4,9,1,9,0.0435,No,"New seller, 276 days on the marketplace",No,779.83
+S-7178F9,SC,Santa Catarina,Brazil,Videira,Health beauty,6063.6,1,18,4,10,0.043,No,"New seller, 466 days on the marketplace",No,1151.4
+S-C8B0E2,SP,São Paulo,Brazil,Itaquaquecetuba,Auto,5514.68,5,28,12,11,0.0427,No,"New seller, 353 days on the marketplace",No,1788.9
+S-F7720C,PR,Paraná,Brazil,Curitiba,Furniture decor,911.1,1,25,3,11,0.0426,No,"New seller, 459 days on the marketplace",No,237.3
+S-6DDC28,SP,São Paulo,Brazil,Sao Paulo,Toys,516.7,3,0,4,3,0.0421,No,Sold in only 3 of the last 16 weeks,No,1216.2
+S-440DD6,SP,São Paulo,Brazil,Votuporanga,Sports leisure,2697.5,1,15,2,11,0.0419,No,"New seller, 634 days on the marketplace",No,263.9
+S-4C498C,SP,São Paulo,Brazil,Carapicuiba,Health beauty,2422.28,3,14,16,11,0.0416,No,No sale in 16 days,No,885.58
+S-4978A0,SP,São Paulo,Brazil,Sao Paulo,Construction tools construction,1320.65,3,11,4,9,0.0416,No,Orders down 16% vs the 12 weeks before,No,1035.96
+S-00FC70,PR,Paraná,Brazil,Maringa,Computers accessories,2730.9,2,20,17,10,0.0412,No,No sale in 17 days,Yes,0.0
+S-3DF020,SP,São Paulo,Brazil,Jales,Furniture decor,1097.8,3,8,2,10,0.0411,No,"New seller, 351 days on the marketplace",No,948.1
+S-B39D7F,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1890.1,5,14,10,11,0.0408,No,"New seller, 287 days on the marketplace",No,2191.8
+S-990022,MT,Mato Grosso,Brazil,Cuiaba,Baby,2260.0,3,16,10,11,0.0407,No,Orders down 40% vs the 12 weeks before,No,555.0
+S-42FA4E,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Unknown,3027.8,1,16,5,10,0.0401,No,Orders down 74% vs the 12 weeks before,No,298.9
+S-70A12E,SP,São Paulo,Brazil,Jacarei,Computers accessories,7116.0,4,44,3,10,0.0399,No,"New seller, 529 days on the marketplace",No,189.0
+S-E96498,SP,São Paulo,Brazil,Sao Paulo,Auto,3859.86,2,12,9,11,0.0399,No,Orders down 44% vs the 12 weeks before,No,214.99
+S-B90E89,PR,Paraná,Brazil,Sao Jose Dos Pinhais,Health beauty,2090.0,7,5,3,9,0.0398,No,"New seller, 316 days on the marketplace",No,762.0
+S-406822,SP,São Paulo,Brazil,Tatui,Toys,1871.38,2,21,1,10,0.0395,No,Orders down 67% vs the 12 weeks before,No,788.4
+S-83DEB6,SC,Santa Catarina,Brazil,Florianopolis,Musical instruments,2088.06,2,15,4,11,0.0394,No,"New seller, 348 days on the marketplace",No,918.4
+S-3B1528,SP,São Paulo,Brazil,Ibitinga,Bed bath table,2445.79,5,11,2,10,0.039,No,"New seller, 465 days on the marketplace",No,629.95
+S-CAC4C8,SP,São Paulo,Brazil,Indaiatuba,Furniture decor,874.75,4,20,8,12,0.039,No,"New seller, 630 days on the marketplace",No,540.87
+S-8DAAB2,SP,São Paulo,Brazil,Sao Paulo,Costruction tools tools,1453.69,4,10,6,9,0.0389,No,Only 14 orders all time,No,150.9
+S-5058E8,SP,São Paulo,Brazil,Itaquaquecetuba,Office furniture,4326.33,13,10,10,9,0.0381,No,"New seller, 257 days on the marketplace",No,829.91
+S-E9BC59,PR,Paraná,Brazil,Maringa,Computers accessories,5251.3,8,27,1,10,0.0379,No,"New seller, 480 days on the marketplace",No,7388.23
+S-D1EF48,PR,Paraná,Brazil,Apucarana,Small appliances,1025.76,2,19,15,11,0.0369,No,Orders down 63% vs the 12 weeks before,No,409.38
+S-1DC2DE,SP,São Paulo,Brazil,Ibitinga,Bed bath table,826.6,3,10,5,10,0.0367,No,Orders down 9% vs the 12 weeks before,No,446.3
+S-4677A5,PR,Paraná,Brazil,Japira,Auto,3095.8,5,4,4,8,0.0367,No,Only 9 orders all time,No,319.9
+S-897060,SP,São Paulo,Brazil,Ribeirao Preto,Computers accessories,2384.23,5,34,16,12,0.0365,No,"New seller, 634 days on the marketplace",Yes,0.0
+S-080199,SP,São Paulo,Brazil,Osasco,Auto,5370.19,1,28,8,11,0.0358,No,Orders down 85% vs the 12 weeks before,No,443.0
+S-00EE68,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,4019.0,2,23,12,11,0.0352,No,Orders down 69% vs the 12 weeks before,No,317.0
+S-4992E7,SP,São Paulo,Brazil,Sao Paulo,Housewares,568.2,5,10,5,11,0.0349,No,"New seller, 414 days on the marketplace",No,255.8
+S-02F623,SP,São Paulo,Brazil,Botucatu,Sports leisure,1840.0,8,6,1,7,0.0348,No,Sold in only 7 of the last 16 weeks,No,4538.0
+S-4C2B23,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,2297.4,6,32,17,12,0.0348,No,"New seller, 501 days on the marketplace",No,906.4
+S-670C26,PR,Paraná,Brazil,Maringa,Sports leisure,2155.3,2,25,19,12,0.0345,No,No sale in 19 days,No,209.5
+S-4A3CCD,SP,São Paulo,Brazil,Marilia,Construction tools safety,5088.53,7,12,4,10,0.0345,No,"New seller, 290 days on the marketplace",No,690.77
+S-D8C7BA,PR,Paraná,Brazil,Floresta,Baby,520.95,8,2,5,5,0.0343,No,Sold in only 5 of the last 16 weeks,No,669.92
+S-CE7D18,MG,Minas Gerais,Brazil,Baependi,Housewares,4638.0,5,25,15,12,0.0342,No,"New seller, 322 days on the marketplace",No,1451.99
+S-596849,SP,São Paulo,Brazil,Mogi Das Cruses,Telephony,430.6,4,0,2,3,0.0341,No,Sold in only 3 of the last 16 weeks,No,674.1
+S-F789D2,MG,Minas Gerais,Brazil,Juiz De Fora,Pet shop,2429.8,5,14,8,12,0.0341,No,"New seller, 452 days on the marketplace",No,869.93
+S-FFA6AD,PR,Paraná,Brazil,Londrina,Cine photo,2155.0,2,12,4,10,0.0339,No,Orders down 44% vs the 12 weeks before,No,514.9
+S-F91854,SP,São Paulo,Brazil,Sao Paulo,Garden tools,1263.0,2,14,4,11,0.0338,No,Orders down 52% vs the 12 weeks before,Yes,0.0
+S-66DC1B,SP,São Paulo,Brazil,Jau,Sports leisure,1683.8,5,9,4,11,0.0333,No,"New seller, 346 days on the marketplace",No,587.8
+S-8444E5,MG,Minas Gerais,Brazil,Congonhal,Perfumery,4638.4,8,10,1,10,0.0332,No,"New seller, 474 days on the marketplace",Yes,0.0
+S-C72DE0,BA,Bahia,Brazil,Guanambi,Computers accessories,12318.0,7,3,1,6,0.0331,No,Sold in only 6 of the last 16 weeks,No,5204.0
+S-2D42EB,GO,Goiás,Brazil,Uruacu,Small appliances,356.0,3,0,1,2,0.0325,No,Sold in only 2 of the last 16 weeks,No,565.5
+S-EA5661,SP,São Paulo,Brazil,Sao  Paulo,Health beauty,3332.84,5,20,16,12,0.0323,No,No sale in 16 days,No,689.69
+S-138DBE,SP,São Paulo,Brazil,Sao Paulo,Housewares,449.2,12,13,1,7,0.0321,No,Sold in only 7 of the last 16 weeks,No,676.36
+S-6AA392,RJ,Rio de Janeiro,Brazil,Nova Iguacu,Health beauty,1966.0,3,13,12,11,0.0321,No,Orders down 28% vs the 12 weeks before,No,109.0
+S-76EA53,SP,São Paulo,Brazil,Sao Paulo,Auto,968.96,7,5,4,7,0.0316,No,Sold in only 7 of the last 16 weeks,No,118.1
+S-B6D447,SP,São Paulo,Brazil,Santo Andre,Housewares,1587.9,3,19,13,13,0.0315,No,"New seller, 472 days on the marketplace",No,985.7
+S-DFC5FB,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Garden tools,2934.75,7,9,5,11,0.0313,No,"New seller, 338 days on the marketplace",No,654.96
+S-7F35F9,SP,São Paulo,Brazil,Valinhos,Diapers and hygiene,216.0,4,0,2,2,0.0312,No,Sold in only 2 of the last 16 weeks,No,36.0
+S-ADBC26,PR,Paraná,Brazil,Curitiba,Baby,2167.2,1,18,3,11,0.0312,No,Orders down 77% vs the 12 weeks before,No,919.2
+S-B74D1C,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Housewares,2094.63,3,25,20,12,0.0311,No,No sale in 20 days,No,106.98
+S-DC4A0F,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1463.18,7,11,1,10,0.0309,No,"New seller, 511 days on the marketplace",No,788.27
+S-6EDACF,SP,São Paulo,Brazil,Guarulhos,Furniture decor,1614.8,4,25,19,13,0.0308,No,"New seller, 529 days on the marketplace",No,1018.1
+S-550295,MG,Minas Gerais,Brazil,Contagem,Sports leisure,336.0,4,0,5,3,0.0306,No,Sold in only 3 of the last 16 weeks,No,117.95
+S-72C5DA,SP,São Paulo,Brazil,Guarulhos,Construction tools construction,8208.81,8,11,5,9,0.0302,No,Only 19 orders all time,No,3589.88
+S-AD420D,MG,Minas Gerais,Brazil,Fronteira,Health beauty,2155.49,7,8,2,11,0.0298,No,"New seller, 430 days on the marketplace",No,824.96
+S-6E386F,SP,São Paulo,Brazil,Sao Paulo,Health beauty,7047.1,3,15,12,11,0.0296,No,Orders down 36% vs the 12 weeks before,No,5891.2
+S-2A261B,SP,São Paulo,Brazil,Porto Ferreira,Furniture decor,2530.0,4,19,2,11,0.0295,No,Orders down 34% vs the 12 weeks before,No,695.0
+S-7C5B05,SP,São Paulo,Brazil,Sao Paulo,Books imported,661.13,8,9,1,8,0.0292,No,Sold in only 8 of the last 16 weeks,No,377.83
+S-45BA18,SP,São Paulo,Brazil,Sao Roque,Baby,3928.17,5,22,7,10,0.029,No,Orders down 30% vs the 12 weeks before,No,1561.06
+S-282F23,MG,Minas Gerais,Brazil,Belo Horizonte,Food drink,1522.61,7,20,3,11,0.0288,No,"New seller, 351 days on the marketplace",No,825.87
+S-6B3BD3,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Sports leisure,4012.3,3,30,13,11,0.0285,No,Orders down 67% vs the 12 weeks before,No,186.6
+S-BA143B,SP,São Paulo,Brazil,Sao Paulo,Books technical,4105.51,11,48,7,9,0.0284,No,Orders down 30% vs the 12 weeks before,No,2005.07
+S-C8C1BE,SC,Santa Catarina,Brazil,Porto Belo,Pet shop,1146.0,6,0,11,2,0.0283,No,Sold in only 2 of the last 16 weeks,No,120.0
+S-1D4587,SP,São Paulo,Brazil,Sao Paulo,Auto,1243.9,5,15,4,11,0.0283,No,Orders flat while peers grow,No,703.2
+S-06DF0C,PR,Paraná,Brazil,Maringa,Sports leisure,6379.0,3,15,9,11,0.0282,No,Orders down 36% vs the 12 weeks before,No,2691.0
+S-1B4C3A,SC,Santa Catarina,Brazil,Sao Ludgero,Housewares,2918.11,2,21,12,13,0.0282,No,"New seller, 499 days on the marketplace",No,1164.43
+S-77A515,SP,São Paulo,Brazil,Diadema,Stationery,1204.4,11,4,1,7,0.0278,No,Sold in only 7 of the last 16 weeks,No,750.99
+S-ABE42C,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,6870.0,6,16,9,12,0.0275,No,"New seller, 303 days on the marketplace",No,1387.0
+S-E883AA,SP,São Paulo,Brazil,Itapevi,Small appliances,2878.1,6,12,8,11,0.0274,No,Only 20 orders all time,No,749.3
+S-E59AA5,PR,Paraná,Brazil,Curitiba,Agro industry and commerce,10495.8,3,19,8,12,0.0272,No,Orders down 49% vs the 12 weeks before,No,2763.0
+S-95E03C,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Housewares,1359.65,2,27,17,13,0.0272,No,"New seller, 412 days on the marketplace",No,332.5
+S-8AE520,SC,Santa Catarina,Brazil,Navegantes,Watches gifts,4107.47,4,17,2,11,0.0271,No,Orders down 27% vs the 12 weeks before,No,2230.64
+S-0885AA,SP,São Paulo,Brazil,Ferraz De Vasconcelos,Bed bath table,1364.5,5,10,3,11,0.0271,No,Only 21 orders all time,No,759.1
+S-960945,SP,São Paulo,Brazil,Sao Paulo,Construction tools construction,1195.9,9,3,2,6,0.0271,No,Sold in only 6 of the last 16 weeks,No,2185.83
+S-E24D34,SP,São Paulo,Brazil,Sao Paulo,Health beauty,145.85,4,0,1,1,0.0271,No,Sold in only 1 of the last 16 weeks,No,1732.73
+S-E8B422,SP,São Paulo,Brazil,Novo Horizonte,Baby,3699.07,12,9,1,8,0.027,No,Sold in only 8 of the last 16 weeks,No,2089.45
+S-AAC29B,MG,Minas Gerais,Brazil,Uberlandia,Cool stuff,818.87,4,14,3,12,0.0267,No,"New seller, 521 days on the marketplace",No,198.97
+S-850913,SP,São Paulo,Brazil,Atibaia,Telephony,2366.0,3,24,8,11,0.0266,No,Orders down 59% vs the 12 weeks before,No,49.0
+S-F62D7B,MG,Minas Gerais,Brazil,Vicosa,Small appliances home oven and coffee,11320.0,4,11,3,11,0.0265,No,Orders flat while peers grow,No,7950.0
+S-D66C11,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Electronics,174.8,4,0,4,2,0.026,No,Sold in only 2 of the last 16 weeks,No,601.76
+S-3D4824,SP,São Paulo,Brazil,Sorocaba,Music,762.54,4,0,2,4,0.0259,No,Sold in only 4 of the last 16 weeks,No,278.5
+S-23C38D,SP,São Paulo,Brazil,Votorantim,Garden tools,3401.12,2,26,1,10,0.0258,No,Orders down 73% vs the 12 weeks before,No,1981.06
+S-7DDCBB,SP,São Paulo,Brazil,Sao Paulo,Cool stuff,4915.66,1,33,13,12,0.0258,No,Orders down 87% vs the 12 weeks before,Yes,0.0
+S-375156,SP,São Paulo,Brazil,Dracena,Consoles games,945.5,2,21,11,12,0.0257,No,"New seller, 355 days on the marketplace",No,72.4
+S-FCB5AC,SP,São Paulo,Brazil,Guarulhos,Cool stuff,3571.24,5,17,2,11,0.0256,No,Orders down 11% vs the 12 weeks before,No,626.82
+S-99A547,SP,São Paulo,Brazil,Sao Paulo,Housewares,2383.26,10,15,5,9,0.0255,No,Only 25 orders all time,No,1325.5
+S-F5A590,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Musical instruments,12167.0,7,28,3,12,0.0253,No,"New seller, 459 days on the marketplace",No,8137.0
+S-F84FA5,SP,São Paulo,Brazil,Indaiatuba,Health beauty,3760.19,10,56,5,12,0.0251,No,"New seller, 344 days on the marketplace",No,399.8
+S-BFD27A,SP,São Paulo,Brazil,Serra Negra,Toys,3667.0,5,9,6,12,0.0248,No,"New seller, 510 days on the marketplace",No,369.0
+S-8E8A7C,RJ,Rio de Janeiro,Brazil,Sao Goncalo,Computers accessories,3849.0,3,23,7,12,0.0241,No,Orders down 57% vs the 12 weeks before,No,2356.0
+S-F0B47F,SP,São Paulo,Brazil,Maua,Books general interest,2122.98,17,21,1,11,0.0241,No,"New seller, 340 days on the marketplace",No,1046.9
+S-C66DCC,SP,São Paulo,Brazil,Registro,Watches gifts,5731.05,6,16,12,12,0.0241,No,Orders flat while peers grow,No,4079.8
+S-972D0F,SC,Santa Catarina,Brazil,Brusque,Bed bath table,2460.52,6,20,10,12,0.024,No,Orders down 9% vs the 12 weeks before,No,567.24
+S-710E35,PR,Paraná,Brazil,Rolandia,Furniture decor,4558.54,7,15,1,12,0.024,No,"New seller, 631 days on the marketplace",No,2064.74
+S-0ED6CE,SP,São Paulo,Brazil,Americana,Electronics,1044.05,7,17,5,12,0.0237,No,"New seller, 268 days on the marketplace",No,236.47
+S-900BA8,SP,São Paulo,Brazil,Salto,Health beauty,7322.89,6,18,4,12,0.0236,No,"New seller, 361 days on the marketplace",No,4378.82
+S-A420F6,SP,São Paulo,Brazil,Sao Paulo,Baby,2685.1,9,11,2,11,0.0236,No,"New seller, 318 days on the marketplace",No,826.9
+S-DE23C3,SP,São Paulo,Brazil,Sao Paulo,Toys,6456.93,4,32,12,13,0.0235,No,"New seller, 421 days on the marketplace",No,867.86
+S-3C7C4A,SP,São Paulo,Brazil,Sao Paulo,Perfumery,377.73,3,21,17,13,0.0234,No,No sale in 17 days,No,51.97
+S-116CCB,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Auto,781.68,5,17,7,12,0.0229,No,Orders down 11% vs the 12 weeks before,No,294.3
+S-F84A00,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,1521.1,2,26,12,14,0.0222,No,"New seller, 495 days on the marketplace",No,68.5
+S-93DC87,MG,Minas Gerais,Brazil,Belo Horizonte,Watches gifts,4301.0,2,16,9,13,0.0221,No,Orders down 57% vs the 12 weeks before,No,1426.0
+S-1838DD,MG,Minas Gerais,Brazil,Belo Horizonte,Computers accessories,1308.9,10,18,5,12,0.022,No,"New seller, 337 days on the marketplace",No,39.9
+S-D650B6,SP,São Paulo,Brazil,Cotia,Watches gifts,12274.0,4,38,13,13,0.022,No,Orders down 66% vs the 12 weeks before,No,5287.9
+S-09F952,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Furniture decor,4832.96,3,16,6,13,0.0217,No,Orders down 40% vs the 12 weeks before,No,3111.0
+S-3D8FA2,SP,São Paulo,Brazil,Sao Paulo,Garden tools,2241.34,15,11,1,8,0.0212,No,Sold in only 8 of the last 16 weeks,No,1330.39
+S-E5A381,SP,São Paulo,Brazil,Sao Paulo,Housewares,4693.22,6,24,2,13,0.0211,No,"New seller, 630 days on the marketplace",No,395.72
+S-B1FC4F,RJ,Rio de Janeiro,Brazil,Sao Goncalo,Watches gifts,2643.27,1,36,4,13,0.021,No,"New seller, 417 days on the marketplace",No,683.76
+S-B76DBA,SP,São Paulo,Brazil,Sao Paulo,Telephony,457.53,8,17,9,13,0.0209,No,"New seller, 540 days on the marketplace",No,394.81
+S-17E34D,SP,São Paulo,Brazil,Riberao Preto,Perfumery,11964.09,4,25,8,13,0.0205,No,"New seller, 499 days on the marketplace",No,4579.04
+S-5A8E7D,SP,São Paulo,Brazil,Campinas,Furniture decor,2446.0,7,25,2,13,0.0205,No,"New seller, 634 days on the marketplace",No,1218.2
+S-594F9A,MG,Minas Gerais,Brazil,Contagem,Stationery,1870.9,8,12,5,10,0.0205,No,Only 20 orders all time,No,1377.9
+S-4BFC7A,SP,São Paulo,Brazil,Sao Paulo,Housewares,3805.1,4,12,1,11,0.0203,No,Orders flat while peers grow,No,4319.3
+S-A416B6,SP,São Paulo,Brazil,Sao Paulo,Health beauty,3498.3,3,28,3,13,0.0202,No,"New seller, 520 days on the marketplace",No,2101.11
+S-0EA22C,MG,Minas Gerais,Brazil,Sete Lagoas,Fashion bags accessories,1047.0,4,24,4,13,0.0202,No,"New seller, 632 days on the marketplace",No,269.2
+S-C013E5,SP,São Paulo,Brazil,Sao Carlos,Pet shop,1211.72,7,18,1,11,0.0198,No,Orders flat while peers grow,No,613.86
+S-C826C4,SP,São Paulo,Brazil,Guarulhos,Unknown,10715.62,5,76,7,12,0.0198,No,Orders down 79% vs the 12 weeks before,No,2164.06
+S-2E90CB,SP,São Paulo,Brazil,Sao Paulo,Electronics,4904.5,12,33,6,13,0.0196,No,"New seller, 479 days on the marketplace",No,1124.5
+S-D57E18,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,1246.5,3,21,5,13,0.0193,No,Orders down 53% vs the 12 weeks before,No,260.6
+S-36A968,SP,São Paulo,Brazil,Santos,Computers accessories,1005.49,15,21,2,12,0.0192,No,"New seller, 493 days on the marketplace",No,618.62
+S-FDE0CC,PR,Paraná,Brazil,Curitiba,Toys,1830.0,6,11,8,13,0.0192,No,"New seller, 262 days on the marketplace",No,794.0
+S-A3A38F,SC,Santa Catarina,Brazil,Joinville,Toys,2156.59,4,16,4,13,0.0192,No,"New seller, 633 days on the marketplace",No,1426.39
+S-CBD996,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Food,1936.63,3,32,2,13,0.0191,No,"New seller, 500 days on the marketplace",No,748.67
+S-7D456A,SP,São Paulo,Brazil,Mogi Das Cruzes,Bed bath table,2262.0,7,17,4,14,0.0191,No,"New seller, 632 days on the marketplace",No,1371.0
+S-01FDEF,PR,Paraná,Brazil,Londrina,Health beauty,1848.29,8,11,2,12,0.0189,No,"New seller, 430 days on the marketplace",No,2424.17
+S-8B9D6E,RJ,Rio de Janeiro,Brazil,Mesquita,Furniture living room,965.98,9,2,1,6,0.0186,No,Sold in only 6 of the last 16 weeks,No,3266.56
+S-46DC3B,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Toys,6699.68,11,21,12,13,0.0185,No,"New seller, 634 days on the marketplace",No,2799.88
+S-1C6839,PR,Paraná,Brazil,Sarandi,Computers accessories,3531.47,2,30,5,13,0.0183,No,"New seller, 350 days on the marketplace",No,1183.24
+S-D94A40,MG,Minas Gerais,Brazil,Baependi,Housewares,4455.0,6,26,14,14,0.018,No,"New seller, 343 days on the marketplace",No,1019.0
+S-951E8C,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1792.69,12,19,1,10,0.0179,No,Orders flat while peers grow,No,2299.6
+S-D98EEC,RS,Rio Grande do Sul,Brazil,Porto Alegre,Baby,899.77,5,17,2,13,0.0177,No,"New seller, 528 days on the marketplace",No,474.89
+S-069114,PR,Paraná,Brazil,Londrina,Sports leisure,2188.36,4,13,5,13,0.0177,No,Orders down 7% vs the 12 weeks before,No,1083.85
+S-65FEBD,SP,São Paulo,Brazil,Sao Paulo,Housewares,1895.82,9,8,3,10,0.0176,No,Only 17 orders all time,No,2423.88
+S-527801,SP,São Paulo,Brazil,Garca,Books general interest,10636.8,3,28,5,13,0.0175,No,Orders down 64% vs the 12 weeks before,No,3476.8
+S-6B243F,PR,Paraná,Brazil,Curitiba,Sports leisure,1972.5,7,18,4,13,0.0175,No,"New seller, 347 days on the marketplace",No,901.6
+S-95F83F,MG,Minas Gerais,Brazil,Borda Da Mata,Furniture decor,1280.26,3,17,5,13,0.0174,No,Orders down 43% vs the 12 weeks before,No,429.55
+S-A67382,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,4472.56,9,28,10,14,0.0174,No,"New seller, 488 days on the marketplace",No,1046.37
+S-4371B6,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,3309.0,6,27,2,13,0.0172,No,"New seller, 379 days on the marketplace",No,551.0
+S-7D76B6,SP,São Paulo,Brazil,Sao Paulo,Telephony,492.37,7,18,1,12,0.0171,No,"New seller, 338 days on the marketplace",No,141.47
+S-59B22A,MG,Minas Gerais,Brazil,Uberlandia,Housewares,8098.0,6,30,3,13,0.0168,No,"New seller, 348 days on the marketplace",No,4132.0
+S-CFD7DD,MG,Minas Gerais,Brazil,Contagem,Housewares,858.26,5,0,2,4,0.0167,No,Sold in only 4 of the last 16 weeks,No,2526.77
+S-D23019,PR,Paraná,Brazil,Londrina,Musical instruments,19839.3,6,16,2,13,0.0167,No,"New seller, 263 days on the marketplace",No,929.4
+S-1BB2BD,SP,São Paulo,Brazil,Sao Paulo,Books general interest,1436.48,10,20,7,14,0.0165,No,"New seller, 516 days on the marketplace",No,459.6
+S-BA9096,SP,São Paulo,Brazil,Guarulhos,Small appliances home oven and coffee,41895.5,2,32,18,14,0.0165,No,No sale in 18 days,No,2177.0
+S-8A1307,SP,São Paulo,Brazil,Sao Paulo,Home construction,2119.38,3,25,4,13,0.0164,No,Orders down 60% vs the 12 weeks before,No,760.45
+S-D673A5,SP,São Paulo,Brazil,Ibitinga,Baby,1897.21,4,27,4,13,0.0164,No,Orders down 53% vs the 12 weeks before,No,767.58
+S-516E77,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,4878.69,35,18,1,7,0.0163,No,Sold in only 7 of the last 16 weeks,No,1764.4
+S-17CA9B,MG,Minas Gerais,Brazil,Betim,Bed bath table,3296.95,15,18,1,12,0.0163,No,"New seller, 354 days on the marketplace",No,2084.83
+S-A8739A,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Electronics,171.19,8,0,18,2,0.0161,No,Sold in only 2 of the last 16 weeks,No,127.64
+S-E62B2D,SP,São Paulo,Brazil,Sao Paulo,Tablets printing image,1942.88,4,16,10,14,0.0158,No,"New seller, 287 days on the marketplace",No,95.8
+S-1554A6,MG,Minas Gerais,Brazil,Monte Siao,Furniture decor,5013.33,12,19,2,13,0.0157,No,"New seller, 664 days on the marketplace",No,2702.15
+S-602044,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1278.39,4,13,1,13,0.0155,No,Orders down 7% vs the 12 weeks before,No,502.96
+S-CAC876,PR,Paraná,Brazil,Cascavel,Housewares,1115.69,5,13,8,13,0.0154,No,Orders flat while peers grow,No,619.7
+S-276677,MG,Minas Gerais,Brazil,Belo Horizonte,Housewares,2489.1,2,20,12,14,0.0152,No,Orders down 65% vs the 12 weeks before,No,251.5
+S-715BBD,SP,São Paulo,Brazil,Serra Negra,Watches gifts,1236.9,11,8,4,12,0.0151,No,"New seller, 293 days on the marketplace",No,1072.2
+S-B4FFB7,SP,São Paulo,Brazil,Sao Paulo,Auto,1592.02,4,31,2,14,0.015,No,"New seller, 514 days on the marketplace",No,1110.45
+S-6A8B08,SP,São Paulo,Brazil,Bebedouro,Auto,1271.1,6,19,2,13,0.015,No,"New seller, 336 days on the marketplace",No,656.79
+S-537EB8,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Furniture decor,1039.4,9,31,2,13,0.015,No,"New seller, 348 days on the marketplace",No,865.5
+S-CCA307,SP,São Paulo,Brazil,Ibitinga,Furniture decor,3284.9,3,31,10,14,0.015,No,"New seller, 635 days on the marketplace",No,344.95
+S-E33304,SP,São Paulo,Brazil,Ipaussu,Housewares,2453.0,5,19,5,14,0.0149,No,"New seller, 352 days on the marketplace",No,455.0
+S-CCC4BB,PR,Paraná,Brazil,Curitiba,Health beauty,15296.9,11,27,7,14,0.0148,No,"New seller, 539 days on the marketplace",No,7784.79
+S-11BFA6,SP,São Paulo,Brazil,Ribeirao Preto,Health beauty,1037.61,5,12,1,13,0.0144,No,"New seller, 297 days on the marketplace",No,188.87
+S-BBAD7E,SP,São Paulo,Brazil,Sao Paulo,Baby,1036.4,6,19,2,14,0.0139,No,"New seller, 390 days on the marketplace",No,304.58
+S-5F3AE9,SP,São Paulo,Brazil,Sao Paulo,Books technical,693.5,4,21,10,14,0.0138,No,Orders down 40% vs the 12 weeks before,No,157.0
+S-DFA0C4,SC,Santa Catarina,Brazil,Florianopolis,Housewares,2316.7,23,16,1,9,0.0138,No,Only 39 orders all time,No,2460.4
+S-F3DA5B,SP,São Paulo,Brazil,Sao Paulo,Housewares,1706.86,12,30,3,13,0.0137,No,Orders flat while peers grow,No,122.22
+S-12B967,RS,Rio Grande do Sul,Brazil,Montenegro,Cool stuff,4772.0,5,18,2,14,0.0134,No,"New seller, 480 days on the marketplace",No,1323.0
+S-DB2956,SP,São Paulo,Brazil,Sao Sebastiao,Health beauty,4820.0,8,19,5,12,0.0133,No,Orders flat while peers grow,No,3779.0
+S-850F4F,SP,São Paulo,Brazil,Sao Paulo,Toys,10126.79,4,31,3,14,0.0132,No,"New seller, 446 days on the marketplace",Yes,0.0
+S-D921B6,MG,Minas Gerais,Brazil,Formiga,Watches gifts,11990.1,16,41,1,11,0.0132,No,Orders flat while peers grow,No,3655.7
+S-18E694,SP,São Paulo,Brazil,Varzea Paulista,Computers accessories,117.39,6,0,5,4,0.0132,No,Sold in only 4 of the last 16 weeks,No,584.15
+S-259F7B,SP,São Paulo,Brazil,Poa,Bed bath table,2385.1,6,31,10,15,0.0132,No,"New seller, 464 days on the marketplace",No,97.8
+S-F262CB,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,2477.18,9,55,13,14,0.0132,No,Orders down 50% vs the 12 weeks before,No,645.33
+S-F457C4,PR,Paraná,Brazil,Maringa,Computers accessories,5337.7,13,41,2,12,0.0132,No,Orders flat while peers grow,No,67.9
+S-CFB1A0,SP,São Paulo,Brazil,Votorantim,Bed bath table,2482.4,7,25,1,14,0.0131,No,"New seller, 514 days on the marketplace",No,27.5
+S-6D6661,SP,São Paulo,Brazil,Sao Paulo,Musical instruments,2496.3,10,26,2,14,0.013,No,"New seller, 513 days on the marketplace",No,1793.7
+S-87D3C3,SP,São Paulo,Brazil,Sao Paulo,Toys,248.44,6,0,1,3,0.0128,No,Sold in only 3 of the last 16 weeks,No,500.91
+S-32B876,SC,Santa Catarina,Brazil,Lages,Housewares,5888.0,5,19,3,13,0.0127,No,Orders down 20% vs the 12 weeks before,No,2817.0
+S-289CDB,SP,São Paulo,Brazil,Belo Horizonte,Perfumery,3838.09,14,20,2,12,0.0126,No,Orders flat while peers grow,No,8803.26
+S-0BE8FF,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,2049.4,6,25,2,14,0.0125,No,"New seller, 417 days on the marketplace",No,1495.9
+S-640E21,SP,São Paulo,Brazil,Ibitinga,Bed bath table,3426.65,13,39,10,13,0.0125,No,Orders flat while peers grow,No,4172.23
+S-686015,SP,São Paulo,Brazil,Capivari,Construction tools construction,1477.77,15,18,4,13,0.0125,No,"New seller, 221 days on the marketplace",No,1792.61
+S-7681EF,SP,São Paulo,Brazil,Guarulhos,Computers,23433.92,8,29,3,13,0.0124,No,Orders down 16% vs the 12 weeks before,No,7770.89
+S-B4F892,RS,Rio Grande do Sul,Brazil,Caxias Do Sul,Bed bath table,7116.23,11,1,3,4,0.0122,No,Sold in only 4 of the last 16 weeks,No,4278.82
+S-B2BA37,SP,São Paulo,Brazil,Sao Paulo,Stationery,5841.09,11,30,2,14,0.0122,No,"New seller, 634 days on the marketplace",No,1866.6
+S-59CEA8,PR,Paraná,Brazil,Maringa,Computers accessories,532.4,6,0,2,3,0.012,No,Sold in only 3 of the last 16 weeks,No,164.2
+S-F214D2,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,1229.7,9,17,2,14,0.012,No,"New seller, 321 days on the marketplace",No,164.94
+S-056B4A,RJ,Rio de Janeiro,Brazil,Queimados,Watches gifts,5454.69,19,14,2,12,0.012,No,"New seller, 211 days on the marketplace",No,4147.77
+S-B839E4,SP,São Paulo,Brazil,Sao Caetano Do Sul,Construction tools construction,29652.0,14,9,1,11,0.012,No,Only 27 orders all time,No,9920.0
+S-0B35C6,PR,Paraná,Brazil,Teixeira Soares,Construction tools construction,4400.0,4,15,5,14,0.0119,No,Orders down 18% vs the 12 weeks before,No,1400.0
+S-18A349,SP,São Paulo,Brazil,Sao Paulo,Telephony,5419.36,17,49,4,14,0.0119,No,"New seller, 313 days on the marketplace",No,808.74
+S-ABA172,SP,São Paulo,Brazil,Sao Paulo,Stationery,3857.9,5,13,4,15,0.0119,No,"New seller, 507 days on the marketplace",No,1299.0
+S-643214,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,760.99,5,14,2,14,0.0118,No,"New seller, 273 days on the marketplace",No,687.09
+S-729F06,SP,São Paulo,Brazil,Limeira,Housewares,3662.8,3,18,3,15,0.0118,No,"New seller, 463 days on the marketplace",No,1859.0
+S-ADE459,PR,Paraná,Brazil,Umuarama,Telephony,4329.0,6,0,4,4,0.0118,No,Sold in only 4 of the last 16 weeks,No,2867.0
+S-3DB66A,MG,Minas Gerais,Brazil,Ponte Nova,Sports leisure,2770.8,9,13,2,14,0.0115,No,"New seller, 436 days on the marketplace",No,919.1
+S-06E5EE,RS,Rio Grande do Sul,Brazil,Porto Alegre,Computers accessories,10013.9,11,29,6,15,0.0114,No,"New seller, 431 days on the marketplace",No,3564.39
+S-AAFE36,SC,Santa Catarina,Brazil,Sao Jose,Baby,1721.0,13,17,3,14,0.0114,No,"New seller, 497 days on the marketplace",No,674.7
+S-7E1FB0,SP,São Paulo,Brazil,Franca,Health beauty,6454.0,2,36,2,15,0.0113,No,"New seller, 511 days on the marketplace",No,1226.0
+S-C00320,SP,São Paulo,Brazil,Cajamar,Auto,8736.2,9,59,5,14,0.0112,No,Orders down 53% vs the 12 weeks before,No,6826.4
+S-688756,SP,São Paulo,Brazil,Guarulhos,Housewares,3574.65,15,36,2,12,0.0109,No,Orders flat while peers grow,No,2391.89
+S-FF1FB4,SP,São Paulo,Brazil,Mogi Das Cruzes,Toys,4308.0,4,27,2,14,0.0108,No,Orders down 53% vs the 12 weeks before,No,1643.0
+S-E882B2,RJ,Rio de Janeiro,Brazil,Teresopolis,Home appliances 2,36902.24,5,37,3,14,0.0107,No,Orders down 57% vs the 12 weeks before,No,532.8
+S-54A185,SP,São Paulo,Brazil,Santa Barbara D'Oeste,Sports leisure,5512.38,7,54,2,15,0.0107,No,"New seller, 534 days on the marketplace",No,1743.78
+S-530EC6,PR,Paraná,Brazil,Cascavel,Sports leisure,5736.1,7,34,1,15,0.0107,No,"New seller, 402 days on the marketplace",No,4026.41
+S-C60B80,SP,São Paulo,Brazil,Guarulhos,Watches gifts,7159.7,7,18,5,14,0.0107,No,Orders flat while peers grow,No,1865.8
+S-5343D0,SP,São Paulo,Brazil,Santo Andre,Furniture decor,6581.75,6,36,3,14,0.0107,No,Orders down 48% vs the 12 weeks before,No,794.0
+S-565653,DF,Distrito Federal,Brazil,Brasilia,Electronics,1566.31,15,32,2,15,0.0106,No,"New seller, 632 days on the marketplace",No,1940.42
+S-4C1869,SP,São Paulo,Brazil,Sao Paulo,Housewares,2016.08,11,29,1,13,0.0106,No,Orders flat while peers grow,No,1165.84
+S-33A17D,RS,Rio Grande do Sul,Brazil,Porto Alegre,Housewares,4482.14,7,18,1,15,0.0105,No,"New seller, 357 days on the marketplace",No,1676.64
+S-70C278,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Pet shop,6456.1,16,25,1,12,0.0104,No,Orders flat while peers grow,No,5621.42
+S-5DCECA,SP,São Paulo,Brazil,Santa Barbara D´Oeste,Luggage accessories,38452.62,5,48,5,15,0.0103,No,"New seller, 519 days on the marketplace",Yes,0.0
+S-EF506C,SP,São Paulo,Brazil,Sao Paulo,Telephony,879.48,10,21,1,14,0.0102,No,"New seller, 523 days on the marketplace",No,407.79
+S-669AE8,SC,Santa Catarina,Brazil,Rio Do Sul,Sports leisure,2500.74,7,26,2,15,0.0102,No,"New seller, 526 days on the marketplace",No,323.0
+S-8648B1,SP,São Paulo,Brazil,Jacarei,Construction tools construction,3966.1,13,27,2,14,0.0101,No,"New seller, 275 days on the marketplace",No,791.6
+S-CAB855,SP,São Paulo,Brazil,Sao Paulo,Fashion bags accessories,2884.9,14,36,1,15,0.01,No,"New seller, 630 days on the marketplace",No,1731.7
+S-2E1C9F,SP,São Paulo,Brazil,Sao Paulo,Health beauty,4619.54,4,40,5,15,0.0099,No,"New seller, 347 days on the marketplace",No,747.88
+S-5CF13A,MG,Minas Gerais,Brazil,Patos De Minas,Pet shop,5526.6,15,41,1,15,0.0099,No,"New seller, 530 days on the marketplace",No,2087.0
+S-98DAC6,SP,São Paulo,Brazil,Sao Paulo,Housewares,1009.06,8,17,3,15,0.0099,No,"New seller, 430 days on the marketplace",No,283.6
+S-DBD662,SP,São Paulo,Brazil,Sao Paulo,Electronics,2605.6,14,34,3,14,0.0097,No,Orders flat while peers grow,No,456.9
+S-D9BD94,SP,São Paulo,Brazil,Sao Paulo,Baby,3526.35,21,8,2,9,0.0095,No,Only 29 orders all time,No,3384.67
+S-4E9229,SP,São Paulo,Brazil,Jacarei,Computers accessories,10749.79,11,59,2,15,0.0095,No,"New seller, 628 days on the marketplace",No,2559.98
+S-A3E9A2,SP,São Paulo,Brazil,Ibitinga,Bed bath table,3593.9,17,19,1,14,0.0093,No,"New seller, 417 days on the marketplace",No,2281.0
+S-D9A84E,SP,São Paulo,Brazil,Sao Paulo,Toys,890.7,7,24,3,14,0.0092,No,Orders down 12% vs the 12 weeks before,No,322.2
+S-DEE656,SP,São Paulo,Brazil,Cruzeiro,Sports leisure,2352.25,13,18,3,14,0.0091,No,"New seller, 263 days on the marketplace",No,1510.45
+S-669229,MG,Minas Gerais,Brazil,Belo Horizonte,Pet shop,2853.9,7,25,1,15,0.0091,No,"New seller, 412 days on the marketplace",No,2443.6
+S-FD386A,SP,São Paulo,Brazil,Sao Paulo,Stationery,1190.19,8,21,3,14,0.0091,No,Orders flat while peers grow,No,983.96
+S-8A432F,SP,São Paulo,Brazil,Presidente Prudente,Bed bath table,3988.0,13,36,3,13,0.0091,No,Orders flat while peers grow,No,3567.0
+S-17A053,SP,São Paulo,Brazil,Mogi Guacu,Office furniture,16474.14,11,40,2,15,0.0091,No,"New seller, 359 days on the marketplace",No,5076.34
+S-D6B1CE,SP,São Paulo,Brazil,Salto,Construction tools lights,8562.93,18,48,2,13,0.0091,No,Orders flat while peers grow,No,3714.47
+S-EF0ACE,RJ,Rio de Janeiro,Brazil,Sao Goncalo,Perfumery,9135.1,15,56,10,15,0.0091,No,Orders down 19% vs the 12 weeks before,No,555.3
+S-B2479F,SP,São Paulo,Brazil,Ibitinga,Bed bath table,2106.2,6,43,10,15,0.009,No,Orders down 56% vs the 12 weeks before,No,855.81
+S-C3CFDC,PR,Paraná,Brazil,Curitiba,Sports leisure,6199.98,9,35,1,15,0.0089,No,"New seller, 519 days on the marketplace",No,3413.63
+S-D566C3,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,3078.1,8,37,5,14,0.0089,No,Orders down 34% vs the 12 weeks before,No,2067.6
+S-FF063B,SP,São Paulo,Brazil,Santo Andre,Furniture decor,3565.0,11,24,5,16,0.0087,No,"New seller, 501 days on the marketplace",No,2777.0
+S-B1A812,RS,Rio Grande do Sul,Brazil,Carazinho,Luggage accessories,6416.3,8,26,2,14,0.0084,No,Orders down 7% vs the 12 weeks before,No,2268.39
+S-F7CCF8,SP,São Paulo,Brazil,Ibitinga,Bed bath table,1271.6,10,22,6,15,0.0083,No,Orders flat while peers grow,No,823.0
+S-85D9EB,MG,Minas Gerais,Brazil,Belo Horizonte,Computers accessories,2284.34,24,48,3,15,0.0083,No,"New seller, 632 days on the marketplace",No,1982.4
+S-F80EDD,SP,São Paulo,Brazil,Sao Paulo,Kitchen dining laundry garden furniture,3168.7,18,21,2,15,0.0081,No,"New seller, 450 days on the marketplace",No,2442.7
+S-FE2032,SP,São Paulo,Brazil,Campinas,Perfumery,14609.6,20,45,2,15,0.008,No,"New seller, 479 days on the marketplace",No,7303.4
+S-080102,MG,Minas Gerais,Brazil,Belo Horizonte,Computers accessories,2471.54,12,48,6,16,0.0079,No,"New seller, 342 days on the marketplace",No,1701.99
+S-0BAE85,SP,São Paulo,Brazil,Itajai,Housewares,1204.52,7,19,5,16,0.0079,No,"New seller, 463 days on the marketplace",No,261.31
+S-871421,RS,Rio Grande do Sul,Brazil,Porto Alegre,Computers accessories,5013.2,15,31,1,15,0.0078,No,"New seller, 512 days on the marketplace",No,3518.1
+S-92EB0F,SP,São Paulo,Brazil,Sao Paulo,Telephony,1236.42,11,46,7,16,0.0078,No,"New seller, 510 days on the marketplace",No,604.49
+S-7EA5BF,MG,Minas Gerais,Brazil,Belo Horizonte,Baby,5194.4,4,47,1,15,0.0078,No,Orders down 72% vs the 12 weeks before,No,233.95
+S-2C9E54,SP,São Paulo,Brazil,Mogi Das Cruzes,Stationery,3233.9,12,50,2,15,0.0078,No,Orders down 27% vs the 12 weeks before,No,316.5
+S-5D0363,SP,São Paulo,Brazil,Atibaia,Auto,3243.7,8,38,1,15,0.0078,No,Orders down 35% vs the 12 weeks before,No,946.79
+S-79EBD9,PR,Paraná,Brazil,Cascavel,Furniture decor,5245.9,8,31,1,15,0.0076,No,Orders down 22% vs the 12 weeks before,No,4476.9
+S-8BB48D,SP,São Paulo,Brazil,Assis,Costruction tools garden,1451.74,8,18,1,15,0.0074,No,"New seller, 256 days on the marketplace",No,145.96
+S-714254,SP,São Paulo,Brazil,Penapolis,Auto,9181.89,9,73,4,16,0.0073,No,"New seller, 477 days on the marketplace",No,3968.5
+S-88460E,PR,Paraná,Brazil,Maringa,Computers accessories,10308.7,30,57,1,14,0.0071,No,"New seller, 221 days on the marketplace",No,4941.4
+S-C31EFF,SP,São Paulo,Brazil,Salto,Art,7488.04,17,51,2,15,0.0071,No,Orders flat while peers grow,No,2609.7
+S-1C1290,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,2045.8,12,32,4,15,0.007,No,"New seller, 271 days on the marketplace",No,381.8
+S-1DA3AE,SP,São Paulo,Brazil,Sao Paulo,Sports leisure,1954.27,13,56,2,16,0.007,No,"New seller, 483 days on the marketplace",No,1056.12
+S-D1C281,SP,São Paulo,Brazil,Ibitinga,Bed bath table,3614.63,11,23,4,16,0.0068,No,"New seller, 501 days on the marketplace",No,913.92
+S-C9C790,SP,São Paulo,Brazil,Itapecerica Da Serra,Telephony,4233.82,14,34,2,16,0.0067,No,"New seller, 393 days on the marketplace",No,1508.94
+S-2138CC,SP,São Paulo,Brazil,Sao Paulo,Telephony,1521.42,10,33,1,16,0.0067,No,"New seller, 634 days on the marketplace",No,761.3
+S-70EEA0,SP,São Paulo,Brazil,Itatiba,Sports leisure,11206.3,5,31,2,17,0.0067,No,"New seller, 506 days on the marketplace",No,2460.6
+S-7299E2,MG,Minas Gerais,Brazil,Araguari,Consoles games,11925.28,29,40,1,15,0.0066,No,"New seller, 478 days on the marketplace",No,4478.61
+S-4830E4,SP,São Paulo,Brazil,Sao Paulo,Housewares,4059.34,11,73,2,16,0.0063,No,"New seller, 340 days on the marketplace",No,1048.59
+S-34056B,SP,São Paulo,Brazil,Penapolis,Auto,4277.1,12,42,3,16,0.0063,No,Orders down 14% vs the 12 weeks before,No,1338.8
+S-855668,SP,São Paulo,Brazil,Itatiba,Baby,7836.87,10,54,2,16,0.0063,No,"New seller, 424 days on the marketplace",No,592.92
+S-ECECBF,SP,São Paulo,Brazil,Franca,Health beauty,3475.66,9,37,4,17,0.0062,No,"New seller, 369 days on the marketplace",No,1696.97
+S-B499C0,SP,São Paulo,Brazil,Limeira,Furniture decor,3545.33,15,35,2,17,0.0062,No,"New seller, 635 days on the marketplace",No,1374.76
+S-77530E,PR,Paraná,Brazil,Curitiba,Furniture decor,13041.8,11,75,3,17,0.0062,No,"New seller, 634 days on the marketplace",No,4227.6
+S-0B90B6,PR,Paraná,Brazil,Maringa,Computers accessories,10351.46,8,43,5,16,0.006,No,Orders down 43% vs the 12 weeks before,No,1017.92
+S-213B25,SP,São Paulo,Brazil,Salto,Home construction,8017.6,34,48,2,15,0.0059,No,"New seller, 221 days on the marketplace",No,6220.65
+S-53E4C6,SP,São Paulo,Brazil,Pedreira,Housewares,6233.5,22,71,1,16,0.0057,No,"New seller, 494 days on the marketplace",No,3013.66
+S-08633C,SP,São Paulo,Brazil,Ribeirao Pires,Sports leisure,4797.3,14,31,4,16,0.0056,No,Orders flat while peers grow,No,1080.0
+S-C70C1B,SP,São Paulo,Brazil,Hortolandia,Health beauty,22497.98,67,89,2,13,0.0056,No,Orders flat while peers grow,No,13581.64
+S-DD7DDC,SP,São Paulo,Brazil,Sao Paulo,Pet shop,2791.67,9,38,1,17,0.0056,No,"New seller, 430 days on the marketplace",No,825.39
+S-9B013E,SP,São Paulo,Brazil,Vicente De Carvalho,Health beauty,4172.07,20,67,3,16,0.0055,No,Orders down 10% vs the 12 weeks before,No,1656.42
+S-8F2CE0,SP,São Paulo,Brazil,Pirituba,Sports leisure,6248.7,10,25,4,17,0.0055,No,"New seller, 426 days on the marketplace",No,3319.3
+S-252851,SP,São Paulo,Brazil,Osasco,Home confort,6483.3,13,35,3,17,0.0054,No,"New seller, 465 days on the marketplace",No,2765.9
+S-391FC6,SP,São Paulo,Brazil,Ibitinga,Furniture decor,8200.78,17,95,3,17,0.0054,No,"New seller, 632 days on the marketplace",No,2748.27
+S-7040E8,SP,São Paulo,Brazil,Sao Paulo,Audio,1962.3,14,38,1,16,0.0052,No,"New seller, 291 days on the marketplace",No,1307.6
+S-4B9750,SP,São Paulo,Brazil,Limeira,Baby,6585.35,28,58,3,16,0.0051,No,"New seller, 261 days on the marketplace",No,5290.55
+S-218D46,SP,São Paulo,Brazil,Ribeirao Preto,Sports leisure,7568.68,9,50,2,17,0.0051,No,"New seller, 528 days on the marketplace",No,1327.0
+S-966CB4,SP,São Paulo,Brazil,Diadema,Watches gifts,40261.55,19,36,2,15,0.0049,No,Orders flat while peers grow,No,11024.5
+S-42B729,SP,São Paulo,Brazil,Sao Paulo,Health beauty,2364.7,17,43,2,16,0.0048,No,Orders flat while peers grow,No,1273.06
+S-33A6F4,SP,São Paulo,Brazil,Guarulhos,Bed bath table,6789.35,10,60,1,16,0.0048,No,Orders down 49% vs the 12 weeks before,No,1489.82
+S-9D4DB0,SP,São Paulo,Brazil,Sorocaba,Toys,6736.15,22,48,2,16,0.0047,No,Orders flat while peers grow,No,993.63
+S-F7BA60,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Health beauty,25194.0,16,63,2,17,0.0045,No,"New seller, 334 days on the marketplace",No,16296.0
+S-4D6D65,SP,São Paulo,Brazil,Jau,Sports leisure,12068.7,14,75,1,17,0.0045,No,"New seller, 431 days on the marketplace",No,4926.4
+S-16090F,SP,São Paulo,Brazil,Atibaia,Auto,7294.1,47,115,1,17,0.0045,No,"New seller, 515 days on the marketplace",No,5651.47
+S-D91FB3,SP,São Paulo,Brazil,Praia Grande,Home appliances,13824.5,43,155,1,17,0.0045,No,"New seller, 508 days on the marketplace",No,7772.47
+S-9F5056,SP,São Paulo,Brazil,Sao Paulo,Computers accessories,8938.67,49,103,2,16,0.0044,No,"New seller, 268 days on the marketplace",No,9702.99
+S-1E8B33,SP,São Paulo,Brazil,Sao Paulo,Bed bath table,9515.59,9,53,2,17,0.0044,No,Orders down 48% vs the 12 weeks before,No,3646.1
+S-D2374C,SP,São Paulo,Brazil,Ibitinga,Bed bath table,4501.3,26,73,2,17,0.0043,No,"New seller, 505 days on the marketplace",No,2666.6
+S-EDB1EF,RJ,Rio de Janeiro,Brazil,Teresopolis,Health beauty,33609.4,26,33,1,16,0.0043,No,"New seller, 275 days on the marketplace",No,12146.75
+S-06A2C3,MA,Maranhão,Brazil,Sao Luis,Health beauty,20329.73,85,138,2,15,0.0042,No,Orders flat while peers grow,No,13710.55
+S-609E1A,SC,Santa Catarina,Brazil,Brusque,Bed bath table,4423.6,20,36,1,16,0.0042,No,Orders flat while peers grow,No,1681.53
+S-7C67E1,SP,São Paulo,Brazil,Itaquaquecetuba,Office furniture,44898.92,26,215,2,17,0.0042,No,"New seller, 520 days on the marketplace",No,9141.58
+S-FA1C13,SP,São Paulo,Brazil,Sumare,Watches gifts,43197.43,38,103,1,17,0.0042,No,"New seller, 539 days on the marketplace",No,20724.56
+S-F8DB35,SP,São Paulo,Brazil,Salto,Housewares,10992.5,36,108,2,17,0.0042,No,"New seller, 521 days on the marketplace",No,5572.5
+S-620C87,RJ,Rio de Janeiro,Brazil,Petropolis,Health beauty,21044.7,46,91,2,17,0.0041,No,"New seller, 634 days on the marketplace",No,10258.3
+S-2FF972,SP,São Paulo,Brazil,Salto,Housewares,2414.2,7,45,5,17,0.0041,No,Orders down 52% vs the 12 weeks before,No,1444.8
+S-128639,PR,Paraná,Brazil,Maringa,Electronics,2481.8,16,93,1,17,0.004,No,"New seller, 414 days on the marketplace",No,472.8
+S-190026,SP,São Paulo,Brazil,Ibitinga,Bed bath table,7246.84,29,87,1,17,0.004,No,"New seller, 409 days on the marketplace",No,2733.69
+S-562FC2,SP,São Paulo,Brazil,Campinas,Telephony,4852.41,24,119,1,16,0.004,No,Orders down 39% vs the 12 weeks before,No,1422.64
+S-7A67C8,SP,São Paulo,Brazil,Sao Paulo,Cool stuff,18367.58,17,146,1,17,0.0039,No,"New seller, 519 days on the marketplace",No,4432.57
+S-2A8485,MG,Minas Gerais,Brazil,Belo Horizonte,Stationery,7861.9,29,51,1,16,0.0039,No,Orders flat while peers grow,No,2313.8
+S-A1043B,MG,Minas Gerais,Brazil,Ilicinea,Garden tools,27990.61,50,157,1,17,0.0039,No,"New seller, 501 days on the marketplace",No,6862.6
+S-DBC221,MG,Minas Gerais,Brazil,Borda Da Mata,Luggage accessories,5761.44,22,47,1,17,0.0039,No,"New seller, 447 days on the marketplace",No,3510.07
+S-0DD184,SP,São Paulo,Brazil,Guarulhos,Industry commerce and business,11742.93,13,90,2,17,0.0039,No,Orders down 56% vs the 12 weeks before,No,1128.99
+S-3D871D,SP,São Paulo,Brazil,Campo Limpo Paulista,Stationery,12623.4,26,127,2,17,0.0038,No,"New seller, 482 days on the marketplace",No,5324.2
+S-E97799,SP,São Paulo,Brazil,Praia Grande,Sports leisure,9791.29,53,119,1,17,0.0038,No,"New seller, 486 days on the marketplace",No,5569.38
+S-DA8622,SP,São Paulo,Brazil,Piracicaba,Bed bath table,44597.72,68,291,2,17,0.0037,No,"New seller, 510 days on the marketplace",No,11536.16
+S-8D956F,SP,São Paulo,Brazil,Sao Bernardo Do Campo,Sports leisure,5676.39,30,75,1,17,0.0037,No,"New seller, 261 days on the marketplace",No,2996.29
+S-B56192,SP,São Paulo,Brazil,Sao Paulo,Stationery,2195.8,13,30,1,17,0.0036,No,Orders flat while peers grow,No,1660.89
+S-0241D4,PR,Paraná,Brazil,Curitiba,Furniture decor,13650.6,28,62,1,17,0.0035,No,"New seller, 265 days on the marketplace",No,8363.9
+S-4869F7,SP,São Paulo,Brazil,Guariba,Watches gifts,70274.9,91,304,1,17,0.0035,No,"New seller, 473 days on the marketplace",No,23095.5
+S-1F50F9,SP,São Paulo,Brazil,Sao Jose Do Rio Preto,Garden tools,23579.0,35,254,1,17,0.0035,No,"New seller, 453 days on the marketplace",No,4871.22
+S-1835B5,SP,São Paulo,Brazil,Ibitinga,Bed bath table,8725.97,25,84,1,17,0.0035,No,"New seller, 298 days on the marketplace",No,7036.29
+S-C33847,SC,Santa Catarina,Brazil,Brusque,Bed bath table,6882.0,42,7,2,7,0.0034,No,Sold in only 7 of the last 16 weeks,No,8637.85
+S-816025,SP,São Paulo,Brazil,Ibitinga,Bed bath table,14373.1,28,96,2,17,0.0034,No,Orders down 12% vs the 12 weeks before,No,5103.89
+S-CC419E,SP,São Paulo,Brazil,Santo Andre,Health beauty,12790.95,37,168,1,17,0.0034,No,"New seller, 515 days on the marketplace",No,3919.21
+S-4A3CA9,SP,São Paulo,Brazil,Ibitinga,Bed bath table,33727.76,73,236,1,17,0.0033,No,"New seller, 538 days on the marketplace",No,12296.3
+S-1025F0,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,53196.85,84,287,1,17,0.0033,No,"New seller, 356 days on the marketplace",No,34466.06
+S-634964,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Watches gifts,17407.4,35,90,1,17,0.0032,No,Orders flat while peers grow,No,4021.2
+S-CEAEC5,SP,São Paulo,Brazil,Sao Paulo,Cool stuff,30349.12,26,95,1,17,0.0031,No,Orders down 18% vs the 12 weeks before,No,10412.06
+S-955FEE,SP,São Paulo,Brazil,Sao Paulo,Furniture decor,73422.81,93,514,1,17,0.0031,No,"New seller, 341 days on the marketplace",No,13977.37
+S-7AD328,SP,São Paulo,Brazil,Ibitinga,Bed bath table,14565.2,32,63,2,17,0.003,No,Orders flat while peers grow,No,4489.9
+S-DE722C,PE,Pernambuco,Brazil,Recife,Computers accessories,28415.7,33,136,2,17,0.0029,No,Orders down 27% vs the 12 weeks before,No,9507.3
+S-EA8482,SP,São Paulo,Brazil,Sao Paulo,Telephony,12019.06,72,285,1,17,0.0029,No,"New seller, 319 days on the marketplace",No,2990.92
+S-656021,SP,São Paulo,Brazil,Sao Paulo,Watches gifts,27232.0,150,251,1,17,0.0028,No,"New seller, 498 days on the marketplace",No,26840.0
+S-31561F,SP,São Paulo,Brazil,Sao Paulo,Auto,1185.97,10,0,2,4,0.0028,No,Sold in only 4 of the last 16 weeks,No,1516.22
+S-8B321B,SP,São Paulo,Brazil,Sao Paulo,Electronics,6080.91,66,296,1,17,0.0027,No,Orders down 33% vs the 12 weeks before,No,1044.36
+S-7D13FC,SP,São Paulo,Brazil,Ribeirao Preto,Watches gifts,81556.18,42,377,1,17,0.0024,No,Orders down 66% vs the 12 weeks before,No,16505.48
+S-3D5D0D,RJ,Rio de Janeiro,Brazil,Rio De Janeiro,Health beauty,413.3,11,0,3,3,0.0022,No,Sold in only 3 of the last 16 weeks,No,289.4
+S-612170,RS,Rio Grande do Sul,Brazil,Novo Hamburgo,Watches gifts,2275.59,11,0,1,3,0.0022,No,Sold in only 3 of the last 16 weeks,No,20789.43
+S-F46490,SP,São Paulo,Brazil,Guarulhos,Health beauty,2501.79,36,3,1,6,0.0008,No,Sold in only 6 of the last 16 weeks,No,3301.06
+S-3AB971,SP,São Paulo,Brazil,Sao Paulo,Housewares,1963.9,14,0,2,5,0.0005,No,Sold in only 5 of the last 16 weeks,No,3039.0
+S-6B90F8,SP,São Paulo,Brazil,Guarulhos,Health beauty,1078.3,17,0,2,4,0.0002,No,Sold in only 4 of the last 16 weeks,No,2133.88
+S-BEADBE,SP,São Paulo,Brazil,Guarulhos,Health beauty,2012.99,36,1,1,5,0.0,No,Sold in only 5 of the last 16 weeks,No,2360.99

@@ -1,77 +1,84 @@
-# Build the region view in Tableau Public (free), then embed it in the live page
+# Build the seller book dashboard in Tableau, then show it on the live page
 
-Time: about 30 minutes. Result: a published Tableau dashboard of the seller book by Brazilian state, shown
-inside the Regions tab of the live demo, and a Tableau Public profile link for your resume.
+Time: about 45 minutes. Result: a published Tableau Public dashboard of the June 30, 2018 seller book
+(a map of Brazil, at-risk share by state, and the at-risk seller list), shown in its own **Tableau dashboard**
+tab on the live page, with a **Tableau dashboard** button in the page header.
 
-You need the repo on your laptop (you'll use `data\tableau\state_book.csv`). That file is rebuilt by
-`python -m growth.build`, so it always matches the live page.
+Data source: `data\tableau\seller_book.csv`, one row per active seller (915 rows). It is written by
+`python -m growth.build`, so its numbers always match the live page.
 
-If any menu below looks different on your screen, stop and take a screenshot of what you see.
+If any menu below looks different on your screen, stop and send a screenshot of what you see.
 
-## 1. Install Tableau Public
+## 1. Connect to the data
 
-1. Go to https://public.tableau.com and click **Sign Up**. Create a free profile.
-2. Go to https://www.tableau.com/products/public/download, enter your email, click **Download the App**, and run the installer.
-3. Open **Tableau Public** and sign in with the profile from step 1 if asked.
+1. Open Tableau (Tableau Public or Tableau Desktop both work).
+2. On the start page, in the left **Connect** pane, under **To a File**, click **Text file**.
+3. Browse to your repo folder > `data` > `tableau` > `seller_book.csv` and click **Open**.
+4. Check the preview: 915 rows, columns from **Seller ID** to **GMV Next 60 Days**.
+5. Click the **Sheet 1** tab at the bottom left.
 
-## 2. Connect to the data
+## 2. Create six calculated fields
 
-1. On the start page, in the left **Connect** pane, under **To a File**, click **Text file**.
-2. Browse to your repo folder, then `data` > `tableau` > `state_book.csv`, and click **Open**.
-3. Check the preview: you should see 15 rows, starting with São Paulo. Click the **Sheet 1** tab at the bottom left.
+For each one: menu **Analysis** > **Create Calculated Field...**, type the name in the top box, paste the formula, click **OK**.
 
-## 3. Sheet 1: the map
+| Name | Formula |
+|---|---|
+| `Active Sellers` | `COUNTD([Seller ID])` |
+| `Flagged Sellers` | `SUM(IF [Flagged] = "Yes" THEN 1 ELSE 0 END)` |
+| `Share Flagged` | `[Flagged Sellers] / [Active Sellers]` |
+| `GMV at Risk` | `SUM(IF [Flagged] = "Yes" THEN [GMV Last 16 Weeks] ELSE 0 END)` |
+| `Flagged Hit Rate` | `SUM(IF [Flagged] = "Yes" AND [Went Dark] = "Yes" THEN 1 ELSE 0 END) / [Flagged Sellers]` |
+| `Sellers In State` | `{ FIXED [State Name] : COUNTD([Seller ID]) }` |
 
-1. In the **Data** pane on the left, right-click **Country** > **Geographic Role** > **Country/Region**.
+Then set number formats in the **Data** pane on the left:
+- Right-click **Share Flagged** > **Default Properties** > **Number Format...** > **Percentage**, Decimal places `0` > **OK**. Do the same for **Flagged Hit Rate** and **Risk Score**.
+- Right-click **GMV at Risk** > **Default Properties** > **Number Format...** > **Currency (Custom)**: Decimal places `0`, Display Units **Thousands (K)**, Prefix `R$` > **OK**. Do the same for **GMV Last 16 Weeks**.
+
+## 3. Sheet 1: map
+
+1. In the **Data** pane, right-click **Country** > **Geographic Role** > **Country/Region**.
 2. Right-click **State Name** > **Geographic Role** > **State/Province**.
-3. Double-click **State Name**. A map of Brazil with dots appears.
-   If the bottom right says "unknown", click it > **Edit Locations** > set **Country/Region** to **From field: Country** > **OK**.
+3. Double-click **State Name**. A map of Brazil appears.
+   If the bottom right of the map says "unknown", click it > **Edit Locations...** > **Country/Region**: choose **From field** > **Country** > **OK**.
 4. In the **Marks** card, change the dropdown from **Automatic** to **Map**.
-5. Drag **GMV Last 16 Weeks** onto **Color** in the Marks card.
-6. Click **Color** > **Edit Colors** > Palette **Green** > **OK**.
-7. Drag **Enough Sellers** onto the **Filters** shelf, uncheck **Fewer than 10**, click **OK**.
-8. Drag **Active Sellers**, **GMV Growth Q2 vs Q1**, **Flagged At Risk**, **Flagged Share** and **Went Dark Share** onto **Tooltip** in the Marks card.
-9. Number formats, in the Data pane:
-   - Right-click **GMV Last 16 Weeks** > **Default Properties** > **Number Format** > **Currency (Custom)**: Decimal places 0, Display Units **Thousands (K)**, Prefix/Suffix: type `R$` in Prefix > **OK**.
-   - Right-click **GMV Growth Q2 vs Q1** > **Default Properties** > **Number Format** > **Percentage**, Decimal places 0 > **OK**. Do the same for **Flagged Share** and **Went Dark Share**.
-10. Double-click the **Sheet 1** tab at the bottom and rename it `Seller book map`.
+5. Drag **GMV at Risk** onto **Color** in the Marks card. Click **Color** > **Edit Colors...** > Palette **Red** > **OK**.
+6. Drag **Active Sellers**, **Flagged Sellers**, **Share Flagged** and **Flagged Hit Rate** onto **Tooltip** in the Marks card.
+7. Double-click the **Sheet 1** tab and rename it `Map`.
 
 ## 4. Sheet 2: at-risk share by state
 
-1. Click the **New Worksheet** icon at the bottom (the first small icon to the right of the sheet tabs).
-2. Drag **State Name** onto **Rows** and **Flagged Share** onto **Columns**.
-3. Drag **Enough Sellers** onto **Filters**, keep only **10+ sellers**, **OK**.
+1. Click the **New Worksheet** icon at the bottom (the first small icon right of the sheet tabs).
+2. Drag **State Name** onto **Rows** and **Share Flagged** onto **Columns**.
+3. Drag **Sellers In State** onto **Filters**. In the box that opens, choose **All values** > **Next**, set the minimum to `10` > **OK**. This hides states with too few sellers to trust a percentage.
 4. Click the **Sort Descending** button in the toolbar.
-5. Drag **GMV Growth Q2 vs Q1** onto **Color**. Click **Color** > **Edit Colors** > Palette **Red-Green Diverging** > click **Advanced >>** > check **Center** and type `0` > **OK**.
-6. Drag **Flagged At Risk** onto **Label**.
-7. Rename the sheet `At risk by state`.
+5. Drag **Flagged Sellers** onto **Label** in the Marks card.
+6. Drag **GMV at Risk** onto **Color**, then **Color** > **Edit Colors...** > Palette **Red** > **OK**.
+7. Rename the sheet `States`.
 
-## 5. The dashboard
+## 5. Sheet 3: at-risk seller list
+
+1. New worksheet. Drag **Flagged** onto **Filters**, check only **Yes** > **OK**.
+2. Drag these onto **Rows**, in this order: **Seller ID**, **City**, **Main Category**, **Main Reason**, **Went Dark**.
+3. Double-click **GMV Last 16 Weeks**, then **Days Since Last Sale**, then **Risk Score**. Tableau builds a text table with those three numbers.
+4. Click the **Seller ID** pill on Rows > **Sort...** > Sort By **Field**, Field Name **Risk Score**, Aggregation **Sum**, **Descending** > close the box.
+5. Rename the sheet `At-risk sellers`.
+
+## 6. The dashboard
 
 1. Click the **New Dashboard** icon at the bottom (the second small icon).
-2. In the left **Dashboard** pane, under **Size**, pick **Fixed size**, width `1100`, height `700`.
-3. Drag `Seller book map` onto the canvas. Drag `At risk by state` onto the right half of the canvas.
-4. Click the map on the dashboard, then click the small funnel icon (**Use as Filter**) at its top right. Now clicking a state filters the bar chart.
-5. Menu **Dashboard** > **Show Title**. Double-click the title and type `Olist active seller book by state, June 30, 2018`.
+2. In the left **Dashboard** pane, under **Size**, choose **Fixed size**, width `1200`, height `760`.
+3. Drag **Map** onto the canvas. Drag **States** onto the right half of the map. Drag **At-risk sellers** onto the bottom edge so it spans the full width.
+4. Click the map on the dashboard, then click the small funnel icon at its top right (**Use as Filter**). Do the same on **States**. Now clicking a state filters the seller list.
+5. Menu **Dashboard** > **Show Title**. Double-click the title and type `Olist seller book, June 30, 2018: who is about to stop selling`.
 6. Rename the dashboard tab `Seller book`.
+7. Click a state on the map to check that the seller list filters, then click the state again to clear it.
 
-## 6. Publish
+## 7. Publish to Tableau Public
 
-1. Menu **File** > **Save to Tableau Public As...**, name it `Olist seller book by state`, click **Save**.
-2. Your browser opens the published dashboard. Its address looks like
-   `https://public.tableau.com/app/profile/your-name/viz/Olistsellerbookbystate/Sellerbook`.
-3. Build the embed address: keep only the part after `/viz/` and put `https://public.tableau.com/views/` in front of it:
-   `https://public.tableau.com/views/Olistsellerbookbystate/Sellerbook`
+1. Save it to Tableau Public:
+   - In **Tableau Public**: menu **File** > **Save to Tableau Public As...**
+   - In **Tableau Desktop**: menu **Server** > **Tableau Public** > **Save to Tableau Public As...**
+2. Sign in (create a free profile at https://public.tableau.com if you don't have one), name it `Olist seller book`, click **Save**.
+3. Your browser opens the published dashboard. Copy the full address from the address bar and send it to me. It looks like `https://public.tableau.com/app/profile/.../viz/Olistsellerbook/Sellerbook`.
 
-## 7. Show it in the live page
-
-1. Open `site\config.js` in Notepad.
-2. Paste the embed address between the quotes after `tableauUrl:` and save.
-3. Commit and push (run each line on its own in Command Prompt, from the repo folder):
-   ```
-   git add site/config.js
-   git commit -m "Embed Tableau Public view"
-   git pull
-   git push
-   ```
-4. Wait about two minutes for the **Deploy live demo to GitHub Pages** action to finish, then open the Regions tab. The Tableau view appears under the tile map.
+I'll convert it to the embed address, add it to `site/config.js` and the README, and the **Tableau dashboard** tab and header button will appear on the live page.

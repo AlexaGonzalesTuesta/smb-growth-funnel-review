@@ -48,3 +48,12 @@ def test_site_payload_schema():
     # The page must not show raw seller or rep hashes.
     assert all(r["rep"].startswith("Rep ") for r in data["reps"])
     assert all(len(x["id"]) == 8 for x in data["at_risk"])
+
+
+def test_tableau_seller_book_matches_page():
+    p = build.run()
+    import pandas as pd
+    t = pd.read_csv(config.TABLEAU / "seller_book.csv", encoding="utf-8-sig")
+    assert len(t) == p["risk"]["test_sellers"]
+    assert (t["Flagged"] == "Yes").sum() == p["risk"]["flagged"]
+    assert t["Seller ID"].is_unique and t["State Name"].notna().all()

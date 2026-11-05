@@ -20,6 +20,7 @@
       <span>New-seller growth review</span>
     </div>
     <p class="source">Real data: Olist marketplace, Brazil. <span id="meta-window"></span></p>
+    <a class="repo" id="tableau-top" href="#" target="_blank" rel="noopener" hidden>Tableau dashboard</a>
     <a class="repo" href="https://github.com/AlexaGonzalesTuesta/smb-growth-funnel-review">Code on GitHub</a>
   </div>
 </header>
@@ -109,10 +110,6 @@
       </div>
       <div id="map-legend" class="map-legend"></div>
       <div class="table-wrap state-table"><table class="data" id="state-table"></table></div>
-      <div id="tableau-block" class="tableau" hidden>
-        <h3>The same view in Tableau Public</h3>
-        <div id="tableau-frame"></div>
-      </div>
     </section>
 
     <section class="panel" role="tabpanel" id="panel-risk" aria-labelledby="tab-risk" hidden>
@@ -128,6 +125,14 @@
       <div class="table-wrap"><table class="data" id="risk-table"></table></div>
       <div id="risk-empty" class="empty" hidden></div>
       <div class="pager"><button type="button" class="btn ghost" id="more">Show 25 more</button></div>
+    </section>
+
+    <section class="panel" role="tabpanel" id="panel-tableau" aria-labelledby="tab-tableau" hidden>
+      <div class="tableau-head">
+        <p class="panel-lede">The June 30, 2018 seller book rebuilt in Tableau from the same data: click a state on the map to filter the at-risk sellers beside it.</p>
+        <a class="repo" id="tableau-open" href="#" target="_blank" rel="noopener">Open in Tableau Public</a>
+      </div>
+      <div id="tableau-frame" class="tableau-frame"><p class="muted">Loading the Tableau dashboard. It can take a few seconds.</p></div>
     </section>
 
     <section class="panel" role="tabpanel" id="panel-method" aria-labelledby="tab-method" hidden>

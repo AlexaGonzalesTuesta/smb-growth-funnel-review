@@ -181,6 +181,8 @@
     ["findings", "Findings"], ["channels", "Lead sources"], ["sellers", "Seller types"], ["reps", "Reps"],
     ["regions", "Regions"], ["risk", "At-risk sellers"], ["method", "How it's measured"]
   ];
+  function tableauUrl() { var u = (window.REVIEW_CONFIG || {}).tableauUrl; return u && /^https:\/\/public\.tableau\.com\//.test(u) ? u : ""; }
+  if (tableauUrl()) TABS.splice(6, 0, ["tableau", "Tableau dashboard"]);
   function renderTabs() {
     var nav = $("tabs");
     nav.innerHTML = TABS.map(function (t) {
@@ -200,7 +202,19 @@
   }
   function selectTab(id) { S.tab = id; save(); renderTabs(); }
   function showPanel() {
-    TABS.forEach(function (t) { $("panel-" + t[0]).hidden = t[0] !== S.tab; });
+    if (!TABS.some(function (t) { return t[0] === S.tab; })) S.tab = "findings";
+    ["findings", "channels", "sellers", "reps", "regions", "risk", "tableau", "method"].forEach(function (id) { $("panel-" + id).hidden = id !== S.tab; });
+    if (S.tab === "tableau") loadTableau();
+  }
+  function loadTableau() {
+    var url = tableauUrl(), box = $("tableau-frame");
+    if (!url || box.querySelector("iframe")) return;
+    var src = url + (url.indexOf("?") > 0 ? "&" : "?") + ":showVizHome=no&:embed=true&:display_count=no";
+    box.innerHTML = '<iframe title="Seller book dashboard in Tableau Public" src="' + esc(src) + '"></iframe>';
+  }
+  function setupTableauLinks() {
+    var url = tableauUrl();
+    ["tableau-top", "tableau-open"].forEach(function (id) { var a = $(id); if (url) { a.href = url; a.hidden = false; } else { a.hidden = true; } });
   }
 
   // ---------- small SVG helpers ----------
@@ -364,11 +378,6 @@
     $("map-legend").innerHTML = leg + ' <span><i class="few-key"></i> Fewer than ' + MIN_SELLERS + " active sellers</span>";
     renderStateDetail(byState);
     renderStateTable();
-    var url = (window.REVIEW_CONFIG || {}).tableauUrl;
-    if (url) {
-      $("tableau-block").hidden = false;
-      if (!$("tableau-frame").firstChild) $("tableau-frame").innerHTML = '<iframe title="Seller book by state in Tableau Public" loading="lazy" src="' + esc(url) + (url.indexOf("?") > 0 ? "&" : "?") + ':showVizHome=no&:embed=true"></iframe>';
-    }
   }
   function renderStateTable() {
     var head = "<thead><tr><th>State</th><th class=num>Active sellers</th><th class=num>GMV, last 16 weeks</th><th class=num>Growth, Q2 vs Q1</th><th class=num>Flagged at risk</th><th class=num>Went dark by " + longDate(addDays(D.meta.as_of, D.meta.horizon_days - 1)).replace(", 2018", "") + "</th></tr></thead>";
@@ -488,7 +497,7 @@
     $("lead-count").textContent = n0(D.summary.leads);
     $("meta-window").textContent = "Leads Jan to Apr 2018, seller book as of " + longDate(D.meta.as_of) + ".";
     document.querySelectorAll(".asof").forEach(function (e) { e.textContent = longDate(D.meta.as_of); });
-    renderEquation(); renderLeak(); renderTabs(); renderFindings(); renderChannels(); renderSellers(); renderReps();
+    setupTableauLinks(); renderEquation(); renderLeak(); renderTabs(); renderFindings(); renderChannels(); renderSellers(); renderReps();
     renderRegions(); renderRiskControls(); renderRisk(); renderMethod();
   }
 

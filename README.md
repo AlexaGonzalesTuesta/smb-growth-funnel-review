@@ -131,7 +131,9 @@ reports/             Evaluation report and metrics
 
 ## Why I built this
 
-I'm graduating from Purdue in December 2026 with degrees in Business Analytics and Information Management and in Marketing, and I'm applying to data and business analyst roles on sales and growth teams. At Abbott I built a Power BI dashboard that turned query-audit logs into decommission decisions, and at Reveal Risk I analyzed campaign data and helped sell a new service in client meetings. I wanted a project that joins those two sides: sales results and the data behind them. I chose real data so every number on the page is one a hiring manager could check.
+A good chunk of my family is Brazilian, so when I went looking for real data on how a sales team grows small merchants, the Olist dataset felt close to home. Olist connects small Brazilian businesses to the country's large online marketplaces, and every seller ID in this data is a real business that signed up hoping to sell. More than half of them never made a first sale, and I wanted to understand why.
+
+I'm graduating from Purdue in December 2026 with degrees in Business Analytics and Information Management and in Marketing, and this project brings both together: the sales funnel and the data behind it. I hope it helps future Brazilian sellers, and the teams supporting them, get from signing up to their first sale faster.
 
 ## How I built it
 
