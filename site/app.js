@@ -214,7 +214,8 @@
   }
   function setupTableauLinks() {
     var url = tableauUrl();
-    ["tableau-top", "tableau-open"].forEach(function (id) { var a = $(id); if (url) { a.href = url; a.hidden = false; } else { a.hidden = true; } });
+    var page = (window.REVIEW_CONFIG || {}).tableauPage || url;
+    ["tableau-top", "tableau-open"].forEach(function (id) { var a = $(id); if (url) { a.href = page; a.hidden = false; } else { a.hidden = true; } });
   }
 
   // ---------- small SVG helpers ----------

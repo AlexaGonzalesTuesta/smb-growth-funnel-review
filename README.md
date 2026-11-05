@@ -4,7 +4,7 @@
 
 ![CI](https://github.com/AlexaGonzalesTuesta/smb-growth-funnel-review/actions/workflows/ci.yml/badge.svg)
 
-### [Open the live review](https://alexagonzalestuesta.github.io/smb-growth-funnel-review/)
+### [Open the live review](https://alexagonzalestuesta.github.io/smb-growth-funnel-review/) | [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook)
 
 Loads in about a second, no sign-up. Drag any driver, try the three scenarios, click a state, then check the at-risk seller list against what actually happened. Your changes stay in your own browser.
 
@@ -24,6 +24,7 @@ The data is the real, public [Olist](https://www.kaggle.com/datasets/olistbr/mar
 * **It refuses to rank people on noise.** Every rate has a 90% interval. Reps' activation ranges from 29% to 59%, but no rep is statistically different from the team, and the page says so instead of building a leaderboard.
 * **The at-risk list is graded on the future.** The model is trained on the March 31 seller book and tested on the June 30 book, which it never saw. Flip one switch to see which flagged sellers really stopped selling.
 * **It flags its own traps.** One seller produced 25% of new-seller GMV, so channels are compared on win and activation rates, not GMV per lead.
+* **Also in Tableau.** The June 30 seller book is rebuilt as a [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook): headline KPIs, a map of sales at risk by state, at-risk share by state, and the flagged seller list, all linked by filter and highlight actions. It is embedded in the live page's Tableau dashboard tab, and the workbook is in `data/tableau/olist_seller_book.twbx`.
 * **SQL first.** Every metric is a DuckDB SQL model over the raw Kaggle files. Python only runs the models and fits two logistic regressions.
 
 ## The 2-minute tour
@@ -108,7 +109,7 @@ tests/               pytest: statistics, driver tree math, pipeline consistency,
 site/                The live page (index.html, styles.css, app.js, data.json)
 docs/                Metric definitions, weekly business review, Tableau guide, responsibilities map
 data/raw/            Original Kaggle files (gzip)
-data/tableau/        Extracts for Tableau Public
+data/tableau/        Tableau data source (seller_book.csv) and workbook (olist_seller_book.twbx)
 reports/             Evaluation report and metrics
 ```
 
@@ -117,7 +118,7 @@ reports/             Evaluation report and metrics
 * [Metric definitions: the indicator system](docs/metric_definitions.md)
 * [Weekly business review (generated)](docs/weekly_business_review.md)
 * [Evaluation report (generated)](reports/eval_report.md)
-* [Build the region view in Tableau Public](docs/tableau_guide.md)
+* [How the Tableau dashboard is built](docs/tableau_guide.md)
 * [How this maps to a Data Business Analyst role](docs/responsibilities_map.md)
 
 ## Limitations and next steps

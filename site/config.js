@@ -1,6 +1,7 @@
-/* Paste your Tableau Public view URL between the quotes after you publish it (see docs/tableau_guide.md).
-   Example shape: "https://public.tableau.com/views/<WorkbookName>/<SheetName>"
-   Leave it empty and the Tableau section stays hidden. */
+/* Tableau Public dashboard shown in the "Tableau dashboard" tab and header button.
+   tableauUrl is the embed address (public.tableau.com/views/...); tableauPage is the normal page people open.
+   Leave tableauUrl empty to hide the Tableau tab. */
 window.REVIEW_CONFIG = {
-  tableauUrl: ""
+  tableauUrl: "https://public.tableau.com/views/OlistSellerBook/Sellerbook",
+  tableauPage: "https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook"
 };

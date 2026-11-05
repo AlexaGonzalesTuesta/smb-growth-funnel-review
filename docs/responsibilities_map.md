@@ -8,5 +8,5 @@
 | Output clear business improvement suggestions | Seven findings, each with one action: [weekly_business_review.md](weekly_business_review.md) |
 | Find business opportunities and set reasonable goals | Scenarios priced from the data, and a realism check: a target is marked "seen in the data" only if some real group already performs at that level |
 | Calculate, track and review business goals and sales team assessment goals | Rep scorecard with 90% intervals, so reps are not ranked on noise |
-| Proficiency in Tableau / Power BI | Tableau Public version of the region view: [tableau_guide.md](tableau_guide.md) |
+| Proficiency in Tableau / Power BI | [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook) with calculated fields, an LOD expression, and filter and highlight actions: [tableau_guide.md](tableau_guide.md) |
 | SQL proficiency | All metrics are SQL (`sql/01` to `sql/04`); Python only orchestrates and models |
