@@ -24,7 +24,7 @@ def evaluate(deals) -> dict:
     model.fit(train[cols], train.activated)
     test["p"] = model.predict_proba(test[cols])[:, 1]
     third = int(len(test) / 3)
-    ranked = test.sort_values("p")
+    ranked = test.sort_values("p", kind="mergesort")
     return {
         "train_deals": len(train), "test_deals": len(test),
         "auc": float(roc_auc_score(test.activated, test.p)),

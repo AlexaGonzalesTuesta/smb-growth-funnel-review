@@ -58,7 +58,8 @@ def evaluate(con) -> dict:
     test["risk"] = model.predict_proba(test[FEATURES])[:, 1]
     test["reason"] = reasons(model, test)
     k = int(round(len(test) * config.RISK_FLAG_SHARE))
-    test = test.sort_values("risk", ascending=False).reset_index(drop=True)
+    # Sort by risk, then seller ID, so ties land the same way on every machine.
+    test = test.sort_values(["risk", "seller_id"], ascending=[False, True], kind="mergesort").reset_index(drop=True)
     test["flagged"] = test.index < k
     flagged, rest = test[test.flagged], test[~test.flagged]
     # Simple rule a team could run in a spreadsheet, as the baseline the model must beat.

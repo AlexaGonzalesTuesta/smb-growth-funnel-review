@@ -37,7 +37,7 @@ S-02C988,SP,americana,signaling and security,537.7,7,3,0.32495895518547957,Sold 
 S-2B1A40,MG,divinopolis,auto,1327.94,14,3,0.3249045856465554,Sold in only 3 of the last 16 weeks,True,0.0
 S-2CB6EB,MG,sabara,furniture decor,875.2,18,3,0.32425649201691475,Sold in only 3 of the last 16 weeks,False,25.0
 S-20D83F,SP,sao paulo,fashion bags accessories,728.6999999999998,24,5,0.3229018042307984,Sold in only 5 of the last 16 weeks,False,259.5
-S-B566AB,MG,extrema,home construction,1128.0,26,4,0.31974194478678103,Sold in only 4 of the last 16 weeks,False,80.0
+S-B566AB,MG,extrema,health beauty,1128.0,26,4,0.31974194478678103,Sold in only 4 of the last 16 weeks,False,80.0
 S-6D988D,PR,maringa,housewares,75.8,2,3,0.3196944442371208,Sold in only 3 of the last 16 weeks,False,94.75
 S-BBA742,MG,betim,sports leisure,909.9100000000001,30,5,0.31813335902219386,Sold in only 5 of the last 16 weeks,True,0.0
 S-EDF96E,SP,sao paulo,electronics,689.0,5,3,0.31793392885965277,Sold in only 3 of the last 16 weeks,False,160.0
@@ -98,7 +98,7 @@ S-D3674F,DF,brasilia,perfumery,989.4,16,4,0.27196785627161096,Sold in only 4 of 
 S-BD697D,SP,sao paulo,auto,1139.93,10,5,0.2714920108765384,Sold in only 5 of the last 16 weeks,False,729.95
 S-D51E0A,SP,pompeia,costruction tools garden,1150.0,3,3,0.2707291908199782,Sold in only 3 of the last 16 weeks,False,948.0
 S-BD1D49,SP,bauru,health beauty,305.8,15,4,0.27008660665899725,Sold in only 4 of the last 16 weeks,True,0.0
-S-F626E1,SP,marechal candido rondon,food drink,109.94999999999999,9,3,0.26955777761601385,Sold in only 3 of the last 16 weeks,False,20.9
+S-F626E1,SP,marechal candido rondon,drinks,109.94999999999999,9,3,0.26955777761601385,Sold in only 3 of the last 16 weeks,False,20.9
 S-3785B6,PR,ampere,housewares,323.9,11,4,0.2688647869424449,Sold in only 4 of the last 16 weeks,False,244.8
 S-4ABA39,BA,arraial d'ajuda (porto seguro),sports leisure,782.99,5,4,0.2669641664221894,Sold in only 4 of the last 16 weeks,False,382.0
 S-26D6BB,PR,curitiba,auto,86.77000000000001,19,3,0.2649314849336069,Sold in only 3 of the last 16 weeks,False,347.74

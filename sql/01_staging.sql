@@ -30,14 +30,19 @@ FROM read_csv_auto('{raw}/olist_order_items_dataset.csv.gz', header = true) i
 JOIN read_csv_auto('{raw}/olist_orders_dataset.csv.gz', header = true) o USING (order_id)
 WHERE o.order_status NOT IN ('canceled', 'unavailable');
 
--- Main product category per seller (the category with the most items sold).
+-- Main product category per seller: the category with the most items sold.
+-- Ties are broken alphabetically so the result is the same on every machine and DuckDB version.
 CREATE OR REPLACE TABLE seller_category AS
 WITH items AS (
   SELECT s.seller_id, COALESCE(t.product_category_name_english, p.product_category_name, 'unknown') AS category
   FROM sales s
   LEFT JOIN read_csv_auto('{raw}/olist_products_dataset.csv.gz', header = true) p USING (product_id)
   LEFT JOIN read_csv_auto('{raw}/product_category_name_translation.csv.gz', header = true) t USING (product_category_name)
+),
+counts AS (SELECT seller_id, category, COUNT(*) AS n FROM items GROUP BY 1, 2),
+ranked AS (
+  SELECT seller_id, category,
+         ROW_NUMBER() OVER (PARTITION BY seller_id ORDER BY n DESC, category ASC) AS rk
+  FROM counts
 )
-SELECT seller_id, arg_max(category, n) AS category
-FROM (SELECT seller_id, category, COUNT(*) AS n FROM items GROUP BY 1, 2)
-GROUP BY 1;
+SELECT seller_id, category FROM ranked WHERE rk = 1;
