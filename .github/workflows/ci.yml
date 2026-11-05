@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Unit and pipeline tests
+        run: python -m pytest -q
+      - name: Evaluation suite (fails the build if a check fails)
+        run: python -m evals.run_evals
+      - name: Site data is up to date
+        run: |
+          python -m growth.build
+          git diff --exit-code -- site/data.json || (echo "site/data.json is stale: run python -m growth.build and commit it." && exit 1)

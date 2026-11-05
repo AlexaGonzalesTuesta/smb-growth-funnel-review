@@ -1,0 +1,184 @@
+id,state,city,category,gmv_last16w,days_since,weeks_active16,risk,reason,went_dark,gmv_next
+S-FFDD9F,PR,curitiba,housewares,453.20000000000005,29,3,0.5613279737253869,Sold in only 3 of the last 16 weeks,False,197.79999999999998
+S-1F8673,PR,curitiba,housewares,91.47999999999999,28,3,0.47758198000500834,Sold in only 3 of the last 16 weeks,True,0.0
+S-ACADD4,SP,santa rosa de viterbo,garden tools,734.0,29,3,0.46929230976897196,Sold in only 3 of the last 16 weeks,False,1331.0
+S-D1B9D4,MG,nova lima,furniture decor,400.21000000000004,27,3,0.4499098186049783,Sold in only 3 of the last 16 weeks,False,197.25
+S-167FD9,SP,franca,auto,749.6999999999999,26,3,0.4429545604706003,Sold in only 3 of the last 16 weeks,True,0.0
+S-52956B,PR,maringa,perfumery,792.0,30,2,0.4349074150054819,Sold in only 2 of the last 16 weeks,True,0.0
+S-C9E5AD,RS,porto alegre,agro industry and commerce,214.73,21,2,0.43176449932700944,Sold in only 2 of the last 16 weeks,True,0.0
+S-670A9D,SP,ribeirao preto,fashion bags accessories,389.5,24,3,0.429434573759022,Sold in only 3 of the last 16 weeks,False,189.8
+S-BB135B,SP,sao paulo,furniture decor,364.69999999999993,17,3,0.4275361382446409,Sold in only 3 of the last 16 weeks,False,45.0
+S-113052,MG,uba,home confort,459.97,17,3,0.42279880122033087,Sold in only 3 of the last 16 weeks,False,749.9300000000001
+S-713E3A,PR,curitiba,baby,907.0,27,3,0.41211259415329626,Sold in only 3 of the last 16 weeks,True,0.0
+S-76C47A,SP,ribeirao preto,health beauty,340.0,13,3,0.4043581977239592,Sold in only 3 of the last 16 weeks,True,0.0
+S-232A60,SP,cafelandia,pet shop,755.6,30,5,0.4024012075227433,Sold in only 5 of the last 16 weeks,False,338.0
+S-6806DA,PR,guaratuba,auto,421.0,25,3,0.3958690577273067,Sold in only 3 of the last 16 weeks,False,165.0
+S-E48CC1,SP,aracatuba,computers accessories,299.97,16,3,0.39539832788563384,Sold in only 3 of the last 16 weeks,True,0.0
+S-04ABA0,RJ,santo antonio de padua,health beauty,653.9,22,4,0.38669694854442865,Sold in only 4 of the last 16 weeks,False,220.0
+S-2199E7,SP,registro,furniture decor,461.0,26,5,0.38601952800653794,Sold in only 5 of the last 16 weeks,False,152.0
+S-C0563D,SP,santo andre,cool stuff,699.4,21,4,0.38362152504295954,Sold in only 4 of the last 16 weeks,False,249.8
+S-20B54C,SP,sao caetano do sul,fixed telephony,488.45,15,3,0.3805055804305192,Sold in only 3 of the last 16 weeks,True,0.0
+S-834F85,SP,sao paulo,pet shop,861.41,12,3,0.37811322206422443,Sold in only 3 of the last 16 weeks,False,749.6099999999999
+S-5B6645,RJ,petropolis,construction tools construction,238.5,16,4,0.3745442367986807,Sold in only 4 of the last 16 weeks,False,139.8
+S-0B0DDB,SP,guarulhos,auto,1416.76,26,3,0.3619968173685589,Sold in only 3 of the last 16 weeks,True,0.0
+S-C731D1,SC,concordia,la cuisine,822.0,11,3,0.36117429434098663,Sold in only 3 of the last 16 weeks,False,179.0
+S-C32FC7,SP,ribeirao preto,sports leisure,185.70000000000002,24,3,0.36057639362486776,Sold in only 3 of the last 16 weeks,True,0.0
+S-C37B20,SP,sao paulo,furniture decor,251.8,23,4,0.3499441052176314,Sold in only 4 of the last 16 weeks,False,39.0
+S-8F54D6,MG,ipatinga,health beauty,989.05,29,5,0.34832268499700936,Sold in only 5 of the last 16 weeks,False,815.6
+S-588282,RS,caxias do sul,furniture decor,3139.8,18,4,0.347211293063677,Sold in only 4 of the last 16 weeks,False,1450.0
+S-68F86B,RJ,rio de janeiro,health beauty,332.79999999999995,18,4,0.3471942003127457,Sold in only 4 of the last 16 weeks,False,198.9
+S-C7FDB7,SP,santo andre,bed bath table,209.54000000000002,18,3,0.3465898529543722,Sold in only 3 of the last 16 weeks,False,42.44
+S-4EB61F,SP,sao paulo,home appliances 2,428.0,23,2,0.3462194573744043,Sold in only 2 of the last 16 weeks,False,885.0
+S-02F583,PR,curitiba,luggage accessories,347.96999999999997,22,2,0.3434529093148736,Sold in only 2 of the last 16 weeks,False,231.98
+S-D558EB,MG,divinopolis,musical instruments,709.0,21,3,0.3421366166019948,Sold in only 3 of the last 16 weeks,True,0.0
+S-D62412,PR,curitiba,auto,1000.2999999999998,18,4,0.3399336153710377,Sold in only 4 of the last 16 weeks,False,355.9
+S-128F9B,SP,atibaia,health beauty,205.7,13,3,0.33875023203723353,Sold in only 3 of the last 16 weeks,True,0.0
+S-02C988,SP,americana,signaling and security,537.7,7,3,0.32495895518547957,Sold in only 3 of the last 16 weeks,False,351.8
+S-2B1A40,MG,divinopolis,auto,1327.94,14,3,0.3249045856465554,Sold in only 3 of the last 16 weeks,True,0.0
+S-2CB6EB,MG,sabara,furniture decor,875.2,18,3,0.32425649201691475,Sold in only 3 of the last 16 weeks,False,25.0
+S-20D83F,SP,sao paulo,fashion bags accessories,728.6999999999998,24,5,0.3229018042307984,Sold in only 5 of the last 16 weeks,False,259.5
+S-B566AB,MG,extrema,home construction,1128.0,26,4,0.31974194478678103,Sold in only 4 of the last 16 weeks,False,80.0
+S-6D988D,PR,maringa,housewares,75.8,2,3,0.3196944442371208,Sold in only 3 of the last 16 weeks,False,94.75
+S-BBA742,MG,betim,sports leisure,909.9100000000001,30,5,0.31813335902219386,Sold in only 5 of the last 16 weeks,True,0.0
+S-EDF96E,SP,sao paulo,electronics,689.0,5,3,0.31793392885965277,Sold in only 3 of the last 16 weeks,False,160.0
+S-26AF45,PR,curitiba,auto,249.60000000000002,20,4,0.31628326624531944,Sold in only 4 of the last 16 weeks,False,297.5
+S-0EBD97,MG,contagem,fashion bags accessories,669.1999999999999,30,6,0.31378580061337663,Sold in only 6 of the last 16 weeks,False,49.9
+S-96493F,SP,sao paulo,computers accessories,2430.0,25,5,0.3134654840479962,Sold in only 5 of the last 16 weeks,True,0.0
+S-F1FD5A,PR,curitiba,luggage accessories,3011.0,27,5,0.3131425030762585,Sold in only 5 of the last 16 weeks,False,789.0
+S-FA3A0B,SP,sao jose dos pinhais,musical instruments,994.0,14,3,0.31305743229263966,Sold in only 3 of the last 16 weeks,True,0.0
+S-4E0606,MG,betim,perfumery,252.94000000000003,17,4,0.3130062628311596,Sold in only 4 of the last 16 weeks,False,195.94
+S-2379BD,SP,mogi mirim,perfumery,474.79999999999995,16,3,0.3125840144552957,Sold in only 3 of the last 16 weeks,False,350.0
+S-E6A69C,SP,sao paulo,housewares,107.37000000000002,20,5,0.31229211076305285,Sold in only 5 of the last 16 weeks,True,0.0
+S-0791D9,MG,belo horizonte,housewares,686.0,21,2,0.31146522533875765,Sold in only 2 of the last 16 weeks,False,156.0
+S-44073F,DF,brasilia,health beauty,649.89,14,3,0.3111242984004547,Sold in only 3 of the last 16 weeks,False,258.59
+S-6F229C,RJ,rio de janeiro,sports leisure,1039.6,6,3,0.31050679918970686,Sold in only 3 of the last 16 weeks,False,1475.3000000000002
+S-9AC4F1,GO,jaragua,sports leisure,182.76,15,3,0.308799476108096,Sold in only 3 of the last 16 weeks,False,86.25
+S-30A2F5,SP,santa barbara d'oeste,furniture decor,389.4,18,4,0.3084555179211833,Sold in only 4 of the last 16 weeks,False,109.8
+S-9A03A4,SP,catanduva,baby,1147.0,18,4,0.3082725729577433,Sold in only 4 of the last 16 weeks,False,200.0
+S-A425F9,PR,curitiba,furniture decor,300.4,19,3,0.30805201818796296,Sold in only 3 of the last 16 weeks,False,188.4
+S-BBF9AD,CE,fortaleza,health beauty,2256.0,7,4,0.30572131759910665,Sold in only 4 of the last 16 weeks,True,0.0
+S-679769,MG,ipatinga,health beauty,1047.0,2,3,0.3054922027719686,Sold in only 3 of the last 16 weeks,False,897.0
+S-6288C6,SP,santo andre,toys,355.94,18,4,0.3048799388775423,Sold in only 4 of the last 16 weeks,False,32.99
+S-7C1FEA,SP,boituva,telephony,144.6,17,4,0.3036261485682388,Sold in only 4 of the last 16 weeks,True,0.0
+S-D379F4,MG,divinopolis,furniture decor,1490.9,18,5,0.3036217330106974,Sold in only 5 of the last 16 weeks,False,43.5
+S-7A2D29,PR,curitiba,pet shop,736.99,5,4,0.30282950890673294,Sold in only 4 of the last 16 weeks,True,0.0
+S-850448,SP,osasco,telephony,144.70000000000002,19,3,0.3023776868486237,Sold in only 3 of the last 16 weeks,False,95.9
+S-AD97A1,SC,brusque,small appliances,3205.5,20,4,0.3019521890319225,Sold in only 4 of the last 16 weeks,False,1942.3
+S-08D094,PR,cascavel,furniture decor,119.6,12,4,0.30080397559511896,Sold in only 4 of the last 16 weeks,False,56.8
+S-57DF98,MG,santa rita do sapucai,housewares,75.0,20,2,0.3002418897462584,Sold in only 2 of the last 16 weeks,False,50.0
+S-6FC26F,SP,fernandopolis,furniture decor,262.99,15,4,0.3002084800925102,Sold in only 4 of the last 16 weeks,False,336.0
+S-353E21,RS,canoas,auto,156.0,14,3,0.2994537874221376,Sold in only 3 of the last 16 weeks,True,0.0
+S-D9E7E7,SP,sao paulo,health beauty,554.5999999999999,22,4,0.2986098587662431,Sold in only 4 of the last 16 weeks,True,0.0
+S-BBA329,SP,sao paulo,health beauty,2204.02,8,3,0.2964469508381518,Sold in only 3 of the last 16 weeks,True,0.0
+S-B4A476,SP,itapevi,electronics,863.0,4,3,0.2959185987089981,Sold in only 3 of the last 16 weeks,True,0.0
+S-BE3B4B,PR,imbituva,housewares,578.1999999999998,22,3,0.29511110632281884,Sold in only 3 of the last 16 weeks,True,0.0
+S-336127,PR,maringa,pet shop,606.6599999999999,26,6,0.29454619062012743,Sold in only 6 of the last 16 weeks,False,174.45
+S-822BAD,SC,balneario camboriu,telephony,2571.0,21,5,0.29433332194883643,Sold in only 5 of the last 16 weeks,True,0.0
+S-4EBDC7,SP,sao paulo,furniture decor,60.4,3,3,0.2942123155174334,Sold in only 3 of the last 16 weeks,False,25.0
+S-FE701D,RJ,marica,fashion bags accessories,1169.3,30,6,0.29420314815013127,Sold in only 6 of the last 16 weeks,False,129.9
+S-0BB738,SP,sao roque,industry commerce and business,522.8,10,4,0.2931430190971191,Sold in only 4 of the last 16 weeks,True,0.0
+S-9D7A1D,SP,franca,stationery,241.96999999999997,11,3,0.29300189763302514,Sold in only 3 of the last 16 weeks,False,34.78
+S-9AA388,MG,muriae,bed bath table,276.0,16,3,0.29208957242624445,Sold in only 3 of the last 16 weeks,False,402.0
+S-0DFBED,SP,porto ferreira,baby,84.35,26,3,0.2918938592775177,Sold in only 3 of the last 16 weeks,True,0.0
+S-700861,SC,canoinhas,sports leisure,498.9,23,5,0.28871766399094667,Sold in only 5 of the last 16 weeks,False,127.9
+S-3AFC53,MG,belo horizonte,electronics,208.0,18,4,0.2883633958818338,Sold in only 4 of the last 16 weeks,True,0.0
+S-AF7CDA,SP,laranjal paulista,toys,493.55,22,4,0.2879921956228562,Sold in only 4 of the last 16 weeks,False,49.99
+S-2A1348,MG,belo horizonte,furniture decor,213.4,20,5,0.2877920531408357,Sold in only 5 of the last 16 weeks,False,43.9
+S-BCCF93,SP,assis,health beauty,535.0600000000001,21,4,0.2876778705160359,Sold in only 4 of the last 16 weeks,False,331.79
+S-1F1BB1,SP,sao paulo,fashion bags accessories,4301.98,17,5,0.28560231926950513,Sold in only 5 of the last 16 weeks,False,1078.0
+S-BA6CE6,SP,sorocaba,sports leisure,566.0,19,4,0.28535446247933827,Sold in only 4 of the last 16 weeks,False,59.45
+S-788E85,SP,sao paulo,stationery,330.0,22,2,0.2833061059914088,Sold in only 2 of the last 16 weeks,False,880.0
+S-514509,PR,curitiba,bed bath table,1459.6,21,4,0.28232539231603304,Sold in only 4 of the last 16 weeks,True,0.0
+S-13D058,SP,osasco,home appliances 2,469.97,11,3,0.27837287713651593,Sold in only 3 of the last 16 weeks,False,119.99
+S-BDAE67,DF,brasilia,construction tools construction,405.96000000000004,9,3,0.27730969166555763,Sold in only 3 of the last 16 weeks,False,197.2
+S-307649,SP,auriflama,furniture decor,126.64000000000001,21,3,0.27682506840498783,Sold in only 3 of the last 16 weeks,False,232.69000000000003
+S-4E7C18,SP,jaboticabal,small appliances,306.0,16,3,0.2757257411643677,Sold in only 3 of the last 16 weeks,False,169.0
+S-2D2C62,SP,ribeirao preto,small appliances,1157.0,11,4,0.2725892329492459,Sold in only 4 of the last 16 weeks,False,1837.0
+S-D3674F,DF,brasilia,perfumery,989.4,16,4,0.27196785627161096,Sold in only 4 of the last 16 weeks,False,177.8
+S-BD697D,SP,sao paulo,auto,1139.93,10,5,0.2714920108765384,Sold in only 5 of the last 16 weeks,False,729.95
+S-D51E0A,SP,pompeia,costruction tools garden,1150.0,3,3,0.2707291908199782,Sold in only 3 of the last 16 weeks,False,948.0
+S-BD1D49,SP,bauru,health beauty,305.8,15,4,0.27008660665899725,Sold in only 4 of the last 16 weeks,True,0.0
+S-F626E1,SP,marechal candido rondon,food drink,109.94999999999999,9,3,0.26955777761601385,Sold in only 3 of the last 16 weeks,False,20.9
+S-3785B6,PR,ampere,housewares,323.9,11,4,0.2688647869424449,Sold in only 4 of the last 16 weeks,False,244.8
+S-4ABA39,BA,arraial d'ajuda (porto seguro),sports leisure,782.99,5,4,0.2669641664221894,Sold in only 4 of the last 16 weeks,False,382.0
+S-26D6BB,PR,curitiba,auto,86.77000000000001,19,3,0.2649314849336069,Sold in only 3 of the last 16 weeks,False,347.74
+S-0B64BC,RS,canoas,health beauty,101.69999999999999,13,3,0.26481144268447887,Sold in only 3 of the last 16 weeks,False,35.9
+S-439A47,SP,mogi das cruzes,bed bath table,282.0,6,3,0.26414385536129575,Sold in only 3 of the last 16 weeks,False,416.0
+S-5A425C,PR,londrina,toys,479.59000000000003,22,3,0.26246744827727714,Sold in only 3 of the last 16 weeks,False,880.9999999999999
+S-52D765,RS,novo hamburgo,industry commerce and business,5973.449999999997,29,7,0.26122449594607655,No sale in 29 days,False,1569.79
+S-2BA91C,SP,itu,pet shop,691.9,21,4,0.2597648155113252,Sold in only 4 of the last 16 weeks,False,48.5
+S-56642B,SP,sao paulo,health beauty,562.1600000000001,22,6,0.2583550432696207,Sold in only 6 of the last 16 weeks,False,146.48000000000002
+S-0D33A5,SP,sao paulo,books technical,254.0,28,6,0.2566868785669086,Sold in only 6 of the last 16 weeks,False,150.6
+S-430315,SP,sao paulo,housewares,280.5,26,5,0.2562749732227211,Sold in only 5 of the last 16 weeks,False,629.9
+S-977F9F,SP,tabatinga,baby,1113.84,26,6,0.25588060601475376,Sold in only 6 of the last 16 weeks,False,646.53
+S-238FAC,SP,dois corregos,pet shop,951.0,22,5,0.2551169306956814,Sold in only 5 of the last 16 weeks,False,283.0
+S-7B1222,SP,sao jose do rio preto,toys,1144.7,4,3,0.2529567325992959,Sold in only 3 of the last 16 weeks,True,0.0
+S-FF4E2D,SP,sao paulo,books technical,210.0,19,4,0.25174808732878623,Sold in only 4 of the last 16 weeks,False,104.9
+S-B3B17A,PR,londrina,auto,5457.0,21,5,0.2504093090031921,Sold in only 5 of the last 16 weeks,True,0.0
+S-6EC1A0,SP,santos,health beauty,1718.19,24,6,0.2500190484259722,Sold in only 6 of the last 16 weeks,False,121.24
+S-3A4127,SP,sao paulo,telephony,1547.8,22,4,0.2492252985953417,Sold in only 4 of the last 16 weeks,False,294.9
+S-7DF1FC,MS,campo grande,auto,413.70000000000005,12,3,0.24913483942148457,Sold in only 3 of the last 16 weeks,False,623.9
+S-E70053,SP,sao paulo,telephony,2901.0,13,4,0.2482401308088411,Sold in only 4 of the last 16 weeks,False,789.0
+S-6C6E3D,PR,maringa,computers accessories,144.0,6,3,0.24822558652210305,Sold in only 3 of the last 16 weeks,False,80.0
+S-AAE5E7,PR,sao jose dos pinhas,bed bath table,545.0,10,3,0.24773634877805842,Sold in only 3 of the last 16 weeks,False,59.8
+S-17F51E,SP,sao paulo,health beauty,5980.0,22,6,0.24714176966117718,Sold in only 6 of the last 16 weeks,False,3460.0
+S-8FF1A9,SP,marilia,housewares,831.3,8,4,0.24678842522528183,Sold in only 4 of the last 16 weeks,True,0.0
+S-97512D,SP,sao paulo,computers accessories,763.9200000000001,26,5,0.24663453794715304,Sold in only 5 of the last 16 weeks,False,694.95
+S-C522BE,SP,santana de parnaiba,auto,429.96000000000004,22,4,0.2438362795067436,Sold in only 4 of the last 16 weeks,False,309.97
+S-5E105F,SP,sao jose do rio preto,housewares,279.0,12,2,0.2427097575541426,Sold in only 2 of the last 16 weeks,False,1192.9
+S-F9244D,SP,sao paulo,small appliances,2439.959999999999,5,4,0.24127201344390872,Sold in only 4 of the last 16 weeks,False,4109.98
+S-F97E2B,SP,santo antonio de posse,pet shop,947.0,7,4,0.24023520688880465,Sold in only 4 of the last 16 weeks,False,970.0
+S-7F2617,SP,sao paulo,sports leisure,1079.3,9,5,0.23998374496697145,Sold in only 5 of the last 16 weeks,True,0.0
+S-396986,SP,sao paulo,sports leisure,288.58,16,5,0.23926737061645667,Sold in only 5 of the last 16 weeks,False,99.8
+S-E97299,RJ,petropolis,garden tools,916.6999999999999,21,3,0.23926190977312697,Sold in only 3 of the last 16 weeks,True,0.0
+S-F76A3B,SP,sao paulo,housewares,959.5899999999999,24,5,0.23892809662040784,Sold in only 5 of the last 16 weeks,False,387.9
+S-961635,PR,umuarama,sports leisure,299.5,24,3,0.23859863830361933,Sold in only 3 of the last 16 weeks,False,317.6
+S-E250D6,SP,guarulhos,furniture decor,229.79000000000002,10,3,0.23854416474071716,Sold in only 3 of the last 16 weeks,False,481.38
+S-FEC627,RJ,nova friburgo,health beauty,1704.0,15,4,0.23765507370280567,Sold in only 4 of the last 16 weeks,False,284.0
+S-A369D6,SP,sao jose do rio preto,home construction,782.0,7,4,0.2373036855234155,Sold in only 4 of the last 16 weeks,False,297.0
+S-E0EABD,SP,campinas,consoles games,978.4,27,5,0.23721754443336207,Sold in only 5 of the last 16 weeks,True,0.0
+S-2305AB,SP,sao paulo,perfumery,788.89,12,3,0.2361565248472529,Sold in only 3 of the last 16 weeks,True,0.0
+S-94B910,SP,guarulhos,electronics,166.45999999999998,1,3,0.2360373549994673,Sold in only 3 of the last 16 weeks,False,57.26
+S-8F580D,SP,ribeirao preto,auto,3008.2,14,5,0.23532662665673906,Sold in only 5 of the last 16 weeks,False,1179.45
+S-499EC6,SP,sao paulo,computers accessories,365.0,27,5,0.2345506634954958,Sold in only 5 of the last 16 weeks,True,0.0
+S-FBC14C,SP,serrana,fixed telephony,2970.959999999999,9,4,0.23196492220671133,Sold in only 4 of the last 16 weeks,False,3390.96
+S-165FC0,PR,maringa,computers accessories,827.8,12,3,0.23145354849762204,Sold in only 3 of the last 16 weeks,False,379.6
+S-E8A85B,DF,brasilia,housewares,87.0,1,3,0.2312025975658216,Sold in only 3 of the last 16 weeks,False,638.0
+S-A93832,RJ,nilopolis,auto,779.0,7,4,0.2308860464146183,Sold in only 4 of the last 16 weeks,False,695.0
+S-157C3E,SP,sao paulo,furniture decor,800.0,30,7,0.22948186356646308,No sale in 30 days,False,773.5
+S-D4F117,SP,sao paulo,health beauty,399.83000000000004,16,5,0.22907178409703868,Sold in only 5 of the last 16 weeks,False,89.89
+S-8B2D4A,PR,fazenda rio grande,sports leisure,254.0,5,3,0.2271092032848744,Sold in only 3 of the last 16 weeks,False,204.0
+S-8A2D12,PR,curitiba,housewares,204.8,7,3,0.22672533523912866,Sold in only 3 of the last 16 weeks,False,1003.5
+S-FAC35D,MG,bonfinopolis de minas,construction tools construction,456.0,2,2,0.22606939571421764,Sold in only 2 of the last 16 weeks,False,120.0
+S-8602A6,SP,sao paulo,fashion bags accessories,181.99,1,4,0.22532536067245487,Sold in only 4 of the last 16 weeks,False,115.0
+S-F32600,SP,fernandopolis,furniture decor,549.1899999999999,4,3,0.22526070412485635,Sold in only 3 of the last 16 weeks,False,549.1899999999999
+S-4917CE,SC,blumenau,home appliances 2,791.9,2,4,0.2239515927476405,Sold in only 4 of the last 16 weeks,False,597.0
+S-F680F8,SP,carapicuiba,baby,1884.51,23,5,0.22303277592726936,Sold in only 5 of the last 16 weeks,False,291.88
+S-D97DF3,SP,sao caetano do sul,auto,1017.0,24,6,0.22138668496855843,Sold in only 6 of the last 16 weeks,False,214.0
+S-1CBD32,SP,sp / sp,health beauty,539.9,22,2,0.22103356884146028,Sold in only 2 of the last 16 weeks,False,505.56999999999994
+S-577719,RS,nova petropolis,housewares,780.6,17,4,0.22062585572501123,Sold in only 4 of the last 16 weeks,False,297.2
+S-C33A5C,SC,criciuma,perfumery,419.4,6,4,0.22051886609300797,Sold in only 4 of the last 16 weeks,True,0.0
+S-00720A,SP,guarulhos,housewares,523.0000000000001,26,6,0.21972668864566094,Sold in only 6 of the last 16 weeks,False,210.0
+S-32F1BB,SP,sao paulo,housewares,206.69000000000003,2,3,0.21947218691100495,Sold in only 3 of the last 16 weeks,False,69.69999999999999
+S-2C4C47,SP,buritama,pet shop,693.3199999999999,1,3,0.21801229598237556,Sold in only 3 of the last 16 weeks,False,424.3299999999999
+S-6E13DD,SP,sao paulo,health beauty,258.0,5,3,0.2172150903311414,Sold in only 3 of the last 16 weeks,False,264.0
+S-343E71,SP,campinas,books general interest,388.99999999999994,3,5,0.2165941759720008,Sold in only 5 of the last 16 weeks,False,46.9
+S-7B0DF9,SP,braganca paulista,musical instruments,3526.5299999999997,5,5,0.21647606399158137,Sold in only 5 of the last 16 weeks,True,0.0
+S-5EEB9C,SP,ribeirao preto,sports leisure,1171.0,12,5,0.21629630864036914,Sold in only 5 of the last 16 weeks,False,317.0
+S-3586B8,SP,araraquara,stationery,171.6,7,4,0.21498523789329557,Sold in only 4 of the last 16 weeks,False,103.69999999999999
+S-67BF69,PR,curitiba,office furniture,2791.0,17,6,0.21450713572553423,Sold in only 6 of the last 16 weeks,False,209.0
+S-13074F,RS,bento goncalves,kitchen dining laundry garden furniture,606.0,3,4,0.2136427646606146,Sold in only 4 of the last 16 weeks,False,268.0
+S-5DEBEA,PR,apucarana,health beauty,471.6,10,4,0.21340616729259365,Sold in only 4 of the last 16 weeks,False,63.0
+S-9906E7,PR,maringa,sports leisure,1117.5,16,5,0.2133885737329872,Sold in only 5 of the last 16 weeks,False,1021.8
+S-4D0041,MG,juiz de fora,auto,2025.7000000000003,12,3,0.21215564594084702,Sold in only 3 of the last 16 weeks,False,3209.5000000000005
+S-1CE3AE,SC,jaguaruna,furniture decor,796.0999999999999,28,7,0.21185366602661912,No sale in 28 days,False,159.6
+S-4EF4C3,SP,sao paulo,sports leisure,594.0,9,4,0.2111330619718147,Sold in only 4 of the last 16 weeks,False,99.0
+S-253F95,SP,sao paulo,auto,799.5,19,5,0.21099327033017712,Sold in only 5 of the last 16 weeks,True,0.0
+S-75FBB5,GO,goiania,dvds blu ray,297.5,14,6,0.21032606422047218,Sold in only 6 of the last 16 weeks,True,0.0
+S-F5B448,SP,sorocaba,auto,141.9,17,6,0.20961065545439314,Sold in only 6 of the last 16 weeks,False,57.0
+S-5B5103,MG,borda da mata,furniture decor,1538.0,14,5,0.2066807724919866,Sold in only 5 of the last 16 weeks,True,0.0
+S-396892,SP,bauru,housewares,428.9,22,4,0.2060565588515891,Sold in only 4 of the last 16 weeks,False,94.4
+S-7B98DE,PR,loanda,construction tools construction,216.70000000000002,15,2,0.20387017451161593,Sold in only 2 of the last 16 weeks,False,417.5
+S-06BB3A,MG,belo horizonte,health beauty,368.59,6,4,0.20383805737794972,Sold in only 4 of the last 16 weeks,False,89.6
+S-D3F39F,SP,mococa,health beauty,606.3,13,5,0.20350977434722728,Sold in only 5 of the last 16 weeks,True,0.0
+S-809049,SP,sao paulo - sp,health beauty,583.5399999999998,16,6,0.203487211332793,Sold in only 6 of the last 16 weeks,False,2482.8799999999997

@@ -1,0 +1,94 @@
+{
+  "checks": [
+    {
+      "check": "leads rows match Kaggle",
+      "value": 8000,
+      "target": 8000,
+      "passed": true
+    },
+    {
+      "check": "deals rows match Kaggle",
+      "value": 842,
+      "target": 842,
+      "passed": true
+    },
+    {
+      "check": "sellers rows match Kaggle",
+      "value": 3095,
+      "target": 3095,
+      "passed": true
+    },
+    {
+      "check": "orders rows match Kaggle",
+      "value": 99441,
+      "target": 99441,
+      "passed": true
+    },
+    {
+      "check": "funnel reconciles: activated <= won <= leads",
+      "value": "240 <= 562 <= 4695",
+      "target": "true",
+      "passed": true
+    },
+    {
+      "check": "funnel GMV reconciles to raw order items",
+      "value": 300204.43,
+      "target": 300204.43,
+      "passed": true
+    },
+    {
+      "check": "every counted deal has a full activation window",
+      "value": "2018-08-29",
+      "target": "<= 2018-08-29",
+      "passed": true
+    },
+    {
+      "check": "at-risk model AUC on unseen snapshot",
+      "value": 0.755,
+      "target": ">= 0.72",
+      "passed": true
+    },
+    {
+      "check": "at-risk lift (flagged vs all)",
+      "value": 2.21,
+      "target": ">= 2.0x",
+      "passed": true
+    },
+    {
+      "check": "at-risk precision beats the spreadsheet rule",
+      "value": 0.246,
+      "target": "> 0.172",
+      "passed": true
+    },
+    {
+      "check": "activation-at-signing model AUC on later deals",
+      "value": 0.687,
+      "target": ">= 0.62",
+      "passed": true
+    }
+  ],
+  "risk": {
+    "train_sellers": 808,
+    "test_sellers": 915,
+    "base_rate": 0.11147540983606558,
+    "auc": 0.7549863733931457,
+    "flagged": 183,
+    "precision_flagged": 0.2459016393442623,
+    "rate_not_flagged": 0.0778688524590164,
+    "recall": 0.4411764705882353,
+    "lift": 2.205882352941176,
+    "gmv_last16w_flagged": 156633.59999999998,
+    "gmv_last16w_book": 3092744.4000000004,
+    "rule_flagged": 198,
+    "rule_precision": 0.1717171717171717,
+    "rule_recall": 0.3333333333333333
+  },
+  "activation": {
+    "train_deals": 336,
+    "test_deals": 329,
+    "auc": 0.6869273743016759,
+    "activation_lowest_third": 0.28440366972477066,
+    "activation_highest_third": 0.6422018348623854,
+    "base_rate": 0.45592705167173253
+  }
+}
