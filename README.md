@@ -8,7 +8,9 @@
 
 Loads in about a second, no sign-up. Drag any driver, try the three scenarios, click a state, then check the at-risk seller list against what actually happened. Your changes stay in your own browser.
 
-![Demo: dragging activation, comparing scenarios, opening Paraná's at-risk sellers and revealing what happened next](docs/images/demo.gif)
+![Demo: dragging the activation driver, comparing scenarios, opening Paraná's at-risk sellers and revealing what happened next](docs/images/demo.gif)
+
+The live page also embeds the [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook) right under the driver tree.
 
 ## Why this exists
 
@@ -20,7 +22,7 @@ The data is the real, public [Olist](https://www.kaggle.com/datasets/olistbr/mar
 
 ## What's different
 
-* **The goal is an equation you can drag.** New-seller GMV = leads x win rate x activation rate x GMV per activated seller. Set a growth target and the page shows what each driver would need, then checks whether any real channel or seller group already performs at that level.
+* **The goal is an equation you can drag.** New-seller GMV = leads x win rate x activation rate x GMV per activated seller. Each driver shows the real benchmark next to it (for example, paid-search sellers already activate at 55%), so you can see whether a change is realistic.
 * **It refuses to rank people on noise.** Every rate has a 90% interval. Reps' activation ranges from 29% to 59%, but no rep is statistically different from the team, and the page says so instead of building a leaderboard.
 * **The at-risk list is graded on the future.** The model is trained on the March 31 seller book and tested on the June 30 book, which it never saw. Flip one switch to see which flagged sellers really stopped selling.
 * **It flags its own traps.** One seller produced 25% of new-seller GMV, so channels are compared on win and activation rates, not GMV per lead.
@@ -31,7 +33,7 @@ The data is the real, public [Olist](https://www.kaggle.com/datasets/olistbr/mar
 
 1. Open the [live review](https://alexagonzalestuesta.github.io/smb-growth-funnel-review/).
 2. Click **Buy 20% more leads**, then **Raise activation to the paid-search rate**. The second one is worth more (+30% vs +20%) and needs no new acquisition spend.
-3. Leave **Growth target** at `30`. Win rate alone would need 15.6%, more than any tracked source wins; activation alone would need 55.5%, which large online sellers already beat.
+3. Scroll to the Tableau dashboard and click **SP** (São Paulo) on the map: the KPIs and the at-risk seller list filter to that state.
 4. Open **Lead sources**. Paid search is the only source whose signed sellers activate above the team rate.
 5. Open **Regions** and click **PR** (Paraná): the second-largest state, GMV down 18% quarter over quarter, 29% of its sellers flagged. Click **See 30 at-risk sellers in Paraná**.
 6. Turn on **Show what happened by August 28, 2018**.
@@ -80,7 +82,7 @@ flowchart LR
     H --> K[data/tableau/*.csv]
 ```
 
-The live page is plain HTML, CSS and JavaScript in `site/`, with no framework and no build step. GitHub Actions rebuilds `site/data.json` from the raw files and deploys `site/` to GitHub Pages on every push.
+The live page is plain HTML, CSS and JavaScript in `site/`, with no framework and no build step, set in Georgia to match the Tableau dashboard. GitHub Actions rebuilds `site/data.json` from the raw files and deploys `site/` to GitHub Pages on every push.
 
 ## Run it locally (Windows Command Prompt)
 
@@ -142,6 +144,6 @@ I started from the business question, not the model: what does a scaled sales te
 
 ## Data and license
 
-Code: MIT. Data: Olist, [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and [Marketing Funnel](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) datasets on Kaggle, CC BY-NC-SA 4.0, redistributed unchanged for non-commercial use. Font: Archivo, SIL Open Font License. See [LICENSE](LICENSE).
+Code: MIT. Data: Olist, [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and [Marketing Funnel](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) datasets on Kaggle, CC BY-NC-SA 4.0, redistributed unchanged for non-commercial use. Font: Georgia, with Gelasio (SIL Open Font License) as the fallback where Georgia isn't installed. See [LICENSE](LICENSE).
 
 **Alexa Gonzales-Tuesta** | [LinkedIn](https://www.linkedin.com/in/alexa-gonzales-tuesta/) | [GitHub](https://github.com/AlexaGonzalesTuesta)

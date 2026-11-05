@@ -144,6 +144,7 @@
 
   function renderTarget() {
     var inp = $("target-input");
+    if (!inp) return;
     if (document.activeElement !== inp) inp.value = S.target;
     var t = S.target, out = $("target-readout");
     if (!t || t <= 0 || t > 300 || isNaN(t)) { out.innerHTML = '<p class="readout-title">Type a target between 1% and 300% to see what each driver would need.</p>'; return; }
@@ -162,6 +163,7 @@
 
   // ---------- leak strip ----------
   function renderLeak() {
+    if (!$("leak-strip")) return;
     var s = D.summary;
     var stages = [
       { n: n0(s.leads), what: "Leads, Jan to Apr 2018", w: 1, lost: "" },
@@ -541,7 +543,7 @@
       S = defaults(); S.tab = keepTab; save(); renderAll();
       $("reset").focus();
     });
-    $("target-input").addEventListener("input", function (e) { S.target = parseFloat(e.target.value); save(); renderTarget(); });
+    if ($("target-input")) $("target-input").addEventListener("input", function (e) { S.target = parseFloat(e.target.value); save(); renderTarget(); });
     function net() { $("offline").hidden = navigator.onLine; }
     window.addEventListener("online", net); window.addEventListener("offline", net); net();
     boot();
