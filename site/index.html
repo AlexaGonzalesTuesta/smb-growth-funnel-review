@@ -20,7 +20,7 @@
       <span>New-seller growth review</span>
     </div>
     <p class="source">Real data: Olist marketplace, Brazil. <span id="meta-window"></span></p>
-    <a class="repo" id="tableau-top" href="#" target="_blank" rel="noopener" hidden>Tableau dashboard</a>
+    <a class="repo" id="tableau-top" href="#tableau-section" hidden>Tableau dashboard</a>
     <a class="repo" href="https://github.com/AlexaGonzalesTuesta/smb-growth-funnel-review">Code on GitHub</a>
   </div>
 </header>
@@ -39,7 +39,7 @@
   <div id="app" hidden>
     <section class="intro" aria-labelledby="intro-h">
       <h1 id="intro-h">Drag a driver to see what it takes to grow new-seller GMV, then check whether that change is realistic.</h1>
-      <p class="lede">A scaled sales team signs small merchants, but a signed seller only counts once they start selling. These are the real numbers for <span id="lead-count"></span> leads that came in between January and April 2018.</p>
+      <p class="lede">A scaled sales team signs small merchants, but a signed seller only counts once they start selling. These are the real numbers for <span id="lead-count"></span> leads that came in between January and April 2018.<span id="tableau-jump" hidden> Prefer Tableau? <a href="#tableau-section">Jump to the Tableau dashboard</a>.</span></p>
     </section>
 
     <section class="equation-block" aria-label="Driver tree">
@@ -63,6 +63,17 @@
     <section class="leak" aria-labelledby="leak-h">
       <h2 id="leak-h" class="sr-only">Where the cohort leaks</h2>
       <div id="leak-strip" class="leak-strip"></div>
+    </section>
+
+    <section id="tableau-section" class="tableau-section" aria-labelledby="tableau-h" hidden>
+      <div class="tableau-head">
+        <div>
+          <h2 id="tableau-h">The same seller book, built in Tableau</h2>
+          <p>Click a state on the map to filter the KPIs and the at-risk seller list. Same data as this page, as of June 30, 2018.</p>
+        </div>
+        <a class="btn ghost" id="tableau-open" href="#" target="_blank" rel="noopener">Open in Tableau Public</a>
+      </div>
+      <div id="tableau-frame" class="tableau-frame"><p class="muted">Loading the Tableau dashboard. It can take a few seconds.</p></div>
     </section>
 
     <nav class="tabs" role="tablist" aria-label="Review sections" id="tabs"></nav>
@@ -125,14 +136,6 @@
       <div class="table-wrap"><table class="data" id="risk-table"></table></div>
       <div id="risk-empty" class="empty" hidden></div>
       <div class="pager"><button type="button" class="btn ghost" id="more">Show 25 more</button></div>
-    </section>
-
-    <section class="panel" role="tabpanel" id="panel-tableau" aria-labelledby="tab-tableau" hidden>
-      <div class="tableau-head">
-        <p class="panel-lede">The June 30, 2018 seller book rebuilt in Tableau from the same data: click a state on the map to filter the at-risk sellers beside it.</p>
-        <a class="repo" id="tableau-open" href="#" target="_blank" rel="noopener">Open in Tableau Public</a>
-      </div>
-      <div id="tableau-frame" class="tableau-frame"><p class="muted">Loading the Tableau dashboard. It can take a few seconds.</p></div>
     </section>
 
     <section class="panel" role="tabpanel" id="panel-method" aria-labelledby="tab-method" hidden>

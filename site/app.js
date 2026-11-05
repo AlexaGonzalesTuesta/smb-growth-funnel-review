@@ -182,7 +182,6 @@
     ["regions", "Regions"], ["risk", "At-risk sellers"], ["method", "How it's measured"]
   ];
   function tableauUrl() { var u = (window.REVIEW_CONFIG || {}).tableauUrl; return u && /^https:\/\/public\.tableau\.com\//.test(u) ? u : ""; }
-  if (tableauUrl()) TABS.splice(6, 0, ["tableau", "Tableau dashboard"]);
   function renderTabs() {
     var nav = $("tabs");
     nav.innerHTML = TABS.map(function (t) {
@@ -203,8 +202,7 @@
   function selectTab(id) { S.tab = id; save(); renderTabs(); }
   function showPanel() {
     if (!TABS.some(function (t) { return t[0] === S.tab; })) S.tab = "findings";
-    ["findings", "channels", "sellers", "reps", "regions", "risk", "tableau", "method"].forEach(function (id) { $("panel-" + id).hidden = id !== S.tab; });
-    if (S.tab === "tableau") loadTableau();
+    ["findings", "channels", "sellers", "reps", "regions", "risk", "method"].forEach(function (id) { $("panel-" + id).hidden = id !== S.tab; });
   }
   function loadTableau() {
     var url = tableauUrl(), box = $("tableau-frame");
@@ -213,9 +211,17 @@
     box.innerHTML = '<iframe title="Seller book dashboard in Tableau Public" src="' + esc(src) + '"></iframe>';
   }
   function setupTableauLinks() {
-    var url = tableauUrl();
-    var page = (window.REVIEW_CONFIG || {}).tableauPage || url;
-    ["tableau-top", "tableau-open"].forEach(function (id) { var a = $(id); if (url) { a.href = page; a.hidden = false; } else { a.hidden = true; } });
+    var url = tableauUrl(), page = (window.REVIEW_CONFIG || {}).tableauPage || url;
+    $("tableau-section").hidden = !url; $("tableau-top").hidden = !url; $("tableau-jump").hidden = !url;
+    if (!url) return;
+    $("tableau-open").href = page;
+    // Load the embed only when the section is close to the screen, so the page itself stays fast.
+    if ("IntersectionObserver" in window) {
+      var io = new IntersectionObserver(function (entries) {
+        if (entries.some(function (e) { return e.isIntersecting; })) { loadTableau(); io.disconnect(); }
+      }, { rootMargin: "600px 0px" });
+      io.observe($("tableau-section"));
+    } else { loadTableau(); }
   }
 
   // ---------- small SVG helpers ----------

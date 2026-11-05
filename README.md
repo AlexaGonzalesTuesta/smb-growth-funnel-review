@@ -24,7 +24,7 @@ The data is the real, public [Olist](https://www.kaggle.com/datasets/olistbr/mar
 * **It refuses to rank people on noise.** Every rate has a 90% interval. Reps' activation ranges from 29% to 59%, but no rep is statistically different from the team, and the page says so instead of building a leaderboard.
 * **The at-risk list is graded on the future.** The model is trained on the March 31 seller book and tested on the June 30 book, which it never saw. Flip one switch to see which flagged sellers really stopped selling.
 * **It flags its own traps.** One seller produced 25% of new-seller GMV, so channels are compared on win and activation rates, not GMV per lead.
-* **Also in Tableau.** The June 30 seller book is rebuilt as a [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook): headline KPIs, a map of sales at risk by state, at-risk share by state, and the flagged seller list, all linked by filter and highlight actions. It is embedded in the live page's Tableau dashboard tab, and the workbook is in `data/tableau/olist_seller_book.twbx`.
+* **Also in Tableau.** The June 30 seller book is rebuilt as a [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook): headline KPIs, a map of sales at risk by state, at-risk share by state, and the flagged seller list, all linked by filter and highlight actions. It is embedded right on the live page, below the driver tree, and the workbook is in `data/tableau/olist_seller_book.twbx`.
 * **SQL first.** Every metric is a DuckDB SQL model over the raw Kaggle files. Python only runs the models and fits two logistic regressions.
 
 ## The 2-minute tour

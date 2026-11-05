@@ -1,7 +1,7 @@
 # How the Tableau dashboard is built
 
 Live: [Olist seller book on Tableau Public](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook).
-Workbook: `data/tableau/olist_seller_book.twbx`. It is also embedded in the live page's **Tableau dashboard** tab.
+Workbook: `data/tableau/olist_seller_book.twbx`. It is also embedded on the live page, right below the driver tree.
 
 **The question it answers:** on June 30, 2018, which active sellers are about to stop selling, where are they, and how much in sales is at stake?
 
