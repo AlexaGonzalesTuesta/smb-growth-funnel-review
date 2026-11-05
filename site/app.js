@@ -202,7 +202,7 @@
   function selectTab(id) { S.tab = id; save(); renderTabs(); }
   function showPanel() {
     if (!TABS.some(function (t) { return t[0] === S.tab; })) S.tab = "findings";
-    ["findings", "channels", "sellers", "reps", "regions", "risk", "method"].forEach(function (id) { $("panel-" + id).hidden = id !== S.tab; });
+    TABS.forEach(function (t) { var el = $("panel-" + t[0]); if (el) el.hidden = t[0] !== S.tab; });
   }
   function loadTableau() {
     var url = tableauUrl(), box = $("tableau-frame");
@@ -212,7 +212,7 @@
   }
   function setupTableauLinks() {
     var url = tableauUrl(), page = (window.REVIEW_CONFIG || {}).tableauPage || url;
-    $("tableau-section").hidden = !url; $("tableau-top").hidden = !url;
+    ["tableau-section", "tableau-top"].forEach(function (id) { var el = $(id); if (el) el.hidden = !url; });
     if (!url) return;
     $("tableau-open").href = page;
     // Load the embed only when the section is close to the screen, so the page itself stays fast.
@@ -519,10 +519,16 @@
       BASE = { leads: D.tree.leads, win_rate: D.tree.win_rate, activation_rate: D.tree.activation_rate, gmv_per_active: D.tree.gmv_per_active };
       S = load();
       $("loading").hidden = true; $("app").hidden = false;
-      renderAll();
+      try { renderAll(); } catch (e) {
+        // Usually an old cached copy of the page mixed with new files: clear saved state and try once more.
+        try { localStorage.removeItem(STORE); } catch (x) { /* ignore */ }
+        S = defaults(); renderAll();
+      }
     }).catch(function (err) {
       $("loading").hidden = true; $("error").hidden = false;
-      $("error-msg").textContent = (navigator.onLine ? "data.json could not be read (" + err.message + ")" : "You're offline, so data.json could not be downloaded") + ". Check your connection, then try again.";
+      $("error-msg").textContent = navigator.onLine
+        ? "Something went wrong loading the review (" + err.message + "). Press Ctrl + Shift + R to reload the latest version."
+        : "You're offline, so the review data could not be downloaded. Check your connection, then try again.";
     });
   }
 

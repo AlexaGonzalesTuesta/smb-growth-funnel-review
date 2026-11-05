@@ -29,6 +29,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Rebuild the review from the raw data
         run: python -m growth.build
+      - name: Stamp file versions so browsers never mix old and new files
+        run: sed -i "s/?v=dev/?v=${GITHUB_SHA::7}/g" site/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
