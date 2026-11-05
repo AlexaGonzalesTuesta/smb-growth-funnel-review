@@ -73,10 +73,10 @@
     return {
       win: bestWin, act: bestAct, paid: paid,
       text: {
-        leads: "Each +10% is " + n0(BASE.leads * 0.1) + " more leads to buy",
-        win_rate: "Best tracked source: " + bestWin.label.toLowerCase() + " at " + pct(bestWin.win_rate),
-        activation_rate: "Paid search: " + pct(paid.activation_rate, 0) + ". " + bestAct.label + ": " + pct(bestAct.activation_rate, 0),
-        gmv_per_active: "Median seller sold " + money(D.concentration.median_gmv_active) + "; a few large sellers lift the mean"
+        leads: "+10% = " + n0(BASE.leads * 0.1) + " more leads",
+        win_rate: "Best source: " + pct(bestWin.win_rate),
+        activation_rate: "Paid search: " + pct(paid.activation_rate, 0),
+        gmv_per_active: "Median seller: " + money(D.concentration.median_gmv_active)
       }
     };
   }
@@ -91,7 +91,7 @@
         '<div class="term-value">' + L.fmt(v) + "</div>" +
         '<div class="term-base">' + (changed ? "Actual " + L.fmt(BASE[L.key]) : "Actual") + "</div>" +
         '<input type="range" id="lv-' + L.key + '" min="' + L.min() + '" max="' + L.max() + '" step="' + L.step + '" value="' + v + '" aria-valuetext="' + esc(L.fmt(v)) + '">' +
-        '<div class="term-bench">' + esc(bm.text[L.key]) + "</div></div>";
+        '<div class="term-bench" title="' + esc(bm.text[L.key]) + '">' + esc(bm.text[L.key]) + "</div></div>";
       html += '<div class="op" aria-hidden="true">' + (i < 3 ? "×" : "=") + "</div>";
     });
     var g = gmvOf(S.levers), base = D.tree.gmv, dlt = g / base - 1;
@@ -212,7 +212,7 @@
   }
   function setupTableauLinks() {
     var url = tableauUrl(), page = (window.REVIEW_CONFIG || {}).tableauPage || url;
-    $("tableau-section").hidden = !url; $("tableau-top").hidden = !url; $("tableau-jump").hidden = !url;
+    $("tableau-section").hidden = !url; $("tableau-top").hidden = !url;
     if (!url) return;
     $("tableau-open").href = page;
     // Load the embed only when the section is close to the screen, so the page itself stays fast.
