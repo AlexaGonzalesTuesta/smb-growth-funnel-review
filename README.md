@@ -10,7 +10,7 @@ Loads in about a second, no sign-up. Drag any driver, try the three scenarios, c
 
 ![Demo: dragging the activation driver, comparing scenarios, opening Paraná's at-risk sellers and revealing what happened next](docs/images/demo.gif)
 
-The live page also embeds the [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook) right under the driver tree.
+The live page also embeds the [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook) on its own **Tableau** page.
 
 ## Why this exists
 
@@ -26,14 +26,14 @@ The data is the real, public [Olist](https://www.kaggle.com/datasets/olistbr/mar
 * **It refuses to rank people on noise.** Every rate has a 90% interval. Reps' activation ranges from 29% to 59%, but no rep is statistically different from the team, and the page says so instead of building a leaderboard.
 * **The at-risk list is graded on the future.** The model is trained on the March 31 seller book and tested on the June 30 book, which it never saw. Flip one switch to see which flagged sellers really stopped selling.
 * **It flags its own traps.** One seller produced 25% of new-seller GMV, so channels are compared on win and activation rates, not GMV per lead.
-* **Also in Tableau.** The June 30 seller book is rebuilt as a [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook): headline KPIs, a map of sales at risk by state, at-risk share by state, and the flagged seller list, all linked by filter and highlight actions. It is embedded right on the live page, below the driver tree, and the workbook is in `data/tableau/olist_seller_book.twbx`.
+* **Also in Tableau.** The June 30 seller book is rebuilt as a [Tableau Public dashboard](https://public.tableau.com/app/profile/alexa.gonzales.tuesta/viz/OlistSellerBook/Sellerbook): headline KPIs, a map of sales at risk by state, at-risk share by state, and the flagged seller list, all linked by filter and highlight actions. It has its own **Tableau** page on the live site, and the workbook is in `data/tableau/olist_seller_book.twbx`.
 * **SQL first.** Every metric is a DuckDB SQL model over the raw Kaggle files. Python only runs the models and fits two logistic regressions.
 
 ## The 2-minute tour
 
 1. Open the [live review](https://alexagonzalestuesta.github.io/smb-growth-funnel-review/).
-2. Click **Buy 20% more leads**, then **Raise activation to the paid-search rate**. The second one is worth more (+30% vs +20%) and needs no new acquisition spend.
-3. Scroll to the Tableau dashboard and click **SP** (São Paulo) on the map: the KPIs and the at-risk seller list filter to that state.
+2. On **Growth model**, pick **Buy 20% more leads** from the Scenario menu, then **Raise activation to the paid-search rate**. The second one is worth more (+30% vs +20%) and needs no new acquisition spend.
+3. Open **Tableau** in the left menu and click **SP** (São Paulo) on the map: the KPIs and the at-risk seller list filter to that state.
 4. Open **Lead sources**. Paid search is the only source whose signed sellers activate above the team rate.
 5. Open **Regions** and click **PR** (Paraná): the second-largest state, GMV down 18% quarter over quarter, 29% of its sellers flagged. Click **See 30 at-risk sellers in Paraná**.
 6. Turn on **Show what happened by August 28, 2018**.

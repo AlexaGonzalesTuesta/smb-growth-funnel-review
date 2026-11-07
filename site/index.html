@@ -3,140 +3,118 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>New-seller growth review | Olist marketplace</title>
+<title>Seller Growth Review | Olist marketplace</title>
 <meta name="description" content="A weekly business review for a scaled sales team, built on the real Olist marketplace data: where the growth goal leaks between lead, signed seller, first sale and ramp.">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css?v=dev">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='3' fill='%23B42318'/%3E%3Cpath d='M7 22h4v-6H7zm7 0h4V10h-4zm7 0h4v-9h-4z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23c2461a'/%3E%3Cpath d='M8 23h4v-6H8zm6 0h4V10h-4zm6 0h4v-9h-4z' fill='%23fff'/%3E%3C/svg%3E">
 </head>
 <body>
 <a class="skip" href="#main">Skip to the review</a>
-<div id="offline" class="banner" role="status" hidden>You're offline. Everything already loaded keeps working; reload once you're back online to fetch updates.</div>
-
-<header class="top">
-  <div class="wrap top-row">
-    <div class="brand">
-      <svg viewBox="0 0 32 32" width="22" height="22" aria-hidden="true"><rect width="32" height="32" rx="3" fill="#B42318"/><path d="M7 22h4v-6H7zm7 0h4V10h-4zm7 0h4v-9h-4z" fill="#fff"/></svg>
-      <span>New-seller growth review</span>
-    </div>
-    <p class="source">Real data: Olist marketplace, Brazil. <span id="meta-window"></span></p>
-    <a class="repo" id="tableau-top" href="#tableau-section" hidden>Tableau dashboard</a>
-    <a class="repo" href="https://github.com/AlexaGonzalesTuesta/smb-growth-funnel-review">Code on GitHub</a>
-  </div>
+<header class="topbar">
+  <div class="product"><span class="logo" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M8 23h4v-6H8zm6 0h4V10h-4zm6 0h4v-9h-4z" fill="#fff"/></svg></span>Seller Growth Review</div>
+  <div class="workspace">Olist marketplace, Brazil <span id="meta-window"></span></div>
+  <div class="top-right"><div class="more" id="more"></div></div>
 </header>
+<div id="offline" class="banner" role="status" hidden>Offline. Everything already loaded keeps working.</div>
 
-<main id="main" class="wrap">
-  <div id="loading" class="state-panel" aria-live="polite">
-    <div class="skeleton wide"></div><div class="skeleton"></div><div class="skeleton row"></div>
-    <p>Loading the review data</p>
-  </div>
-  <div id="error" class="state-panel error" role="alert" hidden>
-    <h2>The review data didn't load</h2>
-    <p id="error-msg">data.json could not be read. Check your connection, then try again.</p>
-    <button type="button" class="btn" id="retry">Try again</button>
-  </div>
+<div class="shell">
+  <nav class="side" id="nav" aria-label="Review pages"></nav>
 
-  <div id="app" hidden>
-    <section class="intro" aria-labelledby="intro-h">
-      <h1 id="intro-h">Where new-seller growth leaks</h1>
-      <p class="lede">Drag a driver or try a scenario, then explore the same seller book in Tableau right below. <span id="lead-count"></span> real Olist leads, January to April 2018.</p>
-    </section>
+  <main id="main">
+    <div id="loading" class="state loading" aria-live="polite">Loading the review data…</div>
+    <div id="error" class="state error" role="alert" hidden>
+      <h1>The review data didn't load</h1>
+      <p id="error-msg">data.json could not be read. Check your connection, then try again.</p>
+      <button type="button" class="btn" id="retry">Try again</button>
+    </div>
 
-    <section class="equation-block" aria-label="Driver tree">
-      <div class="equation" id="equation"></div>
-      <div class="eq-foot">
-        <div class="scenarios" role="group" aria-label="Guided scenarios">
-          <span class="scen-label">Try a scenario</span>
-          <div id="scenario-buttons" class="scen-buttons"></div>
+    <div id="app" hidden>
+      <section class="panel" id="panel-model" aria-labelledby="h-model">
+        <h1 class="page-title" id="h-model">Growth model</h1>
+        <p class="instructions">Drag any driver or pick a scenario to see what it does to new-seller GMV from <span id="lead-count"></span> real Olist leads.</p>
+        <div class="toolbar">
+          <select id="scenario" aria-label="Scenario"></select>
         </div>
-        <button type="button" class="btn ghost" id="reset">Reset my changes</button>
-      </div>
-      <p id="scenario-note" class="scen-note" aria-live="polite"></p>
-    </section>
+        <div class="equation" id="equation"></div>
+        <p id="scenario-note" class="scen-note" aria-live="polite"></p>
+      </section>
 
-    <section id="tableau-section" class="tableau-section" aria-labelledby="tableau-h" hidden>
-      <div class="tableau-head">
-        <div>
-          <h2 id="tableau-h">The seller book in Tableau</h2>
-          <p>Click a state to filter the KPIs and the at-risk seller list. Same data as this page, as of June 30, 2018.</p>
+      <section class="panel" id="panel-findings" aria-labelledby="h-findings" hidden>
+        <h1 class="page-title" id="h-findings">Findings</h1>
+        <p class="instructions">What this lead cohort shows, and the action each finding calls for. Hover a bar for its numbers.</p>
+        <ol class="findings" id="findings"></ol>
+        <div class="split">
+          <figure class="fig"><figcaption>Days from signing to first sale</figcaption><div id="timing-chart" class="chart"></div></figure>
+          <figure class="fig"><figcaption>90-day GMV by scenario</figcaption><div id="scenario-chart" class="chart"></div></figure>
         </div>
-        <a class="btn ghost" id="tableau-open" href="#" target="_blank" rel="noopener">Open in Tableau Public</a>
-      </div>
-      <div id="tableau-frame" class="tableau-frame"><p class="muted">Loading the Tableau dashboard. It can take a few seconds.</p></div>
-    </section>
+      </section>
 
+      <section class="panel" id="panel-channels" aria-labelledby="h-channels" hidden>
+        <h1 class="page-title" id="h-channels">Lead sources</h1>
+        <p class="instructions">Each lead source through the whole funnel. A source is only called above or below the team when its 90% interval clears the team rate (dashed line).</p>
+        <div class="table-wrap"><table class="data" id="channel-table"></table></div>
+      </section>
 
-    <nav class="tabs" role="tablist" aria-label="Review sections" id="tabs"></nav>
+      <section class="panel" id="panel-sellers" aria-labelledby="h-sellers" hidden>
+        <h1 class="page-title" id="h-sellers">Seller types</h1>
+        <p class="instructions">Share of signed sellers with a first sale within 90 days, by what sales knew at signing. The dashed line is the team rate.</p>
+        <div class="tabs" role="tablist" id="seller-tabs"></div>
+        <div id="leadtype-chart" class="chart"></div>
+        <div id="segment-chart" class="chart" hidden></div>
+      </section>
 
-    <section class="panel" role="tabpanel" id="panel-findings" aria-labelledby="tab-findings">
-      <ol class="findings" id="findings"></ol>
-      <div class="split">
-        <figure class="fig">
-          <figcaption><strong>When activated sellers made their first sale</strong><span>Days after signing, all <span id="timing-n"></span> activated sellers signed by May 31, 2018</span></figcaption>
-          <div id="timing-chart" class="chart"></div>
-        </figure>
-        <figure class="fig">
-          <figcaption><strong>What each scenario is worth</strong><span>90-day GMV from this lead cohort, today vs scenario</span></figcaption>
-          <div id="scenario-chart" class="chart"></div>
-        </figure>
-      </div>
-    </section>
+      <section class="panel" id="panel-reps" aria-labelledby="h-reps" hidden>
+        <h1 class="page-title" id="h-reps">Reps</h1>
+        <p class="instructions">Activation of each rep's signed sellers, with 90% intervals. <span id="reps-sub"></span>. Rep IDs are anonymized and renumbered by deal volume.</p>
+        <div id="rep-chart" class="chart"></div>
+      </section>
 
-    <section class="panel" role="tabpanel" id="panel-channels" aria-labelledby="tab-channels" hidden>
-      <p class="panel-lede">Each lead source, through the whole funnel. Activation dots carry a 90% interval; a source is only called above or below the team when its interval clears the team rate.</p>
-      <div class="table-wrap"><table class="data" id="channel-table"></table></div>
-    </section>
-
-    <section class="panel" role="tabpanel" id="panel-sellers" aria-labelledby="tab-sellers" hidden>
-      <p class="panel-lede">Share of signed sellers who made a first sale within 90 days, by what the sales team knew at signing. The line is the team rate.</p>
-      <div class="split">
-        <figure class="fig"><figcaption><strong>By lead type</strong><span>Deals won by May 31, 2018</span></figcaption><div id="leadtype-chart" class="chart"></div></figure>
-        <figure class="fig"><figcaption><strong>By business type and segment</strong><span>Segments with 15+ deals</span></figcaption><div id="segment-chart" class="chart"></div></figure>
-      </div>
-    </section>
-
-    <section class="panel" role="tabpanel" id="panel-reps" aria-labelledby="tab-reps" hidden>
-      <p class="panel-lede">Activation of each sales rep's signed sellers, with 90% intervals. Rep IDs are anonymized in the source data and renumbered here by deal volume.</p>
-      <figure class="fig"><figcaption><strong>Activation by rep</strong><span id="reps-sub"></span></figcaption><div id="rep-chart" class="chart"></div></figure>
-    </section>
-
-    <section class="panel" role="tabpanel" id="panel-regions" aria-labelledby="tab-regions" hidden>
-      <div class="region-head">
-        <p class="panel-lede">The active seller book by state, as of <span class="asof"></span>. Click a state to see its at-risk sellers.</p>
-        <div class="seg-control" role="radiogroup" aria-label="Map metric" id="map-metric"></div>
-      </div>
-      <div class="region-grid">
-        <div><div id="tile-map" class="tile-map" role="group" aria-label="Brazil states"></div></div>
-        <aside id="state-detail" class="state-detail" aria-live="polite"></aside>
-      </div>
-      <div id="map-legend" class="map-legend"></div>
-      <div class="table-wrap state-table"><table class="data" id="state-table"></table></div>
-    </section>
-
-    <section class="panel" role="tabpanel" id="panel-risk" aria-labelledby="tab-risk" hidden>
-      <div class="risk-head">
-        <p class="panel-lede" id="risk-lede"></p>
-        <div class="risk-controls">
-          <label for="state-filter">State</label>
-          <select id="state-filter"></select>
-          <label class="switch"><input type="checkbox" id="reveal"><span>Show what happened by <span class="horizon-end"></span></span></label>
+      <section class="panel" id="panel-regions" aria-labelledby="h-regions" hidden>
+        <h1 class="page-title" id="h-regions">Regions</h1>
+        <p class="instructions">The active seller book by state, as of <span class="asof"></span>. Click a state to see its numbers and at-risk sellers.</p>
+        <div class="tabs" role="tablist" aria-label="Map metric" id="map-metric"></div>
+        <div class="region-grid">
+          <div>
+            <div id="tile-map" class="tile-map" role="group" aria-label="Brazil states"></div>
+            <div id="map-legend" class="map-legend"></div>
+          </div>
+          <aside id="state-detail" class="state-detail" aria-live="polite"></aside>
         </div>
-      </div>
-      <div id="risk-score" class="risk-score" aria-live="polite"></div>
-      <div class="table-wrap"><table class="data" id="risk-table"></table></div>
-      <div id="risk-empty" class="empty" hidden></div>
-      <div class="pager"><button type="button" class="btn ghost" id="more">Show 25 more</button></div>
-    </section>
+        <div class="table-wrap state-table"><table class="data" id="state-table"></table></div>
+      </section>
 
-    <section class="panel" role="tabpanel" id="panel-method" aria-labelledby="tab-method" hidden>
-      <div class="method" id="method"></div>
-    </section>
-  </div>
-</main>
+      <section class="panel" id="panel-risk" aria-labelledby="h-risk" hidden>
+        <h1 class="page-title" id="h-risk">At-risk sellers</h1>
+        <p class="instructions" id="risk-lede"></p>
+        <div class="toolbar">
+          <select id="state-filter" aria-label="State"></select>
+          <label class="switch"><input type="checkbox" id="reveal"><span class="track" aria-hidden="true"></span><span>Show what happened by <span class="horizon-end"></span></span></label>
+        </div>
+        <div id="risk-score" class="kpis" aria-live="polite"></div>
+        <div class="table-wrap"><table class="data" id="risk-table"></table></div>
+        <div id="risk-empty" class="empty" hidden></div>
+        <div class="pager"><button type="button" class="link-btn" id="more-rows">Show 25 more</button></div>
+      </section>
 
-<footer class="foot wrap">
-  <p>Built by Alexa Gonzales-Tuesta. Data: Olist, <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Brazilian E-Commerce</a> and <a href="https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist">Marketing Funnel</a> datasets on Kaggle (CC BY-NC-SA 4.0). Your changes are saved only in this browser.</p>
-</footer>
+      <section class="panel" id="panel-tableau" aria-labelledby="h-tableau" hidden>
+        <h1 class="page-title" id="h-tableau">Tableau</h1>
+        <p class="instructions">The same seller book, rebuilt in Tableau Public. Click a state on the map to filter the KPIs and the at-risk seller list.</p>
+        <div id="tableau-frame" class="tableau-frame"><p class="state loading">Loading the Tableau dashboard…</p></div>
+      </section>
+
+      <section class="panel" id="panel-method" aria-labelledby="h-method" hidden>
+        <h1 class="page-title" id="h-method">Method</h1>
+        <p class="instructions">Where the data comes from and how every number on this site is calculated.</p>
+        <dl class="method" id="method"></dl>
+      </section>
+
+      <p class="foot">Built by Alexa Gonzales-Tuesta. Data: Olist <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Brazilian E-Commerce</a> and <a href="https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist">Marketing Funnel</a> on Kaggle (CC BY-NC-SA 4.0). Your changes are saved only in this browser.</p>
+    </div>
+  </main>
+</div>
 <div id="tip" class="tip" role="tooltip" hidden></div>
 <script src="config.js?v=dev"></script>
 <script src="app.js?v=dev"></script>
